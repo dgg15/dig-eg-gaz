@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -39,30 +38,29 @@
                 </div>
             </div>
             <div type="page" n="2"></div>
-            <div type="page" n="3">THE EGYPTIAN GAZETTE, TUESDAY, MAY 2, 1905.
-
-<head>THE BALTIC FLEET.</head>
+            <div type="page" n="3">
+<div type="item"><head>THE BALTIC FLEET.</head>
 <head>OUTSIDE TERRITORIAL WATERS.</head>
 <head>FRENCH NEUTRALITY AGAIN.</head>
 
-<p>London, May 1.</p>
+<dateline>London, May 1.</dateline>
 <p>Renter’s Agency learns from Tsing-Tau that
 the Baltic fleet, including Niebogatoff’s sqa-
-dron, is near Hainan Isle.	(Reuter.)</p>
+dron, is near Hainan Isle.	(Reuter.)</p></div>
 
-<p>Saigon, May 1.</p>
+<div type="item"><dateline>Saigon, May 1.</dateline>
 <p>The Baltic fleet is lying off port Dayet and
 in the Bay of Binkoi, 40 miles north of Kama-
 ranh, outside territorial waters. The transports
 are still at Saigon.
 The Tsing-Tan report is wholly premature.
 (Reuter.)</p>
-
-<p>Saigon, May 1.</p>
+</div>
+<div type="item"><dateline>Saigon, May 1.</dateline>
 <p>The Russian squadron is stationed at Dayet,
-40 miles north of Kamaranh Bay. (Havas.)</p>
+40 miles north of Kamaranh Bay. (Havas.)</p></div>
 
-<p>Tokio, May 1.</p>
+<div type="item"><dateline>Tokio, May 1.</dateline>
 <p>It Is believed that Admiral Rodjestveosky
 continues to use the ports of Indo-China for
 coal and supplies.
@@ -70,11 +68,12 @@ The newspapers are again questioning the
 faith of Prance's assurances. The Government
 is silent, but it is believed that it is preparing
 for renewed representations.	(Reuter.)</p>
-
-<head>RUSSIAN TOLERATION DECREE.</head>
+</div>
+            	
+<div type="item"><head>RUSSIAN TOLERATION DECREE.</head>
 <head>COMPLETE RELIGIOUS FREEDOM.</head>
                 
-<p>St. Petersburg, April 30.</p> 
+<dateline>St. Petersburg, April 30.</dateline> 
 <p>Ukases have been issued remitting the
 arrears of Government loans made to the
 peasants during the bad harvest years from |
@@ -84,29 +83,29 @@ also remove most of the disabilities amongst
 the unorthodox sects regarding freedom of
 worship and civil rights, include Mohamedans
 and Buddhists, who are no longer officially
-qualified as heathens,	(R.)</p>
+qualified as heathens,	(R.)</p></div>
 
-<p>St. Petersburg, April 30.</p>
+<div type="item"><dateline>St. Petersburg, April 30.</dateline>
 <p>A ukase has been issued remitting the debts
 to the State of the peasants in the various
-governments.	(Havas.)</p>
+governments.	(Havas.)</p></div>
                 
-<p>St. Petersburg, May 1.</p>
+<div type="item"><dateline>St. Petersburg, May 1.</dateline>
 <p>The Russian toleration decree does not
 provide for the relaxation of the anti-Jewish
-restrictions.	(Reuter.)</p>
+restrictions.	(Reuter.)</p></div>
 
-<p>St. Petersburg, May 1.</p>
+<div type="item"><dateline>St. Petersburg, May 1.</dateline>
 <p>The ukase establishing practically complete 
 religious freedom for all creeds has been re-
 ceived with enthusiasm throughout Russia. It 
 is hailed as the greatest concession to liberal 
-thought yet granted.    (R.)</p>
+thought yet granted.    (R.)</p></div>
 
-<head>LESSONS OF THE WAR.</head>
+<div type="item"><head>LESSONS OF THE WAR.</head>
 <head>NEW TYPE OF BATTLESHIP.</head>
                 
-<p>Gosport, April 29.</p>
+<dateline>Gosport, April 29.</dateline>
 <p>Mr. Lee, Civil Lord of the Admiralty, speak-
 ing here, said the Admiralty proposed to lay
 down in the autumn at Portsmouth the
@@ -118,50 +117,51 @@ design, as a result of the lessons learned from
 the Russo-Japanese war. The recent lull in the
 construction of our warships was to enable such
 lessons to be considered and utilized. (Reuter.)</p>
-
-<head>NAVAL MOVEMENTS.</head>
+</div>
+            	
+<div type="item"><head>NAVAL MOVEMENTS.</head>
                 
-<p>Gibraltar. April 30.</p>
+<dateline>Gibraltar, April 30.</dateline>
 <p>Six destroyers are leaving here for Malta.
 They will he docked prior to proceeding to
-China. (Reuter.)</p>
+China. (Reuter.)</p></div>
 
-<head>JAPANESE LOAN.</head>
+<div type="item"><head>JAPANESE LOAN.</head>
 
-<p>Tokio, May 1.</p>
+<dateline>Tokio, May 1.</dateline>
 <p>The Japanese loan mentioned on the 18th
-inst, has been over subscribed 5 times. (R.)</p>
+inst, has been over subscribed 5 times. (R.)</p></div>
 
-<head>PRINCE MOHAMED ALY AT PARIS.</head>
+<div type="item"><head>PRINCE MOHAMED ALY AT PARIS.</head>
 
-<p>Paris, April 30.</p>
-<p>Prince Mohamed Aly has arrived. (H.)</p>
+<dateline>Paris, April 30.</dateline>
+<p>Prince Mohamed Aly has arrived. (H.)</p></div>
 
-<head>THE ENTENTE CORDIALE.</head>
+<div type="item"><head>THE ENTENTE CORDIALE.</head>
 <head>KING’S PARIS VISIT.</head>
 <head>ENTHUSIASTIC RECEPTION.</head>
 
-<p>Marseilles, April 29.</p>
+<dateline>Marseilles, April 29.</dateline>
 <p>The King has left for Paris. His Majesty
-received a great popular ovation. (Reuter.)</p>
+received a great popular ovation. (Reuter.)</p></div>
 
-<p>Paris, April 29.</p>
+<div type="item"><dateline>Paris, April 29.</dateline>
 <p>The King of England has arrived; he was
-greatly cheered.	            (Havas.)</p>
+greatly cheered.	            (Havas.)</p></div>
 
-<p>Paris, April 30.</p>
+<div type="item"><dateline>Paris, April 30.</dateline>
 <p>The King of England arrived here yesterday
 evening. His arrival was quite private and
 unofficial. The Queen does not accompany
 him, her Majesty continuing her cruise in the
-Mediterranean.	                   (Reuter.)</p>
+Mediterranean.	                   (Reuter.)</p></div>
 
-<p>Paris, April 30.</p>
+<div type="item"><dateline>Paris, April 30.</dateline>
 <p>King Edward, at a dinner at the Elysee,
 showed an affectionate cordiality towards M.
-Loubet.	                           (Havas.)</p>
+Loubet.	                           (Havas.)</p></div>
 
-<p>Paris, May 1.</p>
+<div type="item"><dateline>Paris, May 1.</dateline>
 <p>The King of England and M. Loubet have
 exchanged the most cordial visits this after-
 noon. Crowds, who were waiting patiently
@@ -172,24 +172,24 @@ for 20 minutes. The King received Admiral
 Fournier and congratulated him on the way he
 conducted the North Sea inquiry, and con-
 ferred on him the Order of St Michael and St.
-George.</p>
-<p>A State banquet took place at the Elysee in
-the evening.	                    (Reuter.)</p>
+George.</p></div>
+<div type="item"><p>A State banquet took place at the Elysee in
+the evening.	                    (Reuter.)</p></div>
 
-<p>Paris, May 1.</p>
+<div type="item"><dateline>Paris, May 1.</dateline>
 <p>The King attended the St. Cloud races. He
 was the object of the most hearty demonstra-
-tions everywhere.             	(Reuter.)</p>
+tions everywhere.             	(Reuter.)</p></div>
                 
-<p>London, April 29</p>
+<div type="item"><dateline>London, April 29</dateline>
 <p>The British fleet will visit Brest from the
-10th to the 17th July.	        (Reuter.)</p>
+10th to the 17th July.	        (Reuter.)</p></div>
 
 
-<head>THE MOROCCO QUESTION.</head>
+<div type="item"><head>THE MOROCCO QUESTION.</head>
 <head>GERMAN EXPLANATION.</head>
 
-<p>Tangier, April 29.</p>
+<dateline>Tangier, April 29.</dateline>
 <p>Count Tattenbach, in an interview with
 Reuter's correspondent, said that the mission
 to Fez was to thank the Sultan for the Emperor
@@ -203,9 +203,9 @@ patibility of private agreements with the inter-
 national Madrid Convention. France now
 offered to enter into pourparlers but Germany
 could not go behind the Madrid Convention.
-                              ( Reuter.)</p>
+                              ( Reuter.)</p></div>
 
-<p>Tangier, April 30.</p>
+<div type="item"><dateline>Tangier, April 30.</dateline>
 <p>In his interview with Reuter's correspon-
 dent, Count Tattenbach said that Germany
 needed room for expansion for her population.
@@ -213,113 +213,113 @@ Her colonies were few and small. He would
 warmly support an international conference if
 Morocco proposed it.</p>
 <p>The French negotiations are not progressing
-pending the arrival of Count Tattenbach. (R.)</p>
+pending the arrival of Count Tattenbach. (R.)</p></div>
 
-<head>PERSONAL AND SOCIAL</head>
+<div type="item"><head>PERSONAL AND SOCIAL</head>
 
 <p>It is stated that the successor to Mahmoud
 Pasha Sidky as Governor of Alexandria will
 be Mustapha Pasha Maher, the Moudir of
 Dakahlieh, and that the present Governor will
-be appointed to the Wakfs Administration.</p>
+be appointed to the Wakfs Administration.</p></div>
 
-<p>H. E. the Governor returned to Alexandria
+<div type="item"><p>H. E. the Governor returned to Alexandria
 yesterday.</p>
+</div>
+<div type="item"><p>Baron Acton, Italian Consul-General at
+Alexandria, returned from Italy on Sunday.</p></div>
 
-<p>Baron Acton, Italian Consul-General at
-Alexandria, returned from Italy on Sunday.</p>
-
-<p>Sir Henry Tanner, I.S.O., F.R.I.B.A., F.S.I.
+<div type="item"><p>Sir Henry Tanner, I.S.O., F.R.I.B.A., F.S.I.
 Principal Architect of H.M.’s Office of Works,
 was among the passengrs who arrived yester-
 day from Marseilles by the S. s. “Hohenzol-
-lern.”</p>
+lern.”</p></div>
 
-<p>Among the latest arrivals at the Eastern
+<div type="item"><p>Among the latest arrivals at the Eastern
 Exchange Hotel, Port Said, are Mr. Maurice
 Stubbs, Mr. A. Pillett, Mr. P. Cooke, Capt.
 Murray, Mr. W. E. Bennett, Mr. A. L. Goldie,
 Mr. J. W. Norton, Miss Ailfen, Miss Robins,
 Mr. and Miss Muntz, Miss Laing, Mr. N. N.
 Tabet, Mrs. L. Stuart, Mr. A. Tissier, Mr. G.
-M. Dawson.</p>
+M. Dawson.</p></div>
 
-<head>LOCAL AND GENERAL</head>
+<div type="item"><head>LOCAL AND GENERAL</head>
 
 <p>A New Stockbroking Firm has been form-
 ed at Cairo under the style of H. de Vries
 and Boutigny. M. Boutigny is the editor of
-“La Bourse Egyptienne."</p>
+“La Bourse Egyptienne."</p></div>
 
-<p>Alhambra Theatre.—The Magnani operet-
+<div type="item"><p>Alhambra Theatre.—The Magnani operet-
 ta company arrived at Alexandria from Italy
 on Sunday and will open at the Albambra this
-evening in Strauss's Primavera Scapigliata.</p>
+evening in Strauss's Primavera Scapigliata.</p></div>
 
-<p>Sailors and Soldiers' Institute— A con-
+<div type="item"><p>Sailors and Soldiers' Institute— A con-
 cert will be given at the institute to-morrow
 evening, commencing at 8 o’clock. The pro-
 gramme is a most varied and attractive one,
-containing no less than 18 items.</p>
+containing no less than 18 items.</p></div>
 
-<p>Suez Canal— 20 vessels passed through
+<div type="item"><p>Suez Canal— 20 vessels passed through
 the Canal on the 27th and 28th of April,
 16 of which were British, 2 German, 1 French,
 1 Egyptian. The receipts for the two days
 were frs. 542,157.51, making the total from the
-1st April frs. 9,403,605. </p>
+1st April frs. 9,403,605. </p></div>
 
-<p>A Route March was carried out yesterday
+<div type="item"><p>A Route March was carried out yesterday
 morning by the 2nd Battalion R.Berks. Regi-
 ment. The battalion left Mustapha barracks at
 6 a.m. and marched, via Sidi Gaber, Rosetta-
 road, Cherif Pasha street, and Ramledi boulevard,
-r turning to Mustapha shortly after 8 o'clock.</p>
+r turning to Mustapha shortly after 8 o'clock.</p></div>
 
-<p>Ports and Lighthouses Administration.—
+<div type="item"><p>Ports and Lighthouses Administration.—
 A Khedivial decree has been promulgated to
 alter the official title of the chief of the Ports
 and Lighthouses Administration, who will-
 henceforth be enttlled Director-General of that
 administration. This decree came into force
-yesterday.</p>
+yesterday.</p></div>
 
-<p>A Khartoum Memento.— The cutting from
+<div type="item"><p>A Khartoum Memento.— The cutting from
 the rose tree of General Gordon's grave at
 Khartoum, planted with tender cafe in Hail-
 sham churchyard by the vicar, the Rev. F.
 Clyde, towards the close of last year, is, with
 the spring, putting forth its new shoots, and it
-promises to develop into a hardy specimen.</p>
-
-<p>The “Mahroussa."— On board the Khe-
+promises to develop into a hardy specimen.</p></div>
+            	
+<div type="item"><p>The “Mahroussa."— On board the Khe-
 dive's yacht at Glasgow very little of the
 deckwork amidships is now standing; the
 cabins below are being gutted out, and
 thoroughly overhauled. All signs of paddle-
 boxes have now completely disappeared, and
 the topsides present an almost entirely un-
-broken appearance.</p>
+broken appearance.</p></div>
 
-<p>Coal Imports.— From the 1st of January
+<div type="item"><p>Coal Imports.— From the 1st of January
 to the 26th of April the quantity of coal im-
 ported into Egypt was 250,040 tons. During
 the same period of lost year the imports were
 342,212 tons. This year Newcastle sent 60,669
 tons, the Welsh districts 195,352, the Scotch
 districts 27,640, Yorkshire 17,466, and other
-districts 8,913 tons.</p>
+districts 8,913 tons.</p></div>
 
-<p>A.L.M. and D.S.— A musical and dramatic
+<div type="item"><p>A.L.M. and D.S.— A musical and dramatic
 entertainment, under the auspices of the
 Alexandria Literary, Musical, and Dramatic
 Society, will take place in Alderson’s Garden
 Theatre, Bulkeley, on Friday, 12th inst. The
 programme includes the farce “Petticoat Per
 fidy," which has already been played with
-much success in the same theatre.</p>
+much success in the same theatre.</p></div>
 
-<p>German Choral Society.— The members
+<div type="item"><p>German Choral Society.— The members
 of the German choral society “Mannerchors,
 Eintracht” arrived at Cairo from Alexandria
 on Saturday evening and were met at the
@@ -327,9 +327,9 @@ station by many members of the German
 colony and the “Gesangverein Liederkrang.”
 A "kommers” was held in their honor and the
 members of the two societies gave a concert at
-the German Club on Sunday.</p>
+the German Club on Sunday.</p></div>
 
-<p>British Engineering Company of Egypt.—
+<div type="item"><p>British Engineering Company of Egypt.—
 The “Times,” after giving details of the new
 combine known as the British Engineering
 Company of Egypt, remarks, ‘This is certainly
@@ -338,9 +338,9 @@ trusted to accomplish a great deal in improving
 British engineering prestige in Egypt and the
 neighbouring province. Such a prospect is the
 more hopeful as political influence has now
-vanished from tho field of commercial rivalry."</p>
+vanished from tho field of commercial rivalry."</p></div>
 
-<p>Interesting Visitors.— In the autumn the
+<div type="item"><p>Interesting Visitors.— In the autumn the
 members of the British Association for the
 Advancement of Science will probably pay a
 visit to Cairo on their way from South Africa
@@ -363,9 +363,9 @@ Beira, touching at Zanzibar, Mombassa, and
 Suez, and thence to Cairo and Alexandria.
 They hope to be here during the early days of
 October, when they will be sure to meet with a
-hearty welcome.</p>
+hearty welcome.</p></div>
 
-<head>EXECUTION AT ALEXANDRIA.</head>
+<div type="item"><head>EXECUTION AT ALEXANDRIA.</head>
 <head>NEW EXECUTION CHAMBER USED.</head>
 
 <p>The first execution in the new execution
@@ -401,7 +401,7 @@ sioumi into eternity. A drop of 1.75 metres
 was allowed, death ensuing within seven
 seconds. The hoisting of the black flag over
 the prison tower indicated to the outside world
-that justice had been done.	
+that justice had been done.</p>	
 <p>The body was afterwards examined by Dr. 
 Choucry Bey, the police doctor, as well as the
 prison doctor. It was then taken in a prison van,
@@ -417,9 +417,9 @@ able, not a sound of any kind being heard.
 It is interesting to note that while Bassioumi,
 on entering the prison, weighed 60 kilos,
 at the time of his execution he weighed 8 kilos
-more.</p>
+more.</p></div>
 
-<head>MOHAMED ALY CENTENARY.</head>
+<div type="item"><head>MOHAMED ALY CENTENARY.</head>
 <head>A MADHOUSE MEMORIAL.</head>
 
 <p>A meeting was held on Sunday afternoon at
@@ -431,8 +431,8 @@ memorate the founder of the Khedivial Dynasty
 and the maker of modern Egypt would be to
 erect a madhouse! All the subscriptions re-
 ceived from private persons are to be devoted
-to the memorial.</p>
-<p>That Municipality will bear all the expenses
+to the memorial.</p></div>
+<div type="item"><p>That Municipality will bear all the expenses
 connected with the illuminations in Mohamed
 Aly-square and a grant of £1,000 is to
 be made for that purpose. If the cost
@@ -440,13 +440,13 @@ of the illuminations exceed the grant, the
 extra expenses will also be defrayed by the
 Municipality in order to keep the illumina-
 tions and the memorial totally distinct from
-one another.</p>
-<p>The madhouse is to be an international
+one another.</p></div>
+<div type="item"><p>The madhouse is to be an international
 institution and will be handed over to be
 administered by the Municipality when com-
-pleted.</p>
+pleted.</p></div>
 
-<head>THE MUNICIPAL LANDS.</head>
+<div type="item"><head>THE MUNICIPAL LANDS.</head>
 
 <p>The Alexandria Municipality’s estates at
 Chatby and Hadra have been parcelled out
@@ -455,25 +455,25 @@ scheme of “allotisement," which is only await-
 ing the approval of the Government, As
 soon as this has been obtained, the sales
 will begin. It is expected that this will be
-in about two months time.</p>
-<p>All the quay estate of the Municipality
+in about two months time.</p></div>
+<div type="item"><p>All the quay estate of the Municipality
 has been parcelled out except a few details as
 to the Gouvernorat and the land opposite
 the old Ramleh station. As soon as these
-matters are settled, the lands' will be sold.</p>
+matters are settled, the lands' will be sold.</p></div>
 
-<head>THE KHEDIVE.</head>
+<div type="item"><head>THE KHEDIVE.</head>
 
 <p>The Khedive will hold a reception at
 Ras el Tin Palace on Saturday next. The order
 in which visitors will be received will be
-published tomorrow.</p>
-<p>The Khedivah will hold a reception on the
-same day.</p>
-<p>His Highness will attend prayers next Fri-
-day at the Mosque of Abou el-Abbas.</p>
+published tomorrow.</p></div>
+<div type="item"><p>The Khedivah will hold a reception on the
+same day.</p></div>
+<div type="item"><p>His Highness will attend prayers next Fri-
+day at the Mosque of Abou el-Abbas.</p></div>
 
-<head>WHITE SLAVE TRAFFIC.</head>
+<div type="item"><head>WHITE SLAVE TRAFFIC.</head>
 
 <p>The other evening a meeting was held
 at the Italian Consulate in Cairo at which the
@@ -485,20 +485,20 @@ and we hear that Adly Pasha Yagher and
 Mansfield Pasha will confer with several of
 the European consulates, to arrange in concert
 with them the measures necessary for the
-suppression of this evil.</p>
+suppression of this evil.</p></div>
 
-<head>SUDAN ADMINISTRATION.</head>
+<div type="item"><head>SUDAN ADMINISTRATION.</head>
 
 <p>Messrs A. N. Wilkinson, L. S. Gorringe,
 H. Hellam, and J. Atterbury, inspectors of 
 the Slave Trade Department, have been
 appointed 2nd class magistrates under the
-Sudan Administration.</p>	
-<p>Bimbashi L. D. Spencer, 2nd class inspector,
+Sudan Administration.</p></div>	
+<div type="item"><p>Bimbashi L. D. Spencer, 2nd class inspector,
 Suskin Province, has been appointed 1st class
-judge.</p>
+judge.</p></div>
                 
-<head>BANDMANN-DALLAS OPERA.</head>
+<div type="item"><head>BANDMANN-DALLAS OPERA.</head>
 <head>THE EARL AND THE GIRL.</head>
 
 <p>Those who were in England last summer
@@ -544,9 +544,9 @@ of "The Nightingale’s Trill.”</p>
 to omit the song “Zanzibar,” which cannot be
 a success without the chorus and properties
 that helped to enhance it at the Vaudeville
-Theatre.</p>
+Theatre.</p></div>
 
-<head>SHEM EN-NESSIM AT CAIRO.</head> 
+<div type="item"><head>SHEM EN-NESSIM AT CAIRO.</head> 
 
 <p>The weather was most favorable to holiday-
 making round Cairo on Monday and large
@@ -563,8 +563,8 @@ numbers of the employes from the European
 shops, soldiers, conjurors, dancing-girls,
 fortune-tellers, — in short, samples of every
 class of the population of Cairo being on
-view there.</p>
-<p>In spite of the numbers of the trippers who
+view there.</p></div>
+<div type="item"><p>In spite of the numbers of the trippers who
 set out for the Barrage the railway authorities
 handled the throngs with remarkable success.
 The trains left to tho minute, room being found
@@ -577,9 +577,9 @@ past, it is evident that in dealing with holiday
 traffic it has learned all that can be learned,
 and we doubt whether any London station
 authorities could deal more successfully with
-trippers than their Cairo comrades.</p>
+trippers than their Cairo comrades.</p></div>
 
-<head>THE HOLY CITY.</head>
+<div type="item"><head>THE HOLY CITY.</head>
 <head>TO THE EDITOR OF THE EGYPTIAN GAZETTE</head>
 
 <p>Dear Mr. Editor, — I am very sorry my
@@ -594,8 +594,8 @@ Choirmaster's", sarcasm regarding the “aug
 mented choir’s” prodigality of time is rather 
 out of place. He no doubt thinks “prodigality”
 and “shekels” should go hand in hand, espe- 
-cially at Easter-time!</p>
-<p>I also particularly desire to state that I did
+cially at Easter-time!</p></div>
+<div type="item"><p>I also particularly desire to state that I did
 not wish it to be inferred that any one desired
 invidious praise, but that something more
 might have been said in the first report regard-
@@ -608,9 +608,9 @@ Apologising for again troubling you, and
 with the assurance that I shall not do so again
 on this matter, not even if smitten with
 Samson's weapons—I am, etc, ACCORD.</p>
-<p>Alexandria, May 1.</p>
+<dateline>Alexandria, May 1.</dateline></div>
 
-<head>STEAMER MOVEMENTS.</head>
+<div type="item"><head>STEAMER MOVEMENTS.</head>
 
 <p>The S.S. “Creole Prince" left London on
 Saturday with passengers and general cargo for
@@ -618,21 +618,21 @@ Malta and Alexandria.</p>
 <p>The S.S. "Spartan Prince" arrived in Man-
 chester from Alexandria yesterday.
 The Moss liner “Rameses” arrived at Liver-
-pool on Sunday.</p>
-<p>The Moss liner "Seti” sailed from Malta
+pool on Sunday.</p></div>
+<div type="item"><p>The Moss liner "Seti” sailed from Malta
 yesterday morning and is due here on Thurs-
-day afternoon.</p>
-<p>The Ellerman S.S. “Athenian" sailed from
+day afternoon.</p></div>
+<div type="item"><p>The Ellerman S.S. “Athenian" sailed from
 Liverpool on Saturday for Swansea, Malta and
-Alexandria.</p>
-<p>The Ellerman S.S. “Fabian” from Alexan-
-dria, arrived at Liverpool on Sunday.</p>
+Alexandria.</p></div>
+<div type="item"><p>The Ellerman S.S. “Fabian” from Alexan-
+dria, arrived at Liverpool on Sunday.</p></div>
 
-<head>NOTES FROM PORT SAID.</head>
+<div type="item"><head>NOTES FROM PORT SAID.</head>
 <head>BAD WEATHER.</head>
 <head>(From our Correspondent).</head>
                 
-<p>Port Said, Sunday.</p>
+<dateline>Port Said, Sunday.</dateline>
 <p>Last evening a breeze sprang up from the
 N.E. By midnight it was blowing half a gale
 and a strong surface current was running into
@@ -641,8 +641,8 @@ unprotected from all winds from N.E. to E. by
 S., and the result is that a heavy sea soon
 gets up in the port, and frequently many
 accidents occur when these winds are pre-
-valent.</p>
-<p>At 2 a.m. a large ship, the “Aladdin,”
+valent.</p></div>
+<div type="item"><p>At 2 a.m. a large ship, the “Aladdin,”
 coming into the harbour from sea, doubtless
 on account of the current sheared about
 the channel, and in her erratic course,
@@ -651,8 +651,8 @@ at once started to drag, but the officers very
 smartly sent ropes to the nearest buoy and
 held her till such time as assistance could be
 sent when she was tied up as securely as
-ever.</p>
-<p>This morning, about 10' o’clock, a big
+ever.</p></div>
+<div type="item"><p>This morning, about 10' o’clock, a big
 barge laden with timber, a local craft, was
 proceeding to sea, but soon after leaving the
 shelter of the inner harbour, she was struck
@@ -661,27 +661,27 @@ time filled her. Her cargo being planks of pine
 she could not sink, but she might easily, had it
 not been for the prompt aid given her by the
 Government Harbour department, have broken
-up in a few minutes.</p>
-<p>Now, at 3 p.m., the weather is inclined to
+up in a few minutes.</p></div>
+<div type="item"><p>Now, at 3 p.m., the weather is inclined to
 moderate, and the wind may go round
 to the south, in which case, particularly as
 we are supported to be in the thick of the
 khamseen season, we may look for another
 “roasting” such as we had only a week back,
 when in many places the thermometer regis-
-tered well past 10Q deg. Fahr. in the shade.</p>
+tered well past 10Q deg. Fahr. in the shade.</p></div>
 
 
-<head>THE S.S. "CANDLESHOE" </head>
+<div type="item"><head>THE S.S. "CANDLESHOE" </head>
 
 <p>The work of discharging this vessel still
 goes on. The entire contents of the flooded
 hold are quite ruined and will in all probability
 have to be destroyed as unfit for use. Surveys
 are to be held on the vessel when the hold is
-empty, some time next week.</p>
+empty, some time next week.</p></div>
 
-<head>THE S.S. "CONGAL”</head>
+<div type="item"><head>THE S.S. "CONGAL”</head>
 
 <p>The work of constructing the caisson round
 the S.S. “Congal" with the view of eventually
@@ -692,17 +692,17 @@ Company in particular, will have been removed.
 The vessel, which collided with her, the
 “Craftsman,” has already made two Indian
 trips since the incident, and the "Congal” still
-remains.</p>
+remains.</p></div>
 
-<head>THE SUEZ CANAL PILOT</head>
+<div type="item"><head>THE SUEZ CANAL PILOT</head>
 
 <p>It appears that the article published in the
 “Egyptian Gazette” some two months ago,
 anent the gross disproportion of Greek and
 other pilots in the service as compared to the
 8% who are British, is likely in the near
-future to bring forth fruit.</p>
-<p>I have it on authority on which I place
+future to bring forth fruit.</p></div>
+<div type="item"><p>I have it on authority on which I place
 great reliance, that a certain British admi-
 nistrator of the Canal Company, on reading
 “Fairplay,” which copied the article I men-
@@ -713,9 +713,9 @@ officers here, and I venture to say, fewer
 troubles and difficulties with shipmasters in
 consequences. The latter are often, it appears,
 by no means pleased at the way in which 
-their ships are handled.</p>
+their ships are handled.</p></div>
 
-<head>WEDDING.</head>
+<div type="item"><head>WEDDING.</head>
 
 <p>The marriage of Mr. Dormoy, chief engineer
 of the Suez Canal Company’s ateliers, to Mlle
@@ -727,47 +727,47 @@ of the Suez Canal Company, besides a large
 concourse of other friends. A largely attended
 reception was held afterwards at the Conti-
 nental Hotel, and the festivities were kept up
-to a late hour.</p>
+to a late hour.</p></div>
 
-<head>NATIVE CRAFT ASHORE.</head>
+<div type="item"><head>NATIVE CRAFT ASHORE.</head>
 
-<p>Port Said, Tuesday.</p>
+<dateline>Port Said, Tuesday.</dateline>
 <p>In consequence of the bad weather yester-
 day, a native craft went ashore west of
 the breakwater and was dismantled. No lives
 were lost, the boat being towed in at night.
-The weather is fine today.</p>
+The weather is fine today.</p></div>
 
-<head>THE BANDMANN COMPANY.</head>
+<div type="item"><head>THE BANDMANN COMPANY.</head>
 
-<p>Port Said, Tuesday.</p>
+<dateline>Port Said, Tuesday.</dateline>
 <p>The Bandmann-Dallas opera company ar-
 rived from Cairo to-day and will make their
 appearance tonight at the El Dorado Theatre
-in “A Country Girl.” </p>
+in “A Country Girl.” </p></div>
             </div>
             <div type="page" n="4"> 
-<head>MOUVEMENT MARITIME
+<div type="item"><head>MOUVEMENT MARITIME
 DU PORT D’ALEXANDRIE</head>
 <head>ARRIVÈES</head>
 <dateline>29 avril</dateline>
 <p>Constantinople et Pirée; 40 h., vap. ang. Is-
 mailieh, cap. Gatteschi, ton. 2335, à la Khé-
-divial MaiL.</p>
-<p>Constantinople et Port-Saïd; 20 h., vap. autr.
+divial MaiL.</p></div>
+<div type="item"><p>Constantinople et Port-Saïd; 20 h., vap. autr.
 Daphne, cap. Bartolo, ton, 1149, au Lloyd
-Autrichien.</p>
-<p>Glasgow; 16 j., vap. esp. Minerva, cap. Urres-
+Autrichien.</p></div>
+<div type="item"><p>Glasgow; 16 j., vap. esp. Minerva, cap. Urres-
 tizala, ton. 2350, à D. Ancona.</p>
-<dateline>30 avril</dateline>
-<p>Talbot; 16 j., vap. ang. Chiverstone, cap.
+<dateline>30 avril</dateline></div>
+<div type="item"><p>Talbot; 16 j., vap. ang. Chiverstone, cap.
 Duryer, ton. 1889, à Nimnim.</p>
 <p>Gènes et Messine; 69 h., vap. ital. Memfi, cap.
 di Benedetto, ton. 1956, à la Cie Florio Ru-
 battino.</p>
 <p>Chypre et Port-Saïd; 20 h., vap. ang. Espe-
-ranza, cap. Berry, ton. 424, à Minotto.</p>
-<p>Trébizonde et Pirée; 3 j., vap. ott. Alexandrie,
+ranza, cap. Berry, ton. 424, à Minotto.</p></div>
+<div type="item"><p>Trébizonde et Pirée; 3 j., vap. ott. Alexandrie,
 cap. Ghiaffis, ton. 717, à Ismiridi.</p>
 <dateline>1er mai</dateline>
 <p>Trieste et Brindisi; 60 h., vap. autr. Semira-
@@ -777,16 +777,16 @@ Antrichien.</p>
 Vicari, ton. 791, à Diab.</p>
 <p>Odessa et Port-Saïd; 15 h., vap. russe Poesse
 Eugénie, cap. Brileff, ton. 1075, à la Cie
-Russe.</p>
-<p>Cardiff; 15 j. 1/2, vap. ang. Aburgsby, cap.
+Russe.</p></div>
+<div type="item"><p>Cardiff; 15 j. 1/2, vap. ang. Aburgsby, cap.
 Donoghe, ton. 2093, à Barker & Co.</p>
 <p>Liverpool et Tanger, 7 j. 3/4, vap. ang. City
 of Oxford, cap. Halley, ton. 2603, à Barker
 & Co.</p>
 <p>Marseille et Naples; 3 j., vap. all. Hohenzol-
-lern, cap. Pesch, ton. 3320, à Schoeller.</p>
+lern, cap. Pesch, ton. 3320, à Schoeller.</p></div>
 
-<head>Société Anonyme des Eaux de Tantah.</head>
+<div type="item"><head>Société Anonyme des Eaux de Tantah.</head>
 <head>AVIS</head>
 <p>Les porteurs d’actions de la Société Anonyme
 des Eaux de Tantah sont informés que par
@@ -795,8 +795,8 @@ décision de l'Assemblée générale ordinaire du
 payés à partir du lundi 15 Mai 1905, au Caire
 et à Alexandrie à la National Bank of Egypt.
 Action ordinaire— Dix huit shellings contre
-le coupon No 4—</p>
-<p>Action de jouissance— Trois shellings contre
+le coupon No 4—</p></div>
+<div type="item"><p>Action de jouissance— Trois shellings contre
 le coupon No 1—</p>
 <p>Part de fondateur— Trois piastres tarif et
 9/10 contre le coupon No 1.—</p>
@@ -804,30 +804,30 @@ le coupon No 1—</p>
 tirage d'amortissement de l'Exercice 1904,
 84- 115- 324- 397- 448- 545- 798- 1339-
 1408- 1560 1568- 1867- 2066- 2186 2485
-2627- 2725- 2953.</p>
-<p>Les 8 actions suivantes, sorties au tirage
+2627- 2725- 2953.</p></div>
+<div type="item"><p>Les 8 actions suivantes, sorties au tirage
 d'amortissement de l'Exercice 1903, n'ont pas
 été présentées au remboursement:
 474- 812- 843- 2049- 2205- 2421- 2498-
-2685-</p>
-<p>Ces actions devront être présentées au Caire
+2685-</p></div>
+<div type="item"><p>Ces actions devront être présentées au Caire
 et à Alexandrie à la National Bank of Egypt
 pour être remboursées à raison de £15 cha
 cune et être transformées en actions de jouis-
 sance, conformément à l’article 38 des Statuts.—</p>
 L’Administrateur-délégué
 Joseph A. Cattaui Bey.
-Le Caire, le 30 Avril 1905.	25874-21
+Le Caire, le 30 Avril 1905.	25874-21</div>
 
-<head>Société Internationale des Employes</head>
+<div type="item"><head>Société Internationale des Employes</head>
 <head>D'ALEXANDRIE</head>
 Siege Social : Rue Mosquée Attarine No. 21
 BUREAU DE PLACEMENT
 Offres d'emplois
 <p>BONNE MAIS0N d'Alexandrie demande:
 1. un employé connaissant bien la Mercerie.
-2. un jeune homme aide-vendeur.</p>
-Demandes
+2. un jeune homme aide-vendeur.</p></div>
+<div type="item">Demandes
 <p>Comptable pr. Le Caire sachant bien la Comp-
 tabilité et connaissant l’Anglais.</p>
 <p>Comptable pr. Le Caire avec connaissances en
@@ -844,22 +844,22 @@ et Vendredi de 7 h. 1/2 à 8 h. 1/2 du soir.
 Les insertions ci-dessus sont faites gratuite-
 ment par les soins de la Société et seuls, les
 sociétaires peuvent en bénéficier.</p>
-25785-7-4-906
+25785-7-4-906</div>
 
-<head>Daira Sanieh Company, Ltd.</head>
+<div type="item"><head>Daira Sanieh Company, Ltd.</head>
 <p>NOTICE IS HERBBY GIVEN that at the
 General Meeting of the Company hold on 29th
 April last, a Dividend at the rate of 3/- per
 share was DECLARED upon the ORDINARY
-SHARES of the Company.</p>
-<p>The said Dividend will be paid to the holders
+SHARES of the Company.</p></div>
+<div type="item"><p>The said Dividend will be paid to the holders
 of Ordinary Share Warrants to Bearer on pre-
 sentation of the Dividend Coupon No. 6 attach-
 ed to the said Warrants, at Messrs Glyn, Mills,
 Currie and Co, 67 Lombard Street, London,
 E.C. or at the offices of the National Bank of
-Egypt, in Cairo or Alexandria.</p>
-<p>Forms for the listing of the above mentioned
+Egypt, in Cairo or Alexandria.</p></div>
+<div type="item"><p>Forms for the listing of the above mentioned
 Coupons will be supplied, on application, by
 the Bankers above named. Coupons must be
 loft with the Bankers three clear days for
@@ -868,10 +868,10 @@ By Order,
 S. de Bilinski,
 Secretary.
 Shatia Kasr-El-Nil,
-Cairo, 2nd May 1905,	25872-3*-1
+Cairo, 2nd May 1905,	25872-3*-1</div>
 
 
-<head>Société Anonyme des Eaux de Tantah</head>
+<div type="item"><head>Société Anonyme des Eaux de Tantah</head>
 <head>Avis aux porteurs d'actions et de parts
 de fondateur</head>
 <p>Emission d’actions: nouvelles
@@ -880,23 +880,23 @@ Messieurs les porteurs d'actions et de parts
 de fondateur de la Société Anonyme des Eaux
 de Tantah sont informés que l’Assemblée Gé-
 nérale Extraordinaire de la dite Société en
-date du 28 Février dernier a décidé:</p>
-<p>1. La création de trois mille actions nouvel-
+date du 28 Février dernier a décidé:</p></div>
+<div type="item"><p>1. La création de trois mille actions nouvel-
 les de cinq livres sterling chacune, entièrement
 libérées, dont la souscription leur est réservée
 dans la proportion de 75 % pour les porteurs
 d'actions, et de 25 % pour les porteurs de parts
-de fondateur.</p>
-<p>2. Le fractionnement de 3Ô00 actions ac-
+de fondateur.</p></div>
+<div type="item"><p>2. Le fractionnement de 3000 actions ac-
 tuelles dont 2903 actions de capital libérées de
 £15 chacune et 97 actions de jouissance, en
 9000 actions, dont 8709 actions de capital do
 £5 chacune entièrement libérées et 291 actions
-de jouissance.</p>
-<p>En vertu de ces délibérations, le Conseil
+de jouissance.</p></div>
+<div type="item"><p>En vertu de ces délibérations, le Conseil
 d’Administration de la Société Anonyme des
-Eaux de Tantah </p>
-<p>A.—Invite Messieurs les Actionnaires à pré-
+Eaux de Tantah </p></div>
+<div type="item"><p>A.—Invite Messieurs les Actionnaires à pré-
 senter à l'échange, à partir du lundi 15 Mai
 1905 au Caire et à Alexandrie dans les bureaux
 de la National Bank of Egypt, les titres de
@@ -906,8 +906,8 @@ libérée do £15 sera échangée contre trois
 actions de £5 entièrement libérées. De même
 chaque titre actuel d'action de jouissance sera
 échangé contre trois titres nouveaux d’actions
-de jouissance.</p>
-<p>B.—Emet 3000 (trois mille) actions nouvel-
+de jouissance.</p></div>
+<div type="item"><p>B.—Emet 3000 (trois mille) actions nouvel-
 les de £5 (cinq livres sterling) chacune, entiè-
 rement libérées, jouissance du ler janvier 1905,
 et dont la souscription est entièrement réser-,
@@ -926,8 +926,8 @@ les souscripteurs auront à payer £ 0,24, for-
 fait pour la jouissance afférente à la période
 courue sur l’exercice 1905. Le montant total à
 payer pour chaque action est done de £ 7.2.4
-on P.E. 693 35/40.</p>
-<p>Les souscriptions seront reçues: au Caire et
+on P.E. 693 35/40.</p></div>
+<div type="item"><p>Les souscriptions seront reçues: au Caire et
 à Alexandrie, à la National Bank of Egypt du
 15 au 20 mai 1905, inclusivement, aux heures
 de bureau des dits établissements, après quoi
@@ -941,9 +941,9 @@ nir do ce chef, toutes fractions étant, bien en-
 tendu, négligées.</p>
 L’Administrateur délégué |
 Joseph A. Cattaui Bei. '
-Le Caire, le 30 avril 1905.	25875.2*-1
+Le Caire, le 30 avril 1905.	25875.2*-1</div>
 
-<head>Administration des Chemins de Fer,
+<div type="item"><head>Administration des Chemins de Fer,
 des Télégraphes et du Port d’Alexandrie.</head>
 <head>AVIS</head>
 <p>Le Conseil d’Administration a l'honneur de
@@ -956,12 +956,12 @@ des Magasins, à Boulac (Caire) et aux Maga-
 sins de Gabbary (Alexandrie) contre paiement
 de 100 m/m. Los soumissionnaires devront
 joindre à leur offre un Récépissé de versement
-de LE. 250.</p>
-<p>Les offres devront être accompagnées d'une
+de LE. 250.</p></div>
+<div type="item"><p>Les offres devront être accompagnées d'une
 fenille de papier timbré de 30 Millièmes. Elles
 seront adressées par la poste sous pli recom-
-mandé à:-</p>
-"Monsieur le Président Chemins de fer de
+mandé à:-</p></div>
+<div type="item">"Monsieur le Président Chemins de fer de
 l'Etat, Cairo"
 et sous double enveloppe, l’intérieure portant
 la suscription suivante :—
@@ -970,10 +970,10 @@ Le Conseil ne s’engage pas à accepter l’offre
 la plus basse, ni à donner suite aux soumissions
 présentées, et il se réserve le droit de diviser
 la commande.
-Le Caire, le 22 avril 1905.
-25842-6-5
+<dateline>Le Caire, le 22 avril 1905.</dateline>
+25842-6-5</div>
 
-<head>AVIS</head>
+<div type="item"><head>AVIS</head>
 <p>Le Conseil d'Administration a l'honneur de
 porter à la connaissance du Public qu’à partir
 du ler Mai 1905, le bureau télégraphique de
@@ -981,13 +981,13 @@ la gare de Sabaiya sera ouvert à la correspon-
 dance en langues européennes et arabe.	
 L'horaire de ce bureau sera de: 8 h. a.m. à
 1 h. p.m. et de 3 h. p.m. à 8 h. p.m.</p>
-Le Caire, le 29 avril 1905.	25868-3-1
+<dateline>Le Caire, le 29 avril 1905.	25868-3-1</dateline></div>
 
-<head>Eastern Telegraph Coy., Ltd.</head>
+<div type="item"><head>Eastern Telegraph Coy., Ltd.</head>
 <p>AVERAGE TIME occupied in transmission of
 Egyptian telegrams from England to Alex-
-andria on Monday, 1st May 1905</p>
-OUTWARDS
+andria on Monday, 1st May 1905</p></div>
+<div type="item">OUTWARDS
 Between the hours of 10 a.m. and 6 p.m. (Cairo time
 
                          Messages Handed In At
@@ -998,28 +998,28 @@ Liverpool                   16                    22
 Manchester                  19                    -
 Glasgow                     19                    -
 Other Professional Offices  -                     52
+</div>
 
-
-<head>National Bank of Egypt.</head>
+<div type="item"><head>National Bank of Egypt.</head>
 <head>AVIS AUX ACTIONNAIRES.</head>
 <p>Messieurs les actionnaires de la National Bank
 of Egypt sout convoqués en Assemblée Géné-
 rale Extraordinaire pour le Samedi six May
 1905 à 4 heures de l’après-midi, au Siège So-
 cial, au Caire, afin de délibérer sur la proposi-
-tion suivante:</p>
-<p>Augmentation du Capital Social et modifica-
-tion de l’article</p>
-10 des Statuts.
+tion suivante:</p></div>
+<div type="item"><p>Augmentation du Capital Social et modifica-
+tion de l’article</p></div>
+<div type="item">10 des Statuts.
 <p>Tout actionnaire possédant au moins vingt
 actions a droit de prendre part à l'Assemblée
 Générale à condition de déposer ses actions
 dans l’un des lieux ci-après désignés oh il lui
-sera délivré une carte d’admission.</p> 
-<p>En Egypte, Cinq jours au moins avant le
+sera délivré une carte d’admission.</p> </div>
+<div type="item"><p>En Egypte, Cinq jours au moins avant le
 jour de la réunion, soit le ler Mai, au plus
-tard:</p>
-<p>au Siège Social, au Caire;
+tard:</p></div>
+<div type="item"><p>au Siège Social, au Caire;
 à la Succursalo à Alexandrie;
 aux Agences de la Banque à Assiut, As-
 suan, Benha, Beni-Suef, Chibin-el-Kom,
@@ -1044,10 +1044,10 @@ Messieurs les actionnaires sont priés de faire
 le dépôt de tontes leurs actions.</p>
 Le Gouverneur:
 Elwin Palmer.
-Le Caire, le 5 Avril 1905.	25717-12.A-12
+<dateline>Le Caire, le 5 Avril 1905.	25717-12.A-12</dateline></div>
 
 
-<head>PASSENGER LISTS.</head>
+<div type="item"><head>PASSENGER LISTS.</head>
 <head>Arrivals.</head>
 <p>Le paquebot "Memfi”, de la Cie Florio Ru-
 battino arrivé Dimanche de Gênes avait à bord:
@@ -1057,8 +1057,8 @@ G. Vescov, J. Hermann, A. Nicolaïdes, Mala-
 goli, Cie Magnani (39), Aubasman et fam.,
 ing. et Mme Dessalles, Fossati et comp., Mme
 A. Boccasino, P. Berganzio, V. Zaffagni, Elias
-Esber et 48 passagers de 3me classe.</p>
-<p>Le paquebot "Semiramis”, du Lloyd Autri-
+Esber et 48 passagers de 3me classe.</p></div>
+<div type="item"><p>Le paquebot "Semiramis”, du Lloyd Autri-
 chien arrivé ce matin de Trieste avait à bord:
 M. Fischer, Mme Pauletich, M. Gijna, M.
 Braun, M. Levi, M. Kaiserworth, M. Müller,
@@ -1068,8 +1068,8 @@ Loeher, M. Matatia, M. Werner, M. Stangen,
 M. Preis, M. Petzold, M. Schmelzer, M. Miske,
 M. Grundmann, M. Blaskes, M. Fuchs, M.
 Heilbrom, Mme Scagliarini et fils, M. L. Asser,
-M. Singer et 9 passagers de 3me classe.</p>
-<head>Departures.</head>
+M. Singer et 9 passagers de 3me classe.</p></div>
+<div type="item"><head>Departures.</head>
 <p>Le paquebot Halsburg du Lloyd Autrichien
 parti samedi pour Trieste avait à bord:
 M. Aziz Arié, M. et Mme Blumenthal, Rev.
@@ -1102,8 +1102,8 @@ Mme Prechal, Mme B. Popper, M. Rapp, M.
 E. Stark, M. À. Stadler, M. David Schild, M.
 F. Schweissthal, M. B. Tuis, M. Jos. Wagner,
 6 femmes de chambre, 3 valets, et 34 passagers
-3em. class.</p>
-<p>Le paquebot “Bosforo" de la Cie Florio
+3em. class.</p></div>
+<div type="item"><p>Le paquebot “Bosforo" de la Cie Florio
 Rubattino parti hier pour Venise avait à bord:
 Chev. A. N. Lucchose, Lattes, Com. Fiore,
 G. Cafiero, Fanny Muller et fils, fam. Chalom,
@@ -1115,12 +1115,12 @@ Mme Bortolotti, Comtesse Zogheb et fille,
 Villemin et fam., Raman, L di Benedetto, G.
 d'Anna, baron Munch, M. et Mme P. Avorga
 A Nadenna, Rais, et 21 passagers de 3me
-classe.</p>
+classe.</p></div>
 
-<head>BOURSE KHEDIVIALE</head>
+<div type="item"><head>BOURSE KHEDIVIALE</head>
 Remarques sur le marché du disponible et
 des contrats.
-Samedi, le 29 avril 1905.
+<dateline>Samedi, le 29 avril 1905.</dateline>
 Cotons
 <p>Disponible.—La hausse des contrats a
 entravé de nouveau les affaires et, comme
@@ -1129,13 +1129,13 @@ aux cours de samedi dernier, avec une
 demande limitée aux qualités spéciales et aux
 provenances Haute-Egypte dont le bon marché
 réel a fini par être réellement tentant.
-Franco gare.—Nullité complète.</p>
-<p>Contrats.—Nouvelle recolts. On n’y fait pas
+Franco gare.—Nullité complète.</p></div>
+<div type="item"><p>Contrats.—Nouvelle recolts. On n’y fait pas
 grand’chose, lo mai absorbant toujours l'atten-
 tion générale, mais les cours sont quand même
 fermes, quoique ne suivant que do très loin la
-hausse du mai.</p>
-<p>Récolte actuelle.—La semaine avait mal
+hausse du mai.</p></div>
+<div type="item"><p>Récolte actuelle.—La semaine avait mal
 débuté, mais après avoir touché 18 3/16, le
 mai s’est subitement relevé et cela sur des on-
 dit plus ou moins fondés. Jeudi, la clôture eut
@@ -1149,42 +1149,42 @@ velles manœuvres sur le mois en question. Le
 juillet est en déport de 21/32 de talari.
 Dana la matinée; prix plus haut pour mai
 taL 14 1/8 à —/—; plus bas pour mai
-13 27/32 à-/—.</p>
-Graines de coton
+13 27/32 à-/—.</p></div>
+<div type="item">Graines de coton
 <p>Disponible.—Le marché n’a rien eu d’inté-
 ressant et a même été lourd si l’on prend en
 considération les gros embarquements.
-Franco-Station.—Aucune affaire.</p>
-<p>Contrats.—Nouvelle récolte. Les gros ven-
+Franco-Station.—Aucune affaire.</p></div>
+<div type="item"><p>Contrats.—Nouvelle récolte. Les gros ven-
 deurs manquent et cela maintient les prix;
 mais en dehors de cette circonstance les
 achats de Hull à £5.17/6 et 5.18/9 influenceut
-favorablement le marché.</p>
-<p>Récolte ootuelle.—Malgré la bonne demande
+favorablement le marché.</p></div>
+<div type="item"><p>Récolte ootuelle.—Malgré la bonne demande
 et les perspectives de hausse par suite des gros
 dégâts avérés aux Indes, les cours ne montent
 pas suffisamment, ce qui doit être attribué au
 manque de spéculation sur l’article. Le marché
-est cependant ferme.</p>
-<p>Dans la matinée; prix plus haut pour
+est cependant ferme.</p></div>
+<div type="item"><p>Dans la matinée; prix plus haut pour
 mai P.T. 56 30/40 à —/— : plus bas pour
-mai 56 25/40 à —/—.</p>
-Feves
+mai 56 25/40 à —/—.</p></div>
+<div type="item">Feves
 <p>Disponible.—Faute d'arrivages copieux, les
 affaires sont restreintes et les cours restent
-termes.</p>
-Franco-station.—Rien.
+termes.</p></div>
+<div type="item">Franco-station.—Rien.
 <p>Contrats—Chaque schat cause une amélio-
 ration dans les cours, mais le marché est
 tellement restreint qu’il se passe des journées
-entières sans qu'une affaire ait lieu.</p>
-<p>Information.—Le comité de l'Alexandria
+entières sans qu'une affaire ait lieu.</p></div>
+<div type="item"><p>Information.—Le comité de l'Alexandria
 General Produce Association a décidé de
 fermer le marché de Minet-el-Bassal à l'occa-
-sion du centenaire de l’avènement de S.A.</p>
-Mohamed Aly.
+sion du centenaire de l’avènement de S.A.
+Mohamed Aly.</p></div>
 
-<head>PRIMES DES CONTRATS</head>
+<div type="item"><head>PRIMES DES CONTRATS</head>
 “Simple Faculte”
 Coton     Liv. Juil. P.T. 12 20/40 à 13 30/40
 Gr. de cot “   Juin   “    2  -    “ 2   5/40
@@ -1193,9 +1193,9 @@ Coton     Liv. JuiL P.T. 22 20/40 à — 25/40
 Gr. de cot “   Juin	“    3  20/40 “ 4  —
 “DOUBLE”
 Coton     Liv.Juil. P.T.	8 30/40	à 9 15/40
-Gr. de cot “  Juin “	    1 10/40	“ 1 15/40
-
-<head>ALEXANDRIA</head>
+Gr. de cot “  Juin “	    1 10/40	“ 1 15/40</div>
+            	
+<div type="item"><head>ALEXANDRIA</head>
 <head>GENERAL PRODUCE ASSOCIATION</head>
 Les différences de prix pour livraison sur
 Contrats de coton ont été fixées comme suit:
@@ -1209,9 +1209,9 @@ HAUTE-EOYPTE ET FAYOUM
 Entre Fully Fair et Good Fair P.T. -
  “    Good Fair et Fully Good
       Fair .................     17 1/2
- “    Fully Good Fair et Good  “  17 1/2
+ “    Fully Good Fair et Good  “  17 1/2</div>
 
-<head>ASSOCIATION
+<div type="item"><head>ASSOCIATION
 DES COURTIERS EN MARCHANDISES</head>
 
 Réponse des Primes en Contrats
@@ -1228,9 +1228,9 @@ Nov.-Déc.-Jan... P.T. 58 10/40 P.T. 53 20/40
 Mai.............. “   56 30/40	“   56 35/40
 Juin...........   “   57 30/40	“   57 35/40
 Feves Saidi
-Sept-Oct.....    P.T. 89 20/40  “   90   —
+Sept-Oct.....    P.T. 89 20/40  “   90   —</div>
 
-<head>COTONS</head>
+<div type="item"><head>COTONS</head>
 <head>copie de la dépêche
 DE L'ALEXANDRIA GENERAL PRODUCE
 ASSOCIATION
@@ -1251,21 +1251,21 @@ Tal.13     27/82 Livraison Mai
 “	13	1/4	“	Juillet
 “	12	1/4	“	Novembre
 “	12	1/8	“	Janvier
-Marché ferme
+Marché ferme</div>
 
-<head>MARCHE DE MINET-EL-BASSAL,</head>
+<div type="item"><head>MARCHE DE MINET-EL-BASSAL,</head>
 2 mai 1905.—(11h.55 a.m.)
 Cotons—Clôture du marché du 29 avril:
-Feu d’affaires, prix en légère hausse.
-<head>BEURRES</head>
+Feu d’affaires, prix en légère hausse.</div>
+<div type="item"><head>BEURRES</head>
 Fair, Fully Fair, Good Fair, Fully Good
-Fair et Good: 1/8 de hausse
-<head>HAUTE-EGYPTE ET FAYOUM</head>
+Fair et Good: 1/8 de hausse</div>
+<div type="item"><head>HAUTE-EGYPTE ET FAYOUM</head>
 Fair, Fully Fair, Good Fair, Fully Good
-Fair et Good: 1/8 de hausse
-<head>ABASSI</head>
-2me qualité, lre qualité, extra: 1/8 de hausse
-<head>LANNOVICH</head>
+Fair et Good: 1/8 de hausse</div>
+<div type="item"><head>ABASSI</head>
+2me qualité, lre qualité, extra: 1/8 de hausse</div>
+<div type="item"><head>LANNOVICH</head>
 2me qualité, lre qualité, extra: 1/8 de hausse
 Etat du marché de ce jour, cot.: Ache-
 teurs réservés, ce qui nuit au mouvement des
@@ -1295,9 +1295,9 @@ Disponible: Rien
 OIGNONS
 Arrivages du 30, 1 mai et de ce jour sacs 66147
 -can. 26459. Prix P.T. 25 à 28 cond. franco-
-wagon, contre même jour en 1904, can. 16347.
+wagon, contre même jour en 1904, can. 16347.</div>
 
-Les priz suivants ont été pratiqués ce jour
+<div type="item">Les priz suivants ont été pratiqués ce jour
 Coton
 O.M.B.
 (Basse-Egypte)
@@ -1312,9 +1312,9 @@ Tantah..............   “   “  245     “ 260
 PRIX FRANCO-STATION : DISPONIBLE TICKET
 Graines de coton Afifi P.T. 54 10/40 à P.T. —
    “     Haute-Egypte    “  52 30/40 “  “   —
-Fèves Saïdi	             “  84   —   “  “   —
+Fèves Saïdi	             “  84   —   “  “   —</div>
 
-<head>ARRIVAGES</head>
+<div type="item"><head>ARRIVAGES</head>
 des dimanche 30 avril, lundi ler et
 mardi 2 mai 1905
 Documents de l’“Alexandria General
@@ -1345,9 +1345,9 @@ Maïs........................... “	     —
 l«entille* .................... “          6
 Cotons.—Total des arrivages depuis le ler
 septembre 1903 jusqu’à ce jour, cantars
-6,391,351
+6,391,351</div>
 
-CONTRATS, (llh.55 a.m )
+<div type="item">CONTRATS, (llh.55 a.m )
 Cours de la Bourse de Minet-el-Bassal
 Octon F.G.F.Br.
 Novembre...N.R    Tal. 12     9/32    à      —
@@ -1359,16 +1359,16 @@ N.-D.-J.	..  N.R. P.T. 53	10/40	à	20/40
 Mai..................    “   56	—	“	—
 Juin                     “   57       -      “       -
 Feves-Saïdi
-Sept.-Oct.      .. N.R.  P.T.88       20/40  à       30/40
+Sept.-Oct.      .. N.R.  P.T.88       20/40  à       30/40</div>
 
-Remarques
+<div type="item">Remarques
 <p>Cotons : Nouvelle récolte.—A l’ouverture
 l'attention de la corbeille s’est portée sur le
 novembre. On a débuté sur cette livraison à
 tal. 12 5/16, ensuite que’ques affaires sont
 faites à tal. 12 11/32, mais peu après on fléchit
-à tal. 12 3/16.</p>
-<p>Récolte actuelle.—La séance ouvre à tal.
+à tal. 12 3/16.</p></div>
+<div type="item"><p>Récolte actuelle.—La séance ouvre à tal.
 14 1/8 pour le mai. On se tient sur la réserve
 dans la crainte que la filière de demain ne
 père sur le marché. Les acheteurs par
@@ -1377,13 +1377,13 @@ contre se disent assez forte pour continuer à
 empêche pas pour le moment de tomber à
 13 13/16 vendeurs. Plus tard légère reprise.
 Graines de coton: Nouvelle récolte.—La
-cote est soutenue.</p>
-<p>Récolte actuelle.- La séance a ouvert à P.T.
+cote est soutenue.</p></div>
+<div type="item"><p>Récolte actuelle.- La séance a ouvert à P.T.
 56 10/40 pour le mai.</p>
 Feves-Saidi : Nouvelle récolte.—Cours pres-
-que nominaux.
+que nominaux.</div>
 
-Exterieur
+<div type="item">Exterieur
 Dépêches particulières du ler mai 1905
 PRODUITS ÉGYPTIENS
 LIVERPOOL
@@ -1410,9 +1410,9 @@ Futurs juil.: 7.53 (11 pointe de hausse)
    “   oct. : 7.70 (18 pointe do hausse)
 Arrivages du jour, balles 17,000
 Contre même jour, l’année dernière, balles
-6,000
+6,000</div>
 
-<head>BULLETIN DE LA BOURSE</head>
+<div type="item"><head>BULLETIN DE LA BOURSE</head>
 (Autourd’hui à midi et demie)
 On a débuté ferme, mais sans beaucoup
 d’affaires.
@@ -1423,9 +1423,9 @@ Il y a baisse au contraire en Daïra à 287/8
 et en Eaux d’Alexandrie à 16 1/4.
 Quant aux valeurs récemment émises, elles
 sont en pleine débacle: l’Investment tombe de
-2 1/8 à 2 vendeurs et les Estates de 1332 à 1
+2 1/8 à 2 vendeurs et les Estates de 1332 à 1</div>
 
-<head>REUTER’S TELEGRAMS
+<div type="item"><head>REUTER’S TELEGRAMS
 CLOSING REPORTS</head>
 
 Liverpool, Mai 1, 1 p.m.
@@ -1472,34 +1472,35 @@ Ottoman Bank......................          603 —
 Cheques on London..............           25.13 1/2
 Sugar White No. 3 (May) ............        36  1/8
 Crédit Foncier Egyptien :..........         825 —
-Banque d'Athènes (nouvelleusance)           118 —
+Banque d'Athènes (nouvelleusance)           118 —</div>
 
-<head>TELEGRAMME HAVAS</head> 
-BOURSE du ler mai 1905
-COURS DES VALEURS A TERME, CLOTURE
-PARIS
-Rente Française 3 % .         Fr.	98	    87
-Actions du Suez . ... ...	  “     4340	—
-Lots Turcs....................“      134	50
-Turc Unifié................   “	      88	55
-Dette Egyptienne Unifiée      “      108	40
-Daïra Sanieh                  ”      100	80
-Crédit Foncier Egyptien.....  “      825	—
-Extérieur espagnol.........   “       20
-Obl. Banque Nat. de Grèce ... "	      —      -
-Banque d'Athènes, nouvelles
-actions.................. ... "	     120     —
-Métropolitain                 ”        -      —	
-Russe consolidé.......... ... “	      86	85
-Sosnowice... .............    “        -      - 
-Change sur Londres            “        25   13 1/2
-Sucre No. 3 disponible ... …  ”        -      -
-Sucre No. 3 livrable le 4 de mars “    -	 -	
-LONDRES
-Consolidés anglais.. ...	£ fermée
-Escomptes—Paris 3, Londres 2 1/2 Berlin 3.
-
-<head>SHARE LIST
+<div type="item">TELEGRAMME HAVAS 
+            		
+            		BOURSE du ler mai 1905
+            		COURS DES VALEURS A TERME, CLOTURE
+            		PARIS
+            		Rente Française 3 % .         Fr.	98	87
+            		Actions du Suez . ... ...	“     4340	—
+            		Lots Turcs....................“      134	50
+            		Turc Unifié................   “	88	55
+            		Dette Egyptienne Unifiée      “      108	40
+            		Daïra Sanieh                  ”      100	80
+            		Crédit Foncier Egyptien.....  “      825	—
+            		Extérieur espagnol......... 	“       20
+            		Obl. Banque Nat. de Grèce ...	„	 —      -
+            		Banque d'Athènes, nouvelles
+            		actions.................. ...	„	120     —
+            		Métropolitain                 ”        -      —	
+            		Russe consolidé.......... ...	“	 86	85
+            		Sosnowice... .............    “        -      - 
+            		Change sur Londres            “        25   13 1/2
+            		Sucre No. 3 disponible ... …  ”        -      -
+            		Sucre No. 3 livrable le 4 de mars “    -	 -	
+            		LONDRES
+            		Consolidés anglais.. ...	£ fermée
+            		Escomptes—Paris 3, Londres 2 1/2 Berlin 3.
+            	</div>
+<div type="item"><head>SHARE LIST
 ISSUED BY THE “ASSOCIATION DES COURTIERS EN
 VALEURS D’ALEXANDRIE”.</head>
 
@@ -1546,9 +1547,9 @@ d’Egypte               Fos. 163    -    “ 164 -
 Khedivial Mail         Let.  4     1/8  “ 18/ —
 Egyptian Invest. &
 Agency Ld.              “    1     15/16 “ 2  -
-Land Bank               “    9     5/8   “ 9 3/4
+Land Bank               “    9     5/8   “ 9 3/4</div>
 
-<head>ASSOCIATION
+<div type="item"><head>ASSOCIATION
 DES COURTIERS EN MARCHANDISES</head>
 (Service spécial)
 Dépèche d’ouverture
@@ -1560,9 +1561,9 @@ Futurs: juil.-août Hier: 4.14. Aujourd'hui!
 	  Seconde Dépêche, 10h.5 a.m.
 Futurs : juil.-août: 4.16
 	     oct-nov.: 4.20
-Bourse Khédiviale, le 2 mai 1905
+Bourse Khédiviale, le 2 mai 1905</div>
 
-<head>DERNIERE HEURE</head>
+<div type="item"><head>DERNIERE HEURE</head>
 (Clôture de la Bourse Khédiviale 1h. p.m.)
 Cours de l'Association des Courtiers eu
 Marchandises
@@ -1580,8 +1581,8 @@ Feves Saïdi
 Sept.-Oct. N.R.  P.T.  87    20/40    à    88   -
 </div>
             <div type="page" n="5">
-<head>ALEXANDRIA SPORTING CLUB</head>
-<head>FIRST SUMMER MEETING.</head>
+<div type="item"><head>ALEXANDRIA SPORTING CLUB</head>
+<head>FIRST SUMMER MEETING.</head></div>
 
 	<p>The first day of the first summer meeting of
 the Alexandria Sporting Club was held yester-
@@ -1594,8 +1595,8 @@ for this time of the year. The racing was decid-
 edly good and close finishes were the order of
 the day. As is usually the case, the course was
 as perfect as it could be and was not too dry,
-thus obviating any inconvenience from dust.</p>
-	<p>Of the races, the Club Stakes excited the
+thus obviating any inconvenience from dust.</p></div>
+	<div type="item"><p>Of the races, the Club Stakes excited the
 greatest interest, as the field was one of the
 largest ever known on the Alexandria Sporting
 Club’s grounds. It was well managed and was
@@ -1626,8 +1627,8 @@ noon.</p>
 	<p>Colonel Lucas fulfilled his duties as Clerk of
 the Course in a most efficient manner. The 
 handicapping of Prince Omar Pasha Toussoun
-and Mr. Rodocanachi gave general satisfaction.</p>
-	<p>MAIDEN ARAB RACE of P.T. 5,000, viz: 
+and Mr. Rodocanachi gave general satisfaction.</p></div>
+	<div type="item"><p>MAIDEN ARAB RACE of P.T. 5,000, viz: 
 P.T. 4,000 to winner, P.T. 700 to 2nd horse 
 and P.T. 300 to 3rd horse. For Maiden Arabs. 
 Weight for age. Distance 3/4 mile. Entrance 
@@ -1656,8 +1657,8 @@ g.a.b. Samhan El Guemhi, 10 6. Hassan.                 0 </p>
 	<p>Messrs. Nicola Soussa’s and Kamel Effendi
 Maher's g.a.h. Social Life, 10.7. Kamel Eff.           0 
 Sweetee, Samhan el-Ghemeli and Social Lite 
-carried 1 lb. overweight.</p>
-	<p>The race was won easily by Klondyke, who 
+carried 1 lb. overweight.</p></div>
+	<div type="item"><p>The race was won easily by Klondyke, who 
 came in first by three lengths. There was
 a sharp struggle in the straight for second
 place between Gogo, Kendal and Sir Visto, 
@@ -1718,8 +1719,8 @@ Two lengths between second and third.</p>
 Time 2.20.
 	<p>Totalizator paid P.T. 29 on winner and P.T.
 24 and 28 for places.</p>
-
-	<p>CLUB STAKES of L.E. 500, 2nd horse to
+</div>
+	<div type="item"><p>CLUB STAKES of L.E. 500, 2nd horse to
 receive L.E. 100 and 3rd horse L.E. 50 out of
 the Stakes. For Maiden (at nomination) Arab
 ponies. Weight for age and inches with
@@ -1763,8 +1764,8 @@ Mr. A. J. Michaelides.	                                   0</p>
 	<p>Mohamed Pasha Chebim's b.a.p. Bibico, 9.8. 
 Koukides.	                                          0</p>
 	<p>Ibrahim Bey Cherif’s b.a.p. St-Frusquin, 10.7.
-Aly Hawas.	                                          0	</p>
-	<p>Ibrahim Bey Cherif’s ch.a.p. Fantazia. 10.7.
+Aly Hawas.	                                          0	</p></div>
+	<div type="item"><p>Ibrahim Bey Cherif’s ch.a.p. Fantazia. 10.7.
 Hadban 1 lb. overweight. Though this ex-
 ceptionally large field gave some trouble at
 the post, when the webbing ascended, it
@@ -1784,9 +1785,9 @@ place by a neck only. Fantasia finished fourth,
 Mikado fifth.</p>
 Time 2.35.
 	<p>Totalizator paid P.T. 100 on winner and
-P.T. 45, 255, and 38 for places.</p>
+P.T. 45, 255, and 38 for places.</p></div>
 
-	<p>GALLOWAY PLATE of P.T. 5,000, viz:
+	<div type="item"><p>GALLOWAY PLATE of P.T. 5,000, viz:
 P.T. 4,000 to winner, P.T. 700 to 2nd horse,
 and P.T. 800 to 3rd horse. For Maiden Arab
 Galloways. Weight for age and inches.
@@ -1898,10 +1899,10 @@ Spectre and Siham, 35; Gogo, 600; Sans
 Pareil, 320; Loulou, 320; Starboard Light, 550</p>
     <p>6th Race: Faineant, 20; Banaback, 470;
 Moofid, 428, Shewiman, 50; Mashkour and
-Wassal, 20; Rachid, 200.</p>
+Wassal, 20; Rachid, 200.</p></div>
 
 
-<head>OPEN LAWN TENNIS TOURNAMENT.</head>
+<div type="item"><head>OPEN LAWN TENNIS TOURNAMENT.</head>
 
 	<p>The events to be competed for are :— Men’s
 singles and doubles, ladies' singles and doubles,
@@ -1938,9 +1939,9 @@ Association.</p>
 	<p>Any matter of dispute should be referred
 to the secretary to be decided by the tennis 
 committee.</p>
+</div>
 
-
-<head>GOLF.</head>
+<div type="item"><head>GOLF.</head>
 
 	<p>The date for the completion of the first 
 rounds of the “Alexandria Sporting Club
@@ -1950,10 +1951,10 @@ be drawn on the morning of that day and any
 competitor not having played his match in the
 first round will be scratched.</p>
 	<p>There will be a Driving Competition on
-Thursday, the 4th inst., commencing at 5 p.m.</p>
+Thursday, the 4th inst., commencing at 5 p.m.</p></div>
 
 
-<head>KHEDIVIAL YACHT CLUB.</head>
+<div type="item"><head>KHEDIVIAL YACHT CLUB.</head>
 <head>REGATTA.</head> 
 
 The following is tomorrow's handicap: —
@@ -1974,9 +1975,9 @@ Tantah and Shamrock 		  3.24
 Gumrook 		              3.25
 Calypso		                  3.26
 Masr and St. George		      3.27
-Laurea	                      3.37
+Laurea	                      3.37</div>
 
-Class I Course	C. Class II. Course O.
+<div type="item">Class I Course	C. Class II. Course O.
 	<p>The attention of members sailing in Class I
 is particularly called to Course C, which is a
 new course and totally different to last year.</p>
@@ -1984,11 +1985,11 @@ new course and totally different to last year.</p>
 those sailing, a gun will be fired from the
 starter's kiosk at each of the following times:
 2.45 p.m. 3 p.m. 3.15 p.m. In future this
-will always be done at every regatta.</p>
+will always be done at every regatta.</p></div>
 
 
 
-<head>EASTER AT MANSOURAH AND
+<div type="item"><head>EASTER AT MANSOURAH AND
 TANTAH.</head>
 
 	<p>It came about that these services began quite
@@ -2028,9 +2029,9 @@ May 7 Litany and H.C. II a m.  Even. 6.30p.m.
 “  21 H.C. 8 a.m., Matins
       11a.m.	                Even. 6.30 p.m.
 “  28 Evensong 6.80 p.m.        H.C. 8 n.m.
-                                Matins 11 a.m.
+                                Matins 11 a.m.</div>
 
-	<p>At a church council meeting held at Tantah 
+	<div type="item"><p>At a church council meeting held at Tantah 
 on Easter Eve whereat Mr. A.J. Wakeman Long
 took office as churchwarden, elected along 
 with Mr. F. M. Wright (who again is willing
@@ -2046,10 +2047,10 @@ decorated with flowers. Such voluntary ser-
 vices must not be hampered for the want
 of milliemes to make good the ciphering of 
 the instrument.</p>	
-T. D. C. Firminger, Delta Chaplain. 
+T. D. C. Firminger, Delta Chaplain. </div>
 
 
-<head>POSTAL NOTICES.</head>
+<div type="item"><head>POSTAL NOTICES.</head>
 
 	<p>A money order service has been established
 between Russia and Egypt from the 1st May,
@@ -2070,9 +2071,9 @@ a street be unnamed, then the quarter of the
 town in which it is situated must be indicated.
 Attention to these instructions is imperative
 to avoid delay and error in the delivery of
-correspondence.</p>
+correspondence.</p></div>
 
-<head>Cheap Prepaid Advertisements.</head>
+<div type="item"><head>Cheap Prepaid Advertisements.</head>
 Under this heading advertisements are in-
 serted at the following rates :—
 	        ONCE    3 TIMES   6 TIMES
@@ -2089,16 +2090,16 @@ to this rule no exception whatever will
 be made. Letters in reply to advertise-
 ments will be posted to	any address If a
 few stamps are sent by the advertiser to
-cover postage.</p>
+cover postage.</p></div>
 
-<head>AGARD’S INTERNATIONAL INDUSTRIES
+<div type="item"><head>AGARD’S INTERNATIONAL INDUSTRIES
 AND TRADE MARKS REGISTER.</head>
 <p>A useful business directory containing addresses
 of all important business firms of Great Britain,
 the Continent, and Egypt. Circulating all over
 Europe and America. Price— One pound Sterling.
-Post Free.</p>
-	<p>AGARD‘S INTERNATIONAL	HOTEL
+Post Free.</p></div>
+	<div type="item"><p>AGARD‘S INTERNATIONAL	HOTEL
 GUIDE sent post free to all first class Hotels
 throughout Europe, America, the Colonies and
 Egypt. The best reference book for travellers.</p>
@@ -2140,9 +2141,9 @@ Insurance Office. Apply, Post Box 600, Cairo.
 one month old, and to travel to England
 end of May; or Passage offered there in
 exchange for services. Apply, Mrs. Vanzeller,
-Coastguard Service, Suez.	25866–32 </p>
+Coastguard Service, Suez.	25866–32 </p></div>
                 
-<p>British Chamber of Commerce.—We would 
+<div type="item"><p>British Chamber of Commerce.—We would 
 call the attention of persons interested in 
 Egyptian trade to the work of the British
 Chamber of Commerce of Egypt, whose office
@@ -2152,10 +2153,10 @@ publication reviews our commerce. The annual
 subscription is £1 and all British traders should k
 become members. Our London office, 36, New
 Broad-street E.C., acts as London agency to
-the Chamber.</p>
+the Chamber.</p></div>
 </div>
 <div type="page" n="6">
-        		<head>EXPORT MANIFESTS</head>
+        		<div><head>EXPORT MANIFESTS</head>
         		
         		For LONDON, by the S.S. “Whitgift", sailed
         		on the 21st April:
@@ -2293,10 +2294,10 @@ the Chamber.</p>
         		Banca Mobiliare,	    2,500	 “         “
         		G. Fraccola,	        1,000	 “         “
         		A Grioni,	            1,000	 “         “
-        		L. Tolentino	          584	 “	       “
+        		L. Tolentino	          584	 “	       “</div>
         		
-        		
-        		<head>REUTER’S TELEGRAMS
+	
+	         <div type="item"><head>REUTER’S TELEGRAMS
         		CLOSING REPORTS</head>
         		
         		Liverpool, April 29, 12.45 p.m.
@@ -2375,9 +2376,9 @@ the Chamber.</p>
         		Cheques on London....... ...        25.13 1/2
         		Sugar White Na 8 (April) ... .	       37  —
         		Crédit Foncier Egyptien..........     825  —
-        		Banque d'Athènes (nouvelleusance)     118  —
+        		Banque d'Athènes (nouvelleusance)     118  —</div>
         		
-        		<head>TELEGRAMME HAVAS
+        		<div type="item"><head>TELEGRAMME HAVAS
         		BOURSE du 29 avril 1905
         		COURS DES VALEURS A TERME, CLOTURE</head>
         		
@@ -2401,7 +2402,7 @@ the Chamber.</p>
         		Sucre No 3 livrable le 4 de mars 
         		LONDRES
         		Consolidés anglais.......... £	90 1/4
-        		Escomptes—Paris 3, Londres 2 1/2, Berlin 3.          
+        		Escomptes—Paris 3, Londres 2 1/2, Berlin 3.</div>          
         		
         		
         	</div>
