@@ -12,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2016-09-29"></date>
+                    <date when="2016-09-29">2016-09-29</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -2156,7 +2156,7 @@ Broad-street E.C., acts as London agency to
 the Chamber.</p></div>
 </div>
 <div type="page" n="6">
-        		<div><head>EXPORT MANIFESTS</head>
+        		<div type="item"><head>EXPORT MANIFESTS</head>
         			<p>For LONDON, by the S.S. “Whitgift", sailed
         			on the 21st April:</p>
         	
@@ -2231,29 +2231,29 @@ the Chamber.</p></div>
         		G. Riecken,	             30 balles coton
         		Peel &amp; Co.,	             67	  “      “
         		J. Planta &amp; Ca.         107	  “      “
-        		F. 0. Baines & Co.,      32	  “      “
+        		F. 0. Baines &amp; Co.,      32	  “      “
         		F. Andres,	             32   “      “ 
-        		Carver Bros. & Co. Ld., 236	  “	     “
-        		G. Frauger & C.,	     62	  “	     “
-        		Choremi Benachi & Co.    33	  “	     “
+        		Carver Bros. &amp; Co. Ld., 236	  “	     “
+        		G. Frauger &amp; C.,	     62	  “	     “
+        		Choremi Benachi &amp; Co.    33	  “	     “
         		B. Barki,	             70	  “	     “
-        		Mohr & Fenderl,          93	  “      “
-        		R. & 0. Lindermann,     240	  “	     “
-        		Schmid & Co.,            31	  “	     “
+        		Mohr &amp; Fenderl,          93	  “      “
+        		R. &amp; 0. Lindermann,     240	  “	     “
+        		Schmid &amp; Co.,            31	  “	     “
         		1038 balles coton
         		H. A. Deghem,	        2,000 sacs oignons
         		L. Tolentino,	        2,994	“     “
         		Bca. Mobiliare,	        8,980   “     “
         		Griva fr.,	            4,000   “     “
-        		Coen & Co.,	              600   “     “
-        		A. Hess & Co.,	        1,500   “     “
+        		Coen &amp; Co.,	              600   “     “
+        		A. Hess &amp; Co.,	        1,500   “     “
         		G. D. Kaniskeri,	    3,500   “     “
         		Stern Bros., 	        1,000   “     “
-        		G. Brach & Co.,	        1,000   “     “
+        		G. Brach &amp; Co.,	        1,000   “     “
         		Bca. Anglo Austriaca,	3,000   “     “
         		A. Grioni,	            2,997   “     “
-        		Dimitrino & Co., 16 cais. cigarettes
-        		G. Brach & Co., 6 balles cire
+        		Dimitrino &amp; Co., 16 cais. cigarettes
+        		G. Brach &amp; Co., 6 balles cire
         		    “      “    56  “    gomme
         		M. L. Carasso   10  “	    “
         		Lloyd, 10 cais. sucre	
@@ -2267,19 +2267,19 @@ the Chamber.</p></div>
         		“Costantinos” parti le 25 avril.
         		Divers, 129 balles peaux, 18 balles sacs vides
         		395 sacs riz, 100 sacs oignons, 100 sacs na-
-        		tron, 53 barils vides.	</p>
-        		Pour BRINDISI et TRIESTE, par le bateau
-        		autr. "Saturno", parti le 26 avril:
+        		tron, 53 barils vides.	</p> </div>
+        		<div type="item"><dateline>Pour BRINDISI et TRIESTE, par le bateau
+        		autr. "Saturno", parti le 26 avril:</dateline>
         		
-        		R. & 0. Lindemann,      153 balles coton
-        		Peel & Co.,	            160	  “	     “
-        		Mohr & Fenderl,       	 32   “      “
-        		Choremi, Benachi & Co.,  61	  “      “
-        		J. Planta & Co.,	     92	  “      “
+        		<p>R. &amp; 0. Lindemann,      153 balles coton
+        		Peel &amp; Co.,	            160	  “	     “
+        		Mohr &amp; Fenderl,       	 32   “      “
+        		Choremi, Benachi &amp; Co.,  61	  “      “
+        		J. Planta &amp; Co.,	     92	  “      “
         		                        498 balles coton
         		D.C. Mitzis, 26 balles peaux
-        		A. & G. Monferrato,	220	barils	vides
-        		E. Almasy & Co.,	217	  “      “
+        		A. &amp; G. Monferrato,	220	barils	vides
+        		E. Almasy &amp; Co.,	217	  “      “
         		Stamatis Bollas, 8 balles peaux
         		P. M. Statirà,  15 balles peaux
         		E. Tourchoudjan, 15 balles peausserie
@@ -2293,13 +2293,13 @@ the Chamber.</p></div>
         		Banca Mobiliare,	    2,500	 “         “
         		G. Fraccola,	        1,000	 “         “
         		A Grioni,	            1,000	 “         “
-        		L. Tolentino	          584	 “	       “</div>
+        		L. Tolentino	          584	 “	       “</p></div>
         		
 	
 	         <div type="item"><head>REUTER’S TELEGRAMS
         		CLOSING REPORTS</head>
         		
-        		Liverpool, April 29, 12.45 p.m.
+        		<p>Liverpool, April 29, 12.45 p.m.
         		Sales of the day               bales	  7,000
         		of which Egyptian     	         “	        300
         		American (new crop) Maize Spot
@@ -2331,10 +2331,11 @@ the Chamber.</p></div>
         		“         “     Forwarded to
         		                 consumers      “	    7,500
         		“         “	    Actual Export	“	    1,800
-        		“         “	    Import          “      12,000
+        		“         “	    Import          “      12,000</p></div>
         		
-        		New-York, April 29.
-        		Spot Cotton.....................      7.85
+        		<div type="item">
+	<dateline>New-York, April 29.</dateline>
+        		<p>Spot Cotton.....................      7.85
         		American Futures (May).............   7.48
         		  “	       “	 (June)......         7.88
         		  “	       “	 (September)....      7.53
@@ -2375,14 +2376,14 @@ the Chamber.</p></div>
         		Cheques on London....... ...        25.13 1/2
         		Sugar White Na 8 (April) ... .	       37  —
         		Crédit Foncier Egyptien..........     825  —
-        		Banque d'Athènes (nouvelleusance)     118  —</div>
+        		Banque d'Athènes (nouvelleusance)     118  —</p></div>
         		
         		<div type="item"><head>TELEGRAMME HAVAS
         		BOURSE du 29 avril 1905
         		COURS DES VALEURS A TERME, CLOTURE</head>
         		
-        		PARIS
-        		Rente Francaise 3 %........     Fr.  99  05
+        		<head>PARIS</head>
+        		<p>Rente Francaise 3 %........     Fr.  99  05
         		Actions deSnex..............    “  4350   —
         		Lots Tnros..................    “   135   —
         		Tnro Unifid..........           ”    88  77
@@ -2401,10 +2402,10 @@ the Chamber.</p></div>
         		Sucre No 3 livrable le 4 de mars 
         		LONDRES
         		Consolidés anglais.......... £	90 1/4
-        		Escomptes—Paris 3, Londres 2 1/2, Berlin 3.</div>          
+        		Escomptes—Paris 3, Londres 2 1/2, Berlin 3.</p></div>          
         		
         		
-        	</div>
-        </body>
+        	
+        </div></body>
     </text>
 </TEI>
