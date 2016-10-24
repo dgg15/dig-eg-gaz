@@ -36,67 +36,41 @@
 			</div>
 			<div type="page" n="2"/>
 			<div type="page" n="3">
-				<div type="item">
-					<head>THE BALTIC FLEET.</head>
-					<head>OUTSIDE TERRITORIAL WATERS.</head>
-					<head>FRENCH NEUTRALITY AGAIN.</head>
 
-					<dateline>London, May 1.</dateline>
-					<p>Renter’s Agency learns from Tsing-Tau that the Baltic fleet, including
-						Niebogatoff’s sqa- dron, is near Hainan Isle. (Reuter.)</p>
-				</div>
 
-				<div type="item">
-					<dateline>Saigon, May 1.</dateline>
-					<p>The Baltic fleet is lying off port Dayet and in the Bay of Binkoi, 40 miles
-						north of Kama- ranh, outside territorial waters. The transports are still at
-						Saigon. The Tsing-Tan report is wholly premature. (Reuter.)</p>
-				</div>
-				<div type="item">
-					<dateline>Saigon, May 1.</dateline>
-					<p>The Russian squadron is stationed at Dayet, 40 miles north of Kamaranh Bay.
-						(Havas.)</p>
-				</div>
+				<div type="section">
+					<div type="item">
+						<head>RUSSIAN TOLERATION DECREE.</head>
+						<head>COMPLETE RELIGIOUS FREEDOM.</head>
 
-				<div type="item">
-					<dateline>Tokio, May 1.</dateline>
-					<p>It Is believed that <persName ref="https://www.wikidata.org/wiki/Q453702">
-							Admiral Rodjestveosky</persName> continues to use the ports of
-						Indo-China for coal and supplies. The newspapers are again questioning the
-						faith of Prance's assurances. The Government is silent, but it is believed
-						that it is preparing for renewed representations. (Reuter.)</p>
-				</div>
+						<dateline>St. Petersburg, April 30.</dateline>
+						<p>Ukases have been issued remitting the arrears of Government loans made to
+							the peasants during the bad harvest years from 1857 to the birth of
+							the Tsarevitch. The arrears are estimated at £7,500,000. The ukases,
+							which also remove most of the disabilities amongst the unorthodox sects
+							regarding freedom of worship and civil rights, include Mohamedans and
+							Buddhists, who are no longer officially qualified as heathens, (R.)</p>
+					</div>
 
-				<div type="item">
-					<head>RUSSIAN TOLERATION DECREE.</head>
-					<head>COMPLETE RELIGIOUS FREEDOM.</head>
+					<div type="item">
+						<dateline>St. Petersburg, April 30.</dateline>
+						<p>A ukase has been issued remitting the debts to the State of the peasants
+							in the various governments. (Havas.)</p>
+					</div>
 
-					<dateline>St. Petersburg, April 30.</dateline>
-					<p>Ukases have been issued remitting the arrears of Government loans made to the
-						peasants during the bad harvest years from | 1857 to the birth of the
-						Tsarevitch. The arrears are estimated at £7,500,000. The ukases, which also
-						remove most of the disabilities amongst the unorthodox sects regarding
-						freedom of worship and civil rights, include Mohamedans and Buddhists, who
-						are no longer officially qualified as heathens, (R.)</p>
-				</div>
+					<div type="item">
+						<dateline>St. Petersburg, May 1.</dateline>
+						<p>The Russian toleration decree does not provide for the relaxation of the
+							anti-Jewish restrictions. (Reuter.)</p>
+					</div>
 
-				<div type="item">
-					<dateline>St. Petersburg, April 30.</dateline>
-					<p>A ukase has been issued remitting the debts to the State of the peasants in
-						the various governments. (Havas.)</p>
-				</div>
-
-				<div type="item">
-					<dateline>St. Petersburg, May 1.</dateline>
-					<p>The Russian toleration decree does not provide for the relaxation of the
-						anti-Jewish restrictions. (Reuter.)</p>
-				</div>
-
-				<div type="item">
-					<dateline>St. Petersburg, May 1.</dateline>
-					<p>The ukase establishing practically complete religious freedom for all creeds
-						has been re- ceived with enthusiasm throughout Russia. It is hailed as the
-						greatest concession to liberal thought yet granted. (R.)</p>
+					<div type="item">
+						<dateline>St. Petersburg, May 1.</dateline>
+						<p>The ukase establishing practically complete religious freedom for all
+							creeds has been re- ceived with enthusiasm throughout Russia. It is
+							hailed as the greatest concession to liberal thought yet granted.
+							(R.)</p>
+					</div>
 				</div>
 
 				<div type="item">
@@ -138,286 +112,295 @@
 							Aly</persName> has arrived. (H.)</p>
 				</div>
 
-				<div type="item">
-					<head>THE ENTENTE CORDIALE.</head>
-					<head>KING’S PARIS VISIT.</head>
-					<head>ENTHUSIASTIC RECEPTION.</head>
+				<div type="section">
+					<div type="item">
+						<head>THE ENTENTE CORDIALE.</head>
+						<head>KING’S PARIS VISIT.</head>
+						<head>ENTHUSIASTIC RECEPTION.</head>
 
-					<dateline>Marseilles, April 29.</dateline>
-					<p><persName ref="https://www.wikidata.org/wiki/Q20875">The King</persName> has left for Paris. His Majesty received a great popular ovation.
-						(Reuter.)</p>
+						<dateline>Marseilles, April 29.</dateline>
+						<p><persName ref="https://www.wikidata.org/wiki/Q20875">The King</persName>
+							has left for Paris. His Majesty received a great popular ovation.
+							(Reuter.)</p>
+					</div>
+
+					<div type="item">
+						<dateline>Paris, April 29.</dateline>
+						<p>The King of England has arrived; he was greatly cheered. (Havas.)</p>
+					</div>
+
+					<div type="item">
+						<dateline>Paris, April 30.</dateline>
+						<p>The King of England arrived here yesterday evening. His arrival was quite
+							private and unofficial. The Queen does not accompany him, her Majesty
+							continuing her cruise in the Mediterranean. (Reuter.)</p>
+					</div>
+
+					<div type="item">
+						<dateline>Paris, April 30.</dateline>
+						<p>King Edward, at a dinner at the Elysee, showed an affectionate cordiality
+							towards M. Loubet. (Havas.)</p>
+					</div>
+
+					<div type="item">
+						<dateline>Paris, May 1.</dateline>
+						<p>The King of England and <persName
+								ref="https://www.wikidata.org/wiki/Q169502">M. Loubet</persName>
+							have exchanged the most cordial visits this after- noon. Crowds, who
+							were waiting patiently under the rain, cheered the King with remark-
+							able fervour. M. Delcasse called on his Majesty, with whom he had an
+							interview which lasted for 20 minutes. The King received Admiral
+							Fournier and congratulated him on the way he conducted the North Sea
+							inquiry, and con- ferred on him the Order of St Michael and St.
+							George.</p>
+					</div>
+					<div type="item">
+						<p>A State banquet took place at the Elysee in the evening. (Reuter.)</p>
+					</div>
+
+					<div type="item">
+						<dateline>Paris, May 1.</dateline>
+						<p>The King attended the St. Cloud races. He was the object of the most
+							hearty demonstra- tions everywhere. (Reuter.)</p>
+					</div>
+
+					<div type="item">
+						<dateline>London, April 29</dateline>
+						<p>The British fleet will visit Brest from the 10th to the 17th July.
+							(Reuter.)</p>
+					</div>
 				</div>
 
-				<div type="item">
-					<dateline>Paris, April 29.</dateline>
-					<p>The King of England has arrived; he was greatly cheered. (Havas.)</p>
-				</div>
+				<div type="section">
+					<head>THE MOROCCO QUESTION. GERMAN EXPLANATION.</head>
 
-				<div type="item">
-					<dateline>Paris, April 30.</dateline>
-					<p>The King of England arrived here yesterday evening. His arrival was quite
-						private and unofficial. The Queen does not accompany him, her Majesty
-						continuing her cruise in the Mediterranean. (Reuter.)</p>
-				</div>
+					<div type="item">
+						<dateline>Tangier, April 29.</dateline>
+						<p>Count Tattenbach, in an interview with Reuter's correspondent, said that
+							the mission to Fez was to thank the Sultan for the Emperor William's
+							welcome, and to repeat the assurance concerning the integrity of
+							Morocco. He said that it was not intended to ask for any con- cessions,
+							or to propose any commercial conven- tion. Had France communicated to
+							Germany, the latter would have pointed out the incom- patibility of
+							private agreements with the inter- national Madrid Convention. France
+							now offered to enter into pourparlers but Germany could not go behind
+							the Madrid Convention. ( Reuter.)</p>
+					</div>
 
-				<div type="item">
-					<dateline>Paris, April 30.</dateline>
-					<p>King Edward, at a dinner at the Elysee, showed an affectionate cordiality
-						towards M. Loubet. (Havas.)</p>
-				</div>
-
-				<div type="item">
-					<dateline>Paris, May 1.</dateline>
-					<p>The King of England and <persName ref="https://www.wikidata.org/wiki/Q169502">M. Loubet</persName> have exchanged the most cordial visits this
-						after- noon. Crowds, who were waiting patiently under the rain, cheered the
-						King with remark- able fervour. M. Delcasse called on his Majesty, with whom
-						he had an interview which lasted for 20 minutes. The King received Admiral
-						Fournier and congratulated him on the way he conducted the North Sea
-						inquiry, and con- ferred on him the Order of St Michael and St. George.</p>
-				</div>
-				<div type="item">
-					<p>A State banquet took place at the Elysee in the evening. (Reuter.)</p>
-				</div>
-
-				<div type="item">
-					<dateline>Paris, May 1.</dateline>
-					<p>The King attended the St. Cloud races. He was the object of the most hearty
-						demonstra- tions everywhere. (Reuter.)</p>
-				</div>
-
-				<div type="item">
-					<dateline>London, April 29</dateline>
-					<p>The British fleet will visit Brest from the 10th to the 17th July.
-						(Reuter.)</p>
+					<div type="item">
+						<dateline>Tangier, April 30.</dateline>
+						<p>In his interview with Reuter's correspon- dent, Count Tattenbach said
+							that Germany needed room for expansion for her population. Her colonies
+							were few and small. He would warmly support an international conference
+							if Morocco proposed it.</p>
+						<p>The French negotiations are not progressing pending the arrival of Count
+							Tattenbach. (R.)</p>
+					</div>
 				</div>
 
 
-				<div type="item">
-					<head>THE MOROCCO QUESTION.</head>
-					<head>GERMAN EXPLANATION.</head>
+				<div type="section">
+					<div type="item">
+						<head>PERSONAL AND SOCIAL</head>
 
-					<dateline>Tangier, April 29.</dateline>
-					<p>Count Tattenbach, in an interview with Reuter's correspondent, said that the
-						mission to Fez was to thank the Sultan for the Emperor William's welcome,
-						and to repeat the assurance concerning the integrity of Morocco. He said
-						that it was not intended to ask for any con- cessions, or to propose any
-						commercial conven- tion. Had France communicated to Germany, the latter
-						would have pointed out the incom- patibility of private agreements with the
-						inter- national Madrid Convention. France now offered to enter into
-						pourparlers but Germany could not go behind the Madrid Convention. (
-						Reuter.)</p>
+						<p>It is stated that the successor to Mahmoud Pasha Sidky as Governor of
+							Alexandria will be Mustapha Pasha Maher, the Moudir of Dakahlieh, and
+							that the present Governor will be appointed to the Wakfs
+							Administration.</p>
+					</div>
+
+					<div type="item">
+						<p>H. E. the Governor returned to Alexandria yesterday.</p>
+					</div>
+					<div type="item">
+						<p>Baron Acton, Italian Consul-General at Alexandria, returned from Italy on
+							Sunday.</p>
+					</div>
+
+					<div type="item">
+						<p>Sir Henry Tanner, I.S.O., F.R.I.B.A., F.S.I. Principal Architect of
+							H.M.’s Office of Works, was among the passengrs who arrived yester- day
+							from Marseilles by the S. s. “Hohenzol- lern.”</p>
+					</div>
+
+					<div type="item">
+						<p>Among the latest arrivals at the Eastern Exchange Hotel, Port Said, are
+							Mr. Maurice Stubbs, Mr. A. Pillett, Mr. P. Cooke, Capt. Murray, Mr. W.
+							E. Bennett, Mr. A. L. Goldie, Mr. J. W. Norton, Miss Ailfen, Miss
+							Robins, Mr. and Miss Muntz, Miss Laing, Mr. N. N. Tabet, Mrs. L. Stuart,
+							Mr. A. Tissier, Mr. G. M. Dawson.</p>
+					</div>
 				</div>
 
-				<div type="item">
-					<dateline>Tangier, April 30.</dateline>
-					<p>In his interview with Reuter's correspon- dent, Count Tattenbach said that
-						Germany needed room for expansion for her population. Her colonies were few
-						and small. He would warmly support an international conference if Morocco
-						proposed it.</p>
-					<p>The French negotiations are not progressing pending the arrival of Count
-						Tattenbach. (R.)</p>
+				<div type="section">
+					<div type="item">
+						<head>LOCAL AND GENERAL</head>
+
+						<p>A New Stockbroking Firm has been form- ed at Cairo under the style of H.
+							de Vries and Boutigny. M. Boutigny is the editor of “La Bourse
+							Egyptienne."</p>
+					</div>
+
+					<div type="item">
+						<p>Alhambra Theatre.—The Magnani operet- ta company arrived at Alexandria
+							from Italy on Sunday and will open at the Albambra this evening in
+							Strauss's Primavera Scapigliata.</p>
+					</div>
+
+					<div type="item">
+						<p>Sailors and Soldiers' Institute— A con- cert will be given at the
+							institute to-morrow evening, commencing at 8 o’clock. The pro- gramme is
+							a most varied and attractive one, containing no less than 18 items.</p>
+					</div>
+
+					<div type="item">
+						<p>Suez Canal— 20 vessels passed through the Canal on the 27th and 28th of
+							April, 16 of which were British, 2 German, 1 French, 1 Egyptian. The
+							receipts for the two days were frs. 542,157.51, making the total from
+							the 1st April frs. 9,403,605. </p>
+					</div>
+
+					<div type="item">
+						<p>A Route March was carried out yesterday morning by the 2nd Battalion
+							R.Berks. Regi- ment. The battalion left Mustapha barracks at 6 a.m. and
+							marched, via Sidi Gaber, Rosetta- road, Cherif Pasha street, and Ramledi
+							boulevard, r turning to Mustapha shortly after 8 o'clock.</p>
+					</div>
+
+					<div type="item">
+						<p>Ports and Lighthouses Administration.— A Khedivial decree has been
+							promulgated to alter the official title of the chief of the Ports and
+							Lighthouses Administration, who will- henceforth be enttlled
+							Director-General of that administration. This decree came into force
+							yesterday.</p>
+					</div>
+
+					<div type="item">
+						<p>A Khartoum Memento.— The cutting from the rose tree of General Gordon's
+							grave at Khartoum, planted with tender cafe in Hail- sham churchyard by
+							the vicar, the Rev. F. Clyde, towards the close of last year, is, with
+							the spring, putting forth its new shoots, and it promises to develop
+							into a hardy specimen.</p>
+					</div>
+
+					<div type="item">
+						<p>The “Mahroussa."— On board the Khe- dive's yacht at Glasgow very little
+							of the deckwork amidships is now standing; the cabins below are being
+							gutted out, and thoroughly overhauled. All signs of paddle- boxes have
+							now completely disappeared, and the topsides present an almost entirely
+							un- broken appearance.</p>
+					</div>
+
+					<div type="item">
+						<p>Coal Imports.— From the 1st of January to the 26th of April the quantity
+							of coal im- ported into Egypt was 250,040 tons. During the same period
+							of lost year the imports were 342,212 tons. This year Newcastle sent
+							60,669 tons, the Welsh districts 195,352, the Scotch districts 27,640,
+							Yorkshire 17,466, and other districts 8,913 tons.</p>
+					</div>
+
+					<div type="item">
+						<p>A.L.M. and D.S.— A musical and dramatic entertainment, under the auspices
+							of the Alexandria Literary, Musical, and Dramatic Society, will take
+							place in Alderson’s Garden Theatre, Bulkeley, on Friday, 12th inst. The
+							programme includes the farce “Petticoat Per fidy," which has already
+							been played with much success in the same theatre.</p>
+					</div>
+
+					<div type="item">
+						<p>German Choral Society.— The members of the German choral society
+							“Mannerchors, Eintracht” arrived at Cairo from Alexandria on Saturday
+							evening and were met at the station by many members of the German colony
+							and the “Gesangverein Liederkrang.” A "kommers” was held in their honor
+							and the members of the two societies gave a concert at the German Club
+							on Sunday.</p>
+					</div>
+
+					<div type="item">
+						<p>British Engineering Company of Egypt.— The “Times,” after giving details
+							of the new combine known as the British Engineering Company of Egypt,
+							remarks, ‘This is certainly a formidable association, and one that may
+							be trusted to accomplish a great deal in improving British engineering
+							prestige in Egypt and the neighbouring province. Such a prospect is the
+							more hopeful as political influence has now vanished from tho field of
+							commercial rivalry."</p>
+					</div>
+
+					<div type="item">
+						<p>Interesting Visitors.— In the autumn the members of the British
+							Association for the Advancement of Science will probably pay a visit to
+							Cairo on their way from South Africa en route to join the steamer at
+							Alexandria. The association will meet on August 15 of this year in South
+							Africa, at the united invitation of the Governments of that part of the
+							British dominions, under the presidency of Prof. George Darwin (the
+							eldest son of the great naturalist), astronomer of Cambridge Uni-
+							versity (president-elect). Meetings will be held at Cape Town and
+							Johannesburg, and on their return about 100 of its members, which will
+							include the president and many other distin- guished men of science,
+							will proceed to inspect the falls of the Zambesi, under the regis of the
+							British South Africa Company, and will re- turn from thence by special
+							steamer from Beira, touching at Zanzibar, Mombassa, and Suez, and thence
+							to Cairo and Alexandria. They hope to be here during the early days of
+							October, when they will be sure to meet with a hearty welcome.</p>
+					</div>
 				</div>
 
-				<div type="item">
-					<head>PERSONAL AND SOCIAL</head>
+				<div type="section">
+					<div type="item">
+						<head>EXECUTION AT ALEXANDRIA.</head>
+						<head>NEW EXECUTION CHAMBER USED.</head>
 
-					<p>It is stated that the successor to Mahmoud Pasha Sidky as Governor of
-						Alexandria will be Mustapha Pasha Maher, the Moudir of Dakahlieh, and that
-						the present Governor will be appointed to the Wakfs Administration.</p>
+						<p>The first execution in the new execution chamber at Hadra prison took
+							place this morning, when Danik Bassioumi suffered the extreme penalty of
+							the law for the murder on November 25 last, of Mohamed Sakr el Ansari at
+							Nahiet Mellaha Daoud (Bebera). The execution, being strictly private,
+							was of a most orderly character, and was not marked by any incident. Two
+							minutes before the appointed time (7.30 am.) the condemned man was led
+							out of his cell and conducted to the execution chamber (a plain
+							whitewash- ed-room with a black-painted floor). The man showed no
+							resistance whatever, but was per- ceptibly afraid of his coming doom.
+							Beyond repeatedly uttering "Aupa marloum" (“I am a victim”), however, he
+							made no statement and on the charge being read out to him he simply
+							repeated the same ejaculation. He was immediately weighed, strapped, and
+							placed on the trapdoor, while the black cap was I put over his head. As
+							this operation was being performed he was heard to utter some prayer,
+							while his visage took on a leaden i hue, due to intense fear. </p>
+						<p>At half-past seven precisely, Miralai Hop- kinson Bey, Commandant of
+							Police, gave the signal and Ashmawi, the public executioner, pulled the
+							lever which launched Danik Bas- sioumi into eternity. A drop of 1.75
+							metres was allowed, death ensuing within seven seconds. The hoisting of
+							the black flag over the prison tower indicated to the outside world that
+							justice had been done.</p>
+						<p>The body was afterwards examined by Dr. Choucry Bey, the police doctor,
+							as well as the prison doctor. It was then taken in a prison van,
+							escorted by a posse of mounted police under Sagbolaghasi Waller, to the
+							Government Hos- pital, where the usual autopsy was made. The only
+							persons admitted to be present at the execution, besides the police and
+							prison officials, were a few members of the Press. Although the prison
+							contained no less than 1,200 prisoners, an ominous silence was notice
+							able, not a sound of any kind being heard. It is interesting to note
+							that while Bassioumi, on entering the prison, weighed 60 kilos, at the
+							time of his execution he weighed 8 kilos more.</p>
+					</div>
 				</div>
 
-				<div type="item">
-					<p>H. E. the Governor returned to Alexandria yesterday.</p>
-				</div>
-				<div type="item">
-					<p>Baron Acton, Italian Consul-General at Alexandria, returned from Italy on
-						Sunday.</p>
-				</div>
+				<div type="section"><head>MOHAMED ALY CENTENARY. A MADHOUSE MEMORIAL.</head>
+				<p>A meeting was held on Sunday afternoon at the Alexandria Municipality to consider
+					what steps should be taken to commemorate the centenary of Mohamed Aly at
+					Alexandria. The meeting decided that the best scheme to com- memorate the
+					founder of the Khedivial Dynasty and the maker of modern Egypt would be to erect
+					a madhouse! All the subscriptions re- ceived from private persons are to be
+					devoted to the memorial.</p>
+				<p>That Municipality will bear all the expenses connected with the illuminations in
+					Mohamed Aly-square and a grant of £1,000 is to be made for that purpose. If the
+					cost of the illuminations exceed the grant, the extra expenses will also be
+					defrayed by the Municipality in order to keep the illumina- tions and the
+					memorial totally distinct from one another.</p>
+				<p>The madhouse is to be an international institution and will be handed over to be
+					administered by the Municipality when com- pleted.</p></div>
 
-				<div type="item">
-					<p>Sir Henry Tanner, I.S.O., F.R.I.B.A., F.S.I. Principal Architect of H.M.’s
-						Office of Works, was among the passengrs who arrived yester- day from
-						Marseilles by the S. s. “Hohenzol- lern.”</p>
-				</div>
 
-				<div type="item">
-					<p>Among the latest arrivals at the Eastern Exchange Hotel, Port Said, are Mr.
-						Maurice Stubbs, Mr. A. Pillett, Mr. P. Cooke, Capt. Murray, Mr. W. E.
-						Bennett, Mr. A. L. Goldie, Mr. J. W. Norton, Miss Ailfen, Miss Robins, Mr.
-						and Miss Muntz, Miss Laing, Mr. N. N. Tabet, Mrs. L. Stuart, Mr. A. Tissier,
-						Mr. G. M. Dawson.</p>
-				</div>
-
-				<div type="item">
-					<head>LOCAL AND GENERAL</head>
-
-					<p>A New Stockbroking Firm has been form- ed at Cairo under the style of H. de
-						Vries and Boutigny. M. Boutigny is the editor of “La Bourse Egyptienne."</p>
-				</div>
-
-				<div type="item">
-					<p>Alhambra Theatre.—The Magnani operet- ta company arrived at Alexandria from
-						Italy on Sunday and will open at the Albambra this evening in Strauss's
-						Primavera Scapigliata.</p>
-				</div>
-
-				<div type="item">
-					<p>Sailors and Soldiers' Institute— A con- cert will be given at the institute
-						to-morrow evening, commencing at 8 o’clock. The pro- gramme is a most varied
-						and attractive one, containing no less than 18 items.</p>
-				</div>
-
-				<div type="item">
-					<p>Suez Canal— 20 vessels passed through the Canal on the 27th and 28th of
-						April, 16 of which were British, 2 German, 1 French, 1 Egyptian. The
-						receipts for the two days were frs. 542,157.51, making the total from the
-						1st April frs. 9,403,605. </p>
-				</div>
-
-				<div type="item">
-					<p>A Route March was carried out yesterday morning by the 2nd Battalion R.Berks.
-						Regi- ment. The battalion left Mustapha barracks at 6 a.m. and marched, via
-						Sidi Gaber, Rosetta- road, Cherif Pasha street, and Ramledi boulevard, r
-						turning to Mustapha shortly after 8 o'clock.</p>
-				</div>
-
-				<div type="item">
-					<p>Ports and Lighthouses Administration.— A Khedivial decree has been
-						promulgated to alter the official title of the chief of the Ports and
-						Lighthouses Administration, who will- henceforth be enttlled
-						Director-General of that administration. This decree came into force
-						yesterday.</p>
-				</div>
-
-				<div type="item">
-					<p>A Khartoum Memento.— The cutting from the rose tree of General Gordon's grave
-						at Khartoum, planted with tender cafe in Hail- sham churchyard by the vicar,
-						the Rev. F. Clyde, towards the close of last year, is, with the spring,
-						putting forth its new shoots, and it promises to develop into a hardy
-						specimen.</p>
-				</div>
-
-				<div type="item">
-					<p>The “Mahroussa."— On board the Khe- dive's yacht at Glasgow very little of
-						the deckwork amidships is now standing; the cabins below are being gutted
-						out, and thoroughly overhauled. All signs of paddle- boxes have now
-						completely disappeared, and the topsides present an almost entirely un-
-						broken appearance.</p>
-				</div>
-
-				<div type="item">
-					<p>Coal Imports.— From the 1st of January to the 26th of April the quantity of
-						coal im- ported into Egypt was 250,040 tons. During the same period of lost
-						year the imports were 342,212 tons. This year Newcastle sent 60,669 tons,
-						the Welsh districts 195,352, the Scotch districts 27,640, Yorkshire 17,466,
-						and other districts 8,913 tons.</p>
-				</div>
-
-				<div type="item">
-					<p>A.L.M. and D.S.— A musical and dramatic entertainment, under the auspices of
-						the Alexandria Literary, Musical, and Dramatic Society, will take place in
-						Alderson’s Garden Theatre, Bulkeley, on Friday, 12th inst. The programme
-						includes the farce “Petticoat Per fidy," which has already been played with
-						much success in the same theatre.</p>
-				</div>
-
-				<div type="item">
-					<p>German Choral Society.— The members of the German choral society
-						“Mannerchors, Eintracht” arrived at Cairo from Alexandria on Saturday
-						evening and were met at the station by many members of the German colony and
-						the “Gesangverein Liederkrang.” A "kommers” was held in their honor and the
-						members of the two societies gave a concert at the German Club on
-						Sunday.</p>
-				</div>
-
-				<div type="item">
-					<p>British Engineering Company of Egypt.— The “Times,” after giving details of
-						the new combine known as the British Engineering Company of Egypt, remarks,
-						‘This is certainly a formidable association, and one that may be trusted to
-						accomplish a great deal in improving British engineering prestige in Egypt
-						and the neighbouring province. Such a prospect is the more hopeful as
-						political influence has now vanished from tho field of commercial
-						rivalry."</p>
-				</div>
-
-				<div type="item">
-					<p>Interesting Visitors.— In the autumn the members of the British Association
-						for the Advancement of Science will probably pay a visit to Cairo on their
-						way from South Africa en route to join the steamer at Alexandria. The
-						association will meet on August 15 of this year in South Africa, at the
-						united invitation of the Governments of that part of the British dominions,
-						under the presidency of Prof. George Darwin (the eldest son of the great
-						naturalist), astronomer of Cambridge Uni- versity (president-elect).
-						Meetings will be held at Cape Town and Johannesburg, and on their return
-						about 100 of its members, which will include the president and many other
-						distin- guished men of science, will proceed to inspect the falls of the
-						Zambesi, under the regis of the British South Africa Company, and will re-
-						turn from thence by special steamer from Beira, touching at Zanzibar,
-						Mombassa, and Suez, and thence to Cairo and Alexandria. They hope to be here
-						during the early days of October, when they will be sure to meet with a
-						hearty welcome.</p>
-				</div>
-
-				<div type="item">
-					<head>EXECUTION AT ALEXANDRIA.</head>
-					<head>NEW EXECUTION CHAMBER USED.</head>
-
-					<p>The first execution in the new execution chamber at Hadra prison took place
-						this morning, when Danik Bassioumi suffered the extreme penalty of the law
-						for the murder on November 25 last, of Mohamed Sakr el Ansari at Nahiet
-						Mellaha Daoud (Bebera). The execution, being strictly private, was of a most
-						orderly character, and was not marked by any incident. Two minutes before
-						the appointed time (7.30 am.) the condemned man was led out of his cell and
-						conducted to the execution chamber (a plain whitewash- ed-room with a
-						black-painted floor). The man showed no resistance whatever, but was per-
-						ceptibly afraid of his coming doom. Beyond repeatedly uttering "Aupa
-						marloum" (“I am a victim”), however, he made no statement and on the charge
-						being read out to him he simply repeated the same ejaculation. He was
-						immediately weighed, strapped, and placed on the trapdoor, while the black
-						cap was I put over his head. As this operation was being performed he was
-						heard to utter some prayer, while his visage took on a leaden i hue, due to
-						intense fear. </p>
-					<p>At half-past seven precisely, Miralai Hop- kinson Bey, Commandant of Police,
-						gave the signal and Ashmawi, the public executioner, pulled the lever which
-						launched Danik Bas- sioumi into eternity. A drop of 1.75 metres was allowed,
-						death ensuing within seven seconds. The hoisting of the black flag over the
-						prison tower indicated to the outside world that justice had been done.</p>
-					<p>The body was afterwards examined by Dr. Choucry Bey, the police doctor, as
-						well as the prison doctor. It was then taken in a prison van, escorted by a
-						posse of mounted police under Sagbolaghasi Waller, to the Government Hos-
-						pital, where the usual autopsy was made. The only persons admitted to be
-						present at the execution, besides the police and prison officials, were a
-						few members of the Press. Although the prison contained no less than 1,200
-						prisoners, an ominous silence was notice able, not a sound of any kind being
-						heard. It is interesting to note that while Bassioumi, on entering the
-						prison, weighed 60 kilos, at the time of his execution he weighed 8 kilos
-						more.</p>
-				</div>
-
-				<div type="item">
-					<head>MOHAMED ALY CENTENARY.</head>
-					<head>A MADHOUSE MEMORIAL.</head>
-
-					<p>A meeting was held on Sunday afternoon at the Alexandria Municipality to
-						consider what steps should be taken to commemorate the centenary of Mohamed
-						Aly at Alexandria. The meeting decided that the best scheme to com- memorate
-						the founder of the Khedivial Dynasty and the maker of modern Egypt would be
-						to erect a madhouse! All the subscriptions re- ceived from private persons
-						are to be devoted to the memorial.</p>
-				</div>
-				<div type="item">
-					<p>That Municipality will bear all the expenses connected with the illuminations
-						in Mohamed Aly-square and a grant of £1,000 is to be made for that purpose.
-						If the cost of the illuminations exceed the grant, the extra expenses will
-						also be defrayed by the Municipality in order to keep the illumina- tions
-						and the memorial totally distinct from one another.</p>
-				</div>
-				<div type="item">
-					<p>The madhouse is to be an international institution and will be handed over to
-						be administered by the Municipality when com- pleted.</p>
-				</div>
-
-				<div type="item">
+				<div type="section"><div type="item">
 					<head>THE MUNICIPAL LANDS.</head>
 
 					<p>The Alexandria Municipality’s estates at Chatby and Hadra have been parcelled
@@ -430,9 +413,9 @@
 					<p>All the quay estate of the Municipality has been parcelled out except a few
 						details as to the Gouvernorat and the land opposite the old Ramleh station.
 						As soon as these matters are settled, the lands' will be sold.</p>
-				</div>
+				</div></div>
 
-				<div type="item">
+				<div type="section"><div type="item">
 					<head>THE KHEDIVE.</head>
 
 					<p>The Khedive will hold a reception at Ras el Tin Palace on Saturday next. The
@@ -444,9 +427,9 @@
 				<div type="item">
 					<p>His Highness will attend prayers next Fri- day at the Mosque of Abou
 						el-Abbas.</p>
-				</div>
+				</div></div>
 
-				<div type="item">
+				<div type="section"><div type="item">
 					<head>WHITE SLAVE TRAFFIC.</head>
 
 					<p>The other evening a meeting was held at the Italian Consulate in Cairo at
@@ -456,9 +439,9 @@
 						and Mansfield Pasha will confer with several of the European consulates, to
 						arrange in concert with them the measures necessary for the suppression of
 						this evil.</p>
-				</div>
+				</div></div>
 
-				<div type="item">
+				<div type="section"><div type="item">
 					<head>SUDAN ADMINISTRATION.</head>
 
 					<p>Messrs A. N. Wilkinson, L. S. Gorringe, H. Hellam, and J. Atterbury,
@@ -468,9 +451,9 @@
 				<div type="item">
 					<p>Bimbashi L. D. Spencer, 2nd class inspector, Suskin Province, has been
 						appointed 1st class judge.</p>
-				</div>
+				</div></div>
 
-				<div type="item">
+				<div type="section"><div type="item">
 					<head>BANDMANN-DALLAS OPERA.</head>
 					<head>THE EARL AND THE GIRL.</head>
 
@@ -501,9 +484,9 @@
 					<p>We would advise the manager in future to omit the song “Zanzibar,” which
 						cannot be a success without the chorus and properties that helped to enhance
 						it at the Vaudeville Theatre.</p>
-				</div>
+				</div></div>
 
-				<div type="item">
+				<div type="section"><div type="item">
 					<head>SHEM EN-NESSIM AT CAIRO.</head>
 
 					<p>The weather was most favorable to holiday- making round Cairo on Monday and
@@ -527,9 +510,9 @@
 						dealing with holiday traffic it has learned all that can be learned, and we
 						doubt whether any London station authorities could deal more successfully
 						with trippers than their Cairo comrades.</p>
-				</div>
-
-				<div type="item">
+				</div></div>
+				
+				<div type="section"><div type="item">
 					<head>THE HOLY CITY.</head>
 					<head>TO THE EDITOR OF THE EGYPTIAN GAZETTE</head>
 
@@ -552,9 +535,9 @@
 						troubling you, and with the assurance that I shall not do so again on this
 						matter, not even if smitten with Samson's weapons—I am, etc, ACCORD.</p>
 					<dateline>Alexandria, May 1.</dateline>
-				</div>
+				</div></div>
 
-				<div type="item">
+				<div type="section"><div type="item">
 					<head>STEAMER MOVEMENTS.</head>
 
 					<p>The S.S. “Creole Prince" left London on Saturday with passengers and general
@@ -573,9 +556,9 @@
 				<div type="item">
 					<p>The Ellerman S.S. “Fabian” from Alexan- dria, arrived at Liverpool on
 						Sunday.</p>
-				</div>
+				</div></div>
 
-				<div type="item">
+				<div type="section"><div type="item">
 					<head>NOTES FROM PORT SAID.</head>
 					<head>BAD WEATHER.</head>
 					<head>(From our Correspondent).</head>
@@ -609,7 +592,7 @@
 						the thick of the khamseen season, we may look for another “roasting” such as
 						we had only a week back, when in many places the thermometer regis- tered
 						well past 10Q deg. Fahr. in the shade.</p>
-				</div>
+				</div></div>
 
 
 				<div type="item">
