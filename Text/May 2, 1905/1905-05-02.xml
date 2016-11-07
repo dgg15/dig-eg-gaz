@@ -878,8 +878,8 @@
 
 				<div type="item">
 					<head>Eastern Telegraph Coy., Ltd.</head>
-					<p>AVERAGE TIME occupied in transmission of Egyptian telegrams from England to
-						Alex- andria on Monday, 1st May 1905</p>
+					<p>AVERAGE TIME occupied in transmission of Egyptian telegrams from England to Alexandria on
+						Monday, 1st May 1905</p>
 				</div>
 				<div type="item">
 					<head>OUTWARDS</head>
@@ -1048,51 +1048,317 @@
 
 				<div type="item">
 					<head>PRIMES DES CONTRATS</head>
-					<head>“Simple Faculte”</head>
-					<p>Coton Liv. Juil. P.T. 12 20/40 à 13 30/40 Gr. de cot “ Juin “ 2 - “ 2 5/40
-						“Stellage” Coton Liv. JuiL P.T. 22 20/40 à — 25/40 Gr. de cot “ Juin “ 3
-						20/40 “ 4 — “DOUBLE” Coton Liv.Juil. P.T. 8 30/40 à 9 15/40 Gr. de cot “
-						Juin “ 1 10/40 “ 1 15/40</p>
+					<p>
+						<table rows="1" cols="9">
+							<head>&quot;SIMPLE FACULTE&quot;</head>
+							<row>
+								<cell>Coton</cell>
+								<cell>Liv.</cell>
+								<cell>Juil.</cell>
+								<cell>P.T.</cell>
+								<cell>12</cell>
+								<cell>20/40</cell>
+								<cell>à</cell>
+								<cell>13</cell>
+								<cell>30/40</cell>
+							</row>
+							<row>
+								<cell>Gr. de cot.</cell>
+								<cell>"</cell>
+								<cell>Juin</cell>
+								<cell>"</cell>
+								<cell>2</cell>
+								<cell>– </cell>
+								<cell>"</cell>
+								<cell>2</cell>
+								<cell>5/40</cell>
+							</row>
+						</table>
+						<table rows="2" cols="9">
+							<head>&quot;STELLAGE&quot;</head>
+							<row>
+								<cell>Coton</cell>
+								<cell>Liv.</cell>
+								<cell>Juil.</cell>
+								<cell>P.T.</cell>
+								<cell>22</cell>
+								<cell>20/40</cell>
+								<cell>à</cell>
+								<cell>– </cell>
+								<cell>25/40</cell>
+							</row>
+							<row>
+								<cell>Gr. de cot.</cell>
+								<cell>"</cell>
+								<cell>Juin</cell>
+								<cell>"</cell>
+								<cell>3</cell>
+								<cell>20/40</cell>
+								<cell>"</cell>
+								<cell>4</cell>
+								<cell>– </cell>
+							</row>
+						</table>
+						<table rows="2" cols="9">
+							<head>&quot;DOUBLE&quot;</head>
+							<row>
+								<cell>Coton</cell>
+								<cell>Liv.</cell>
+								<cell>Juil.</cell>
+								<cell>P.T.</cell>
+								<cell>8</cell>
+								<cell>30/40</cell>
+								<cell>à</cell>
+								<cell>9</cell>
+								<cell>15/40</cell>
+							</row>
+							<row>
+								<cell>Gr. de cot.</cell>
+								<cell>"</cell>
+								<cell>Juin</cell>
+								<cell>"</cell>
+								<cell>1</cell>
+								<cell>10/40</cell>
+								<cell>"</cell>
+								<cell>1</cell>
+								<cell>15/40</cell>
+							</row>
+						</table>
+					</p>
 				</div>
 
 				<div type="item">
-					<head>ALEXANDRIA</head>
-					<head>GENERAL PRODUCE ASSOCIATION</head>
-					<p>Les différences de prix pour livraison sur Contrats de coton ont été fixées
-						comme suit:</p>
-				</div>
-				<div type="item">
-					<head>BROWN</head>
-					<p>Entre Fair et Fully Fair... P.T. - - “ Fully Fair et Good Fair “ - - “ Good
-						Fair et Fully Good Fair ....................“ 10 — “ Fully Good Fair et Good
-						“ 15 — HAUTE-EOYPTE ET FAYOUM Entre Fully Fair et Good Fair P.T. - “ Good
-						Fair et Fully Good Fair ................. 17 1/2 “ Fully Good Fair et Good “
-						17 1/2</p>
+					<head>ALEXANDRIA
+					GENERAL PRODUCE ASSOCIATION</head>
+					<p>Les différences de prix pour livraison sur Contrats de coton ont été fixées comme
+							suit:<table rows="2" cols="5">
+							<head>BROWN</head>
+							<row>
+								<cell>Entre </cell>
+								<cell>Fair et Fully Fair</cell>
+								<cell>P.T.</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>Fully Fair et Good Fair</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>Good Fair et Fully Good Fair</cell>
+								<cell>"</cell>
+								<cell>10</cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>Fully Good Fair et Good</cell>
+								<cell>"</cell>
+								<cell>15</cell>
+								<cell>– </cell>
+							</row>
+						</table></p>
+					<p>
+						<table rows="2" cols="5">
+							<head>HAUTE-EGYPTE ET FAYOUM</head>
+							<row role="data">
+								<cell>Entre</cell>
+								<cell>Fully Fair et Good Fair</cell>
+								<cell>P.T.</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>Good Fair et Fully Good Fair</cell>
+								<cell>"</cell>
+								<cell>17 </cell>
+								<cell>1/2</cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>Fully Good Fair et Good</cell>
+								<cell>"</cell>
+								<cell>17</cell>
+								<cell>1/2</cell>
+							</row>
+						</table>
+					</p>
+					
+					
+					
 				</div>
 
 				<div type="item">
 					<head>ASSOCIATION DES COURTIERS EN MARCHANDISES</head>
 
-					<head>Réponse des Primes en Contrats</head>
-					<p>(Obligatoire entre agences absentes) du samedi 29 avril 1905, à 11h. a.m.
-						Coton F.G.F.Br. Novembre. ... Tal. 12 3/16 Tal. 12 7/32 Janvier...... “ 12
-						3/12 “ 12 1/8 Mai............“ 13 29/32 “ 13 15/16 Juillet . . ” 13 7/32 “
-						13 1/4 Août. “ 13 1/32 “ 13 1/16 Graines de coton Nov.-Déc.-Jan... P.T. 58
-						10/40 P.T. 53 20/40 Mai.............. “ 56 30/40 “ 56 35/40 Juin...........
-						“ 57 30/40 “ 57 35/40 Feves Saidi Sept-Oct..... P.T. 89 20/40 “ 90 —</p>
+					
+					<p>Réponse des Primes en Contrats (Obligatoire entre agences absentes) du samedi 29 avril 1905, à 11h. a.m.</p>
+					<p>
+						<table rows="3" cols="7">
+							<head>Coton F.G.F.Br.</head>
+							<row>
+								<cell>Novembre</cell>
+								<cell>Tal.</cell>
+								<cell>12 3/16</cell>
+								<cell>3/16</cell>
+								<cell>Tal.</cell>
+								<cell>12 7/32</cell>
+								<cell>7/32</cell>
+							</row>
+							<row>
+								<cell>Janvier</cell>
+								<cell>"</cell>
+								<cell>12 </cell>
+								<cell>3/12</cell>
+								<cell>"</cell>
+								<cell>12</cell>
+								<cell>1/8</cell>
+							</row>
+							<row>
+								<cell>Mai</cell>
+								<cell>"</cell>
+								<cell>13 </cell>
+								<cell>29/32</cell>
+								<cell>"</cell>
+								<cell>13 </cell>
+								<cell>15/16</cell>
+							</row>
+							<row>
+								<cell>Juillet</cell>
+								<cell>"</cell>
+								<cell>13 </cell>
+								<cell>7/32</cell>
+								<cell>"</cell>
+								<cell>13 </cell>
+								<cell>1/4</cell>
+							</row>
+							<row>
+								<cell>Août</cell>
+								<cell>"</cell>
+								<cell>13 </cell>
+								<cell>1/32</cell>
+								<cell>"</cell>
+								<cell>13 </cell>
+								<cell>1/16</cell>
+							</row>
+						</table></p>				
+					<table rows="1" cols="9">
+						<head>Graines de coton</head>
+						<row>
+							<cell>Nov.-Déc.-Jan</cell>
+							<cell>P.T.</cell>
+							<cell>58 </cell>
+							<cell>10/40</cell>
+							<cell>P.T.</cell>
+							<cell>58</cell>
+							<cell>20/40</cell>
+						</row>
+						<row>
+							<cell>Mai</cell>
+							<cell>"</cell>
+							<cell>56</cell>
+							<cell>30/40</cell>
+							<cell>"</cell>
+							<cell>56</cell>
+							<cell>35/40</cell>
+						</row>
+						<row>
+							<cell>Juin</cell>
+							<cell>"</cell>
+							<cell>57</cell>
+							<cell>30/40</cell>
+							<cell>"</cell>
+							<cell>57</cell>
+							<cell>35/40</cell>
+						</row>
+					</table>
+					<table cols="9">
+						<head>Feves Saidi</head>
+						<row>
+							<cell>Sept.-Oct.</cell>
+							<cell>P.T.</cell>
+							<cell>89</cell>
+							<cell>20/40</cell>
+							<cell>"</cell>
+							<cell>90</cell>
+							<cell>– </cell>
+						</row>
+					</table>
+					
 				</div>
 
 				<div type="item">
 					<head>COTONS</head>
 					<head>copie de la dépêche DE L'ALEXANDRIA GENERAL PRODUCE ASSOCIATION à la
 						LIVERPOOL COTTON ASSOCIATION</head>
-					<p>(Cours pratiqués ce jour à la Bourse Khédi- viale à 10h.15 a.m.) Tal. 13
-						13/16 livraison Mai “ 18 8/16 “ Juillet “ 12 9/32 “ Novembre “ 12 1/8 “
-						Janvier Marché ferme</p>
-					<p>Arrivages du 30 avril, ler mai et de ce jour, à Minet-el-Bassal, cantars
-						32,184 (Cours pratiqués ce jour à la Bourse Khédi- viale à 12h.45 p.m.)</p>
-					<p>Tal.13 27/82 Livraison Mai “ 13 1/4 “ Juillet “ 12 1/4 “ Novembre “ 12 1/8 “
-						Janvier Marché ferme</p>
+					<p>(Cours pratiqués ce jour à la Bourse Khédiviale à 10h.15 a.m.) <table rows="4" cols="5">
+							<row>
+								<cell>Tal.</cell>
+								<cell>13</cell>
+								<cell>13/16</cell>
+								<cell>Livraison</cell>
+								<cell>Mai</cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>13</cell>
+								<cell>3/16</cell>
+								<cell>"</cell>
+								<cell>Juillet</cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>12</cell>
+								<cell>9/32</cell>
+								<cell>"</cell>
+								<cell>Novembre</cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>12</cell>
+								<cell>1/8</cell>
+								<cell>"</cell>
+								<cell>Janvier</cell>
+							</row>
+						</table>Marché ferme</p>
+					<p>Arrivages du 30 avril, ler mai et de ce jour, à Minet-el-Bassal, cantars 32,184</p>
+					<p>(Cours pratiqués ce jour à la Bourse Khédi- viale à 12h.45 p.m.)<table
+							rows="4" cols="5">
+							<row>
+								<cell>Tal.</cell>
+								<cell>13</cell>
+								<cell>27/32</cell>
+								<cell>Livraison</cell>
+								<cell>Mai</cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>13</cell>
+								<cell>1/4</cell>
+								<cell>"</cell>
+								<cell>Juillet</cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>12</cell>
+								<cell>1/4</cell>
+								<cell>"</cell>
+								<cell>Novembre</cell>
+							</row>
+							<row>
+								<cell>"</cell>
+								<cell>12</cell>
+								<cell>1/8</cell>
+								<cell>"</cell>
+								<cell>Janvier</cell>
+							</row>
+						</table></p>
+					<p>Marché ferme</p>
 				</div>
 
 				<div type="item">
@@ -1117,178 +1383,982 @@
 					<head>LANNOVICH</head>
 					<p>2me qualité, lre qualité, extra: 1/8 de hausse Etat du marché de ce jour,
 						cot.: Ache- teurs réservés, ce qui nuit au mouvement des affaires</p>
-					<p>Les arrivages du 30 avril, ler mai et de ce jour se chifrent par cantars
-						31,997 contre même jour l'année précédente cantars 12,239</p>
-					<div type="item">
-						<head>Graines de coton.—Soutenu</head>
-						<p> Disponbile Ticket Mit-Affi - Baisse 10/40 Rien Haute-Egypte. - Baisse
-							10/40 Rien Blés.—Fermes, cause rareté Qualité Saïdi—Cond. Saha P.T. 116
-							" 120 Béhéra: “ “ “ 113 à 116 Feves.—Même situation Saïdi—Invariable
-							Fayoum: disponible: Rien Qualité Saïdi. Cond. Saha P.T. 87 à 90
-							Lentilles— En baisse, la pécurie ayant cassé Disponible: Rien Cond. Saha
-							P.T. 85 à 100 Orges.— Sontenu “ Cond.Saha P.T. 53 à 56 Maïs.—Plus faible
-							Disponible: Rien “ Cond. Saha P.T. 80 à 83</p>
-					</div>
-					<div type="item">
-						<head>OIGNONS</head>
+					<p>Les arrivages du 30 avril, ler mai et de ce jour se chifrent par cantars 31,997 contre même
+						jour l'année précédente cantars 12,239 <table rows="2" cols="2">
+							<row>
+								<cell>Graines de coton.– </cell>
+								<cell>Soutenu</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>Disponible</cell>
+							</row>
+						</table>
+						<table rows="3" cols="5">
+							<row>
+								<cell rows="2">Mit-Affi – Baisse 10/40</cell>
+								<cell>Ticket</cell>
+							</row>
+							<row>
+								<cell>Rien</cell>
+							</row>
+							<row>
+								<cell>Haute-Egypte.– Baisse 10/40</cell>
+								<cell>Rien</cell>
+							</row>
+							<row>
+								<cell>Blés.– Fermes, cause rareté </cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>Qualité Saïdi.– Cond. Saha</cell>
+								<cell>P.T.</cell>
+								<cell>116</cell>
+								<cell>"</cell>
+								<cell>120</cell>
+							</row>
+							<row>
+								<cell>    "      Béhéra :    "        "       </cell>
+								<cell>"</cell>
+								<cell>113</cell>
+								<cell>à</cell>
+								<cell>116</cell>
+							</row>
+							<row>
+								<cell>Feves.– Même situation</cell>
+							</row>
+							<row>
+								<cell>Saïdi.– Invariable</cell>
+							</row>
+							<row>
+								<cell>Fayoum : disponible : Rien</cell>
+							</row>
+							<row>
+								<cell>Qualité Saïdi. Cond. Saha</cell>
+								<cell>P.T.</cell>
+								<cell>87</cell>
+								<cell>à</cell>
+								<cell>90</cell>
+							</row>
+							<row>
+								<cell>Lentilles.– En baisse, la pénurie ayant cassé</cell>
+					
+							</row>
+							<row>
+								<cell>Disponible : Rien</cell>
+							</row>
+							<row>
+								<cell>Cond. Saha</cell>
+								<cell>P.T.</cell>
+								<cell>85</cell>
+								<cell>à</cell>
+								<cell>100</cell>
+							</row>
+							<row>
+								<cell>Orges.– Sotenu</cell>
+							</row>
+							<row>
+								<cell>     "   Cond. Saha</cell>
+								<cell> P.T.</cell>
+								<cell>53</cell>
+								<cell>`a</cell>
+								<cell>56</cell>
+								
+							</row>
+							<row>
+								<cell>Maïs.– Plus faible</cell>
+							</row>
+							<row>
+								<cell>Disponible : Rien</cell>
+							</row>
+							<row>
+								<cell>                "          Cond. Saha</cell>
+								<cell>P.T.</cell>
+								<cell>80</cell>
+								<cell>à</cell>
+								<cell>83</cell>
+							</row>
+						</table></p>
+				
+		
+						<div type="item"><head>OIGNONS</head>
 						<p>Arrivages du 30, 1 mai et de ce jour sacs 66147 -can. 26459. Prix P.T. 25
-							à 28 cond. franco- wagon, contre même jour en 1904, can. 16347.</p>
-					</div>
+							à 28 cond. franco- wagon, contre même jour en 1904, can. 16347.</p></div>
+					
 
 					<div type="item">
 						<p>Les priz suivants ont été pratiqués ce jour</p>
-						<p>Coton O.M.B. (Basse-Egypte) par Cantar Province Béhéra
-							Damanhour............ De P.T. 160 1/2 à 227 1/2 Provience Garbieh
-							Kafr-Zayat. . . . . . De P.T. 247 1/2 à 260 Tantah.............. “ “ 245
-							“ 260</p>
+						<p>Coton </p>
+						<p>O.M.B. </p>
+						<p>(Basse-Egypte)       par Cantar </p>
+						<p>
+							<table rows="1" cols="8">
+								<head>Province Béhéra</head>
+								<row>
+									<cell>Damanhour</cell>
+									<cell>De</cell>
+									<cell>P.T.</cell>
+									<cell>160</cell>
+									<cell>à</cell>
+									<cell>227 1/2</cell>
+								</row>
+							</table>
+							<table rows="2" cols="6">
+								<head>Provience Garbieh</head>
+								<row>
+									<cell>Kafr-Zayat</cell>
+									<cell>De</cell>
+									<cell>P.T.</cell>
+									<cell>247 1/2</cell>
+									<cell>à</cell>
+									<cell>260</cell>
+								</row>
+								<row>
+									<cell>Tantah</cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>245</cell>
+									<cell>"</cell>
+									<cell>260</cell>
+								</row>
+							</table>
+						</p>
 					</div>
 
 					<div type="item">
 						<head>SECTION DES GRAINES ET CEREALES</head>
-						<p>PRIX FRANCO-STATION : DISPONIBLE TICKET Graines de coton Afifi P.T. 54
-							10/40 à P.T. — “ Haute-Egypte “ 52 30/40 “ “ — Fèves Saïdi “ 84 — “ “
-							—</p>
+						<p>
+							<table rows="3" cols="7">
+								<head>PRIX FRANCO-STATION : DISPONIBLE TICKET</head>
+								<row>
+									<cell>Graines de coton Afifi</cell>
+									<cell>P.T.</cell>
+									<cell>54</cell>
+									<cell>10/40</cell>
+									<cell>à</cell>
+									<cell>P.T.</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>"       Haute-Egypte</cell>
+									<cell>"</cell>
+									<cell>52</cell>
+									<cell>30/40</cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Fèves Saïdi</cell>
+									<cell>"</cell>
+									<cell>84</cell>
+									<cell>– </cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+							</table>
+						</p>
 					</div>
 
 					<div type="item">
 						<head>ARRIVAGES</head>
-						<p>des dimanche 30 avril, lundi ler et mardi 2 mai 1905 Documents de
-							l’“Alexandria General Produce Association.” CHEMINS DE FER BARQUES
-							Cotons........S/B 2290 1865 Graines de coton..sacs 6120 7637 Blés Saïdi
-							....... “ — 200 “ Béhéra. . . . ” 16 — Fèves Saïdi... “ 435 — “
-							Béhéra..... “ — — Orges ............ “ — — Maïs ............. “ — —
-							Lentilles. “ — — Cotons.—Total des arrivages depuis le 1er septembre
-							1904 jusque’à ce jour, cantars 5,972,242 Contre même jour en 1904 :
-							BARQUES ET CHEMINS DE FER Coton..........................S/B 1744
-							Graines de coton..............sacs 5593 Blés Saïdi ... ................
-							“ 6 “ Béhéra.. ... ............ “ 96 Fèves Saïdi.................... “
-							1593 “ Béhéra. ... ... . . “ — Orge .................. “ —
-							Maïs........................... “ — l«entille* .................... “ 6
-							Cotons.—Total des arrivages depuis le ler septembre 1903 jusqu’à ce
-							jour, cantars 6,391,351</p>
+						<p>des dimanche 30 avril, lundi 1er et mardi 2 mai 1905 </p>
+						<p><table rows="9" cols="4">
+								<head>Documents de l'&quot;Alexandria General Produce
+									Association.&quot;</head>
+								<row role="label">
+									<cell/>
+									<cell cols="2">CHEMINS DE FER</cell>
+									<cell>BARQUES</cell>
+								</row>
+								<row>
+									<cell>Cotons</cell>
+									<cell>S/B</cell>
+									<cell>2290</cell>
+									<cell>1865</cell>
+								</row>
+								<row>
+									<cell>Graines de coton</cell>
+									<cell>sacs</cell>
+									<cell>6120</cell>
+									<cell>7637</cell>
+								</row>
+								<row>
+									<cell>Blés Saïdi</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>200</cell>
+								</row>
+								<row>
+									<cell>" Béhéra</cell>
+									<cell>"</cell>
+									<cell>16</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Fèves Saïdi</cell>
+									<cell>"</cell>
+									<cell>435</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>" Béhéra</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Orges</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Maïs</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Lentilles</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+							</table>Cotons.—Total des arrivages depuis le 1er septembre 1904
+							jusque’à ce jour, cantars 5,972,242 </p>
+						<p>Contre même jour en 1904 : </p>
+						<p><table rows="9" cols="3">
+								<row role="label">
+									<cell/>
+									<cell cols="2">BARQUES ET CHEMINS DE FER</cell>
+								</row>
+								<row>
+									<cell>Coton</cell>
+									<cell>S/B</cell>
+									<cell>1744</cell>
+								</row>
+								<row>
+									<cell>Graines de coton</cell>
+									<cell>sacs</cell>
+									<cell>5593</cell>
+								</row>
+								<row>
+									<cell>Blés Saïdi</cell>
+									<cell>"</cell>
+									<cell>6</cell>
+								</row>
+								<row>
+									<cell>" Béhéra</cell>
+									<cell>"</cell>
+									<cell>96</cell>
+								</row>
+								<row>
+									<cell>Fèves Saïdi</cell>
+									<cell>"</cell>
+									<cell>1593</cell>
+								</row>
+								<row>
+									<cell>" Béhéra</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Ogre</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Maïs</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Lentilles</cell>
+									<cell>"</cell>
+									<cell>6</cell>
+								</row>
+							</table>Cotons.—Total des arrivages depuis le ler septembre 1903 jusqu’à
+							ce jour, cantars 6,391,351</p>
 					</div>
 
 					<div type="item">
-						<head>CONTRATS, (llh.55 a.m )</head>
-						<p>Cours de la Bourse de Minet-el-Bassal Octon F.G.F.Br. Novembre...N.R Tal.
-							12 9/32 à — Mai ... ........... “ 18 7/8 „ — Joillot ... ....... “ 13
-							7/32 „ — Août............... “ 13 — „ — Graines de colon N.-D.-J. ..
-							N.R. P.T. 53 10/40 à 20/40 Mai.................. “ 56 — “ — Juin “ 57 -
-							“ - Feves-Saïdi Sept.-Oct. .. N.R. P.T.88 20/40 à 30/40</p>
+						<head>CONTRATS, (11 h. 55 a.m )</head>
+						<p>Cours de la Bourse de Minet-el-Bassal </p>
+						<p>
+							<table rows="5" cols="7">
+								<head>Coton F.G.F.Br.</head>
+								<row>
+									<cell>Novembre</cell>
+									<cell>N.R.</cell>
+									<cell>Tal.</cell>
+									<cell>12</cell>
+									<cell>9/32</cell>
+									<cell>à</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Janvier</cell>
+									<cell>...</cell>
+									<cell>"</cell>
+									<cell>12</cell>
+									<cell>1/8</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Mai</cell>
+									<cell>...</cell>
+									<cell>"</cell>
+									<cell>13</cell>
+									<cell>7/8</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Juillet</cell>
+									<cell>...</cell>
+									<cell>"</cell>
+									<cell>13</cell>
+									<cell>7/32</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Août</cell>
+									<cell>...</cell>
+									<cell>"</cell>
+									<cell>13</cell>
+									<cell>– </cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+							</table>
+							<table rows="3" cols="7">
+								<head>Graines de coton</head>
+								<row>
+									<cell>N.-D.-J.</cell>
+									<cell>N.R.</cell>
+									<cell>P.T.</cell>
+									<cell>58</cell>
+									<cell>10/40</cell>
+									<cell>à</cell>
+									<cell>20/40</cell>
+								</row>
+								<row>
+									<cell>Mai</cell>
+									<cell>...</cell>
+									<cell>"</cell>
+									<cell>56</cell>
+									<cell>– </cell>
+									<cell>" </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Juin</cell>
+									<cell>...</cell>
+									<cell>"</cell>
+									<cell>57</cell>
+									<cell>– </cell>
+									<cell>"</cell>
+									<cell>– </cell>
+								</row>
+							</table>
+							<table rows="1" cols="7">
+								<head>Fèves Saïdi</head>
+								<row>
+									<cell>Sept.-Oct.</cell>
+									<cell>N.R.</cell>
+									<cell>P.T.</cell>
+									<cell>88</cell>
+									<cell>20/40</cell>
+									<cell>à</cell>
+									<cell>30/40</cell>
+								</row>
+							</table>
+						</p>
 					</div>
 
 					<div type="item">
 						<head>Remarques</head>
-						<p>Cotons : Nouvelle récolte.—A l’ouverture l'attention de la corbeille
+						<p><hi rend="bold">Cotons :</hi> Nouvelle récolte.—A l’ouverture l'attention de la corbeille
 							s’est portée sur le novembre. On a débuté sur cette livraison à tal. 12
 							5/16, ensuite que’ques affaires sont faites à tal. 12 11/32, mais peu
 							après on fléchit à tal. 12 3/16.</p>
 					</div>
 					<div type="item">
-						<p>Récolte actuelle.—La séance ouvre à tal. 14 1/8 pour le mai. On se tient
-							sur la réserve dans la crainte que la filière de demain ne père sur le
-							marché. Les acheteurs par contre se disent assez forte pour continuer à
-							être maitres de la situation, ce qui ne nous empêche pas pour le moment
-							de tomber à 13 13/16 vendeurs. Plus tard légère reprise. Graines de
-							coton: Nouvelle récolte.—La cote est soutenue.</p>
+						<p><hi rend="bold">Récolte actuelle.</hi>- La séance ouvre à tal. 14 1/8 pour le mai. On se
+							tient sur la réserve dans la crainte que la filière de demain ne père
+							sur le marché. Les acheteurs par contre se disent assez forte pour
+							continuer à être maitres de la situation, ce qui ne nous empêche pas
+							pour le moment de tomber à 13 13/16 vendeurs. Plus tard légère reprise. </p>
+						<p>Graines de coton: Nouvelle récolte.—La cote est soutenue.</p>
+		
 					</div>
 					<div type="item">
-						<p>Récolte actuelle.- La séance a ouvert à P.T. 56 10/40 pour le mai.</p>
-						<p>Feves-Saidi : Nouvelle récolte.—Cours pres- que nominaux.</p>
+						<p><hi rend="bold">Récolte actuelle.</hi>- La séance a ouvert à P.T. 56 10/40 pour le mai.</p>
+						<p><hi rend="bold">Feves-Saidi</hi> : Nouvelle récolte.—Cours pres- que nominaux.</p>
 					</div>
 
 					<div type="item">
 						<head>Exterieur</head>
-						<dateline>Dépêches particulières du ler mai 1905</dateline>
-						<p>PRODUITS ÉGYPTIENS LIVERPOOL Coton: Etat du Marché.—Ferme
-							Disponible.—Beurrés: Même cours Future Juin: 6 37/64 LIVERPOOL Graines
-							de coton.—Soutenues Feves.—Fermes HULL Graines de coton.—Fermes
-							Feves.—Soutenues LONDRES Graines de coton.—Bonne tenue Feves.—Néant
-							COTON AMÉRICAIN LIVERPOOL Futurs juil.-août: 4 19 (10 pointe de hausse)
-							“ oct.-nov. : 4.23 (10 points de hausse) Disponible : 4.29 (9 points de
-							hausse) NEW-YORK Middling Upland: 7.90 (5 points do hausse) Futurs
-							juil.: 7.53 (11 pointe de hausse) “ oct. : 7.70 (18 pointe do hausse)
-							Arrivages du jour, balles 17,000 Contre même jour, l’année dernière,
-							balles 6,000</p>
+						<dateline>Dépêches particulières du 1er mai 1905</dateline>
+						<p>PRODUITS ÉGYPTIENS </p>
+						<p>LIVERPOOL </p>
+						<p>Coton: Etat du Marché.—Ferme </p>
+						<p>Disponible.—Beurrés: Même cours </p>
+						<p>Futurs Juin: 6 37/64 </p>
+						<p>LIVERPOOL </p>
+						<p>Graines de coton.—Soutenues </p>
+						<p>Feves.—Fermes </p>
+						<p>HULL </p>
+						<p>Graines de coton.—Fermes </p>
+						<p>Feves.—Soutenues </p>
+						<p>LONDRES Graines de coton.—Bonne tenue </p>
+						<p>Feves.—Néant </p>
+						<p>COTON AMÉRICAIN </p>
+						<p>LIVERPOOL </p>
+						<p>Futurs juil.-août: 4 19 (10 pointe de hausse) </p>
+						<p>     “    oct.-nov.: 4.23 (10 points de hausse) </p>
+						<p>Disponible : 4.29 (9 points de hausse) </p>
+						<p>NEW-YORK </p>
+						<p>Middling Upland: 7.90 (5 points do hausse) </p>
+						<p>Futurs juil.: 7.53 (11 pointe de hausse) </p>
+						<p>     “    oct. : 7.70 (18 pointe do hausse) </p>
+						<p>Arrivages du jour, balles 17,000 </p>
+						<p>Contre même jour, l’année dernière, balles 6,000</p>
 					</div>
 
 					<div type="item">
 						<head>BULLETIN DE LA BOURSE</head>
 						<p>(Autourd’hui à midi et demie) On a débuté ferme, mais sans beaucoup
 							d’affaires.</p>
-						<p>En hausse la Banque Nationale atteint 27 3/8, l'Agricole 13 5/8, la Land
-							Bank 9 13/16 et les Privilégiées Tramways 151 1/2. Il y a baisse au
-							contraire en Daïra à 287/8 et en Eaux d’Alexandrie à 16 1/4.</p>
-						<p>Quant aux valeurs récemment émises, elles sont en pleine débacle:
-							l’Investment tombe de 2 1/8 à 2 vendeurs et les Estates de 1332 à 1</p>
+						<p>En hausse la Banque Nationale atteint 27 3/8, l'Agricole 13 5/8, la Land Bank 9 13/16 et
+							les Privilégiées Tramways 151 1/2. </p>
+						<p>Il y a baisse au contraire en Daïra à 287/8 et en Eaux d’Alexandrie à 16
+							1/4.</p>
+						<p>Quant aux valeurs récemment émises, elles sont en pleine débacle: l’Investment tombe de 2
+							1/8 à 2 vendeurs et les Estates de 1332 à 1.</p>
 					</div>
 
 					<div type="item">
 						<head>REUTER’S TELEGRAMS CLOSING REPORTS</head>
 
-						<p>Liverpool, Mai 1, 1 p.m. Sales of the day........ ... ... bales 8000 of
-							which Egyptian ............... “ 500 American (new crop) Maize Spot per
-							cental................. 4/2 Amer. futures (May-June)....... 4.13 “ “
-							(Sept.-Oct.) 4.20 Amer. futures (June-July)....... 4.15 “ “
-							(Oct-Nov.)...... 4.21 American Middling ............ 4.29 Egypt fully
-							good fair, delivery (May) 6 37/64 “ “ “ “ “ (June) 6 34/64 “ “ “ “ “
-							(July) 6 29/64 “ “ “ ” “ (Nov.) 6 17/64 Egypt Brown fair per lb. d. ...
-							5 11/16 “ “ good fair ............. 6 8/16 “ “ good 7 4/16 “ fully good
-							fair............ 6 12/16 Egyptian Saidi Beans new (per 480 lbs.) 27/9
-							Arrivals from Egypt S.S. “Fabian” 1401 and S.S. “Rameses” 2144 bales of
-							cotton. New-York, May 1 Spot Cotton....................... 7.90 American
-							Futures (June)... .... 7.45 “ “ (July)........ 7.53 “ “ (October)
-							........ 7.70 “ “ (November) . ... 7.74 Cable transfers……………. dol. 4.86
-							3/4 Cotton day’s receipts at all U.S. Ports. bales 17,000 Liverpool, May
-							1. American futures (June-July) .......... 4.17 London, May l. Private
-							discount (3 month bills) ... 2 1/8 % Bar Silver (per oz d.).. 26 3/16
-							Egypt cot. seed to Hull (May) 5 7/16 quiet German Beat Sugar (May)
-							....... 12/11 1/6 Paris, May l. Lots Turcs.. ... 135 — Crédit Lyonnais
-							.................. 1120 — Ottoman Bank...................... 603 —
-							Cheques on London.............. 25.13 1/2 Sugar White No. 3 (May)
-							............ 36 1/8 Crédit Foncier Egyptien :.......... 825 — Banque
-							d'Athènes (nouvelleusance) 118 —</p>
+						<p>Liverpool, Mai 1, 1 p.m. </p>
+						<p>
+							<table rows="10" cols="7">
+								<row>
+									<cell>Sales of the day</cell>
+									<cell rows="2"/>
+									<cell rows="2"/>
+									<cell rows="2"/>
+									<cell rows="2"/>
+									<cell>bales</cell>
+									<cell>8,000</cell>
+								</row>
+								<row>
+									<cell>of which Egyptian</cell>
+									<cell>"</cell>
+									<cell>500</cell>
+								</row>
+								<row>
+									<cell>American (new crop) </cell>
+									<cell>Maize </cell>
+									<cell>Spot</cell>
+									<cell/>
+									<cell/>
+									<cell/>
+								</row>
+								<row>
+									<cell>per cental</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>4/2</cell>
+								</row>
+								<row>
+									<cell>Amer. futures</cell>
+									<cell>(May-June)</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>4.13</cell>
+								</row>
+								<row>
+									<cell>"        "</cell>
+									<cell>(Sept.-Oct.)</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>4.20</cell>
+								</row>
+								<row>
+									<cell>Amer. futures</cell>
+									<cell>(June-July)</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>4.15</cell>
+								</row>
+								<row>
+									<cell>"        "</cell>
+									<cell>(Oct.-Nov.)</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>4.21</cell>
+								</row>
+								<row>
+									<cell>American Middling</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>4.29</cell>
+								</row>
+								<row>
+									<cell>Egypt. fully</cell>
+									<cell>good</cell>
+									<cell>fair,</cell>
+									<cell>delivery</cell>
+									<cell>(May)</cell>
+									<cell>6</cell>
+									<cell>37/64</cell>
+								</row>
+								<row>
+									<cell>"       "</cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>(June)</cell>
+									<cell>6</cell>
+									<cell>34/64</cell>
+								</row>
+								<row>
+									<cell>"       "</cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>(July)</cell>
+									<cell>6</cell>
+									<cell>29/64</cell>
+								</row>
+								<row>
+									<cell>"       "</cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>"</cell>
+									<cell>(Nov.)</cell>
+									<cell>6</cell>
+									<cell>17/64</cell>
+								</row>
+								<row>
+									<cell>Egypt. Brown</cell>
+									<cell>fair</cell>
+									<cell>per lb.</cell>
+									<cell>d.</cell>
+									<cell>...</cell>
+									<cell>5</cell>
+									<cell>11/16</cell>
+								</row>
+								<row>
+									<cell>"       "</cell>
+									<cell>good fair</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>6</cell>
+									<cell>8/16</cell>
+								</row>
+								<row>
+									<cell>"      "</cell>
+									<cell>good </cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>7</cell>
+									<cell>4/16</cell>
+								</row>
+								<row>
+									<cell>" fully</cell>
+									<cell>good fair</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>6</cell>
+									<cell>12/16</cell>
+								</row>
+								<row>
+									<cell cols="4">Egyptian Saidi Beans new (per 480 lbs.)</cell>
+									<cell cols="3">27.9</cell>
+								</row>
+								<row>
+									<cell cols="7">Arrivals from Egypt S.S. "Fabian" 1401 and S.S.
+										"Ramses" 2144 bales of cotton.</cell>
+								</row>
+							</table>
+						</p>
+						<p>New-York, May 1.</p>
+						<p>
+							<table rows="6" cols="7">
+								<row>
+									<cell>Spot Cotton</cell>
+									<cell>…</cell>
+									<cell>...</cell>
+									<cell>7.90</cell>
+								</row>
+								<row>
+									<cell>American Futures</cell>
+									<cell>(June)</cell>
+									<cell>...</cell>
+									<cell>7.45</cell>
+								</row>
+								<row>
+									<cell>"         "</cell>
+									<cell>(July)</cell>
+									<cell>...</cell>
+									<cell>7.53</cell>
+								</row>
+								<row>
+									<cell>"        "</cell>
+									<cell>(October)</cell>
+									<cell>...</cell>
+									<cell>7.70</cell>
+								</row>
+								<row>
+									<cell>"       "</cell>
+									<cell>(November)</cell>
+									<cell>...</cell>
+									<cell>7.74</cell>
+								</row>
+								<row>
+									<cell>Cable transfers</cell>
+									<cell>…</cell>
+									<cell>dol.</cell>
+									<cell>4.86 3/4</cell>
+								</row>
+								<row>
+									<cell>Cotton day's receipts at all U.S. Ports</cell>
+									<cell>...</cell>
+									<cell>bales</cell>
+									<cell>17,000</cell>
+								</row>
+							</table>
+						</p>
+						<p>Liverpool, May 1. <table rows="1" cols="7">
+								<row>
+									<cell>American futures</cell>
+									<cell>(June-July)</cell>
+									<cell>...</cell>
+									<cell>...</cell>
+									<cell>4.17</cell>
+								</row>
+							</table>London, May 1.</p>
+						<p><table rows="4" cols="7">
+								<row>
+									<cell>Private discount (3 month bills)</cell>
+									<cell>...</cell>
+									<cell>2 1/8%</cell>
+								</row>
+								<row>
+									<cell>Bar Silver (per oz. d.)</cell>
+									<cell>...</cell>
+									<cell>26 3/16</cell>
+								</row>
+								<row>
+									<cell>Egypt. cot. seed to Hull (May)</cell>
+									<cell>...</cell>
+									<cell>5 7/16</cell>
+									<cell>quiet</cell>
+								</row>
+								<row>
+									<cell>German Beet Sugar (May)</cell>
+									<cell>...</cell>
+									<cell>12/11 </cell>
+									<cell>1/4</cell>
+								</row>
+							</table>Paris, May 1.</p>
+						<p>
+							<table rows="7" cols="3">
+								<row>
+									<cell>Lots Turcs</cell>
+									<cell>135</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Crédit Lyonnais</cell>
+									<cell>1120</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Ottoman Bank</cell>
+									<cell>603</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Cheques on London</cell>
+									<cell>25.13</cell>
+									<cell>1/2</cell>
+								</row>
+								<row>
+									<cell>Sugar White No. 3 (May)</cell>
+									<cell>36</cell>
+									<cell>7/8</cell>
+								</row>
+								<row>
+									<cell>Crédit Foncier Egyptien</cell>
+									<cell>825</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Banque d'Athenes (nouvellausance)</cell>
+									<cell>118</cell>
+									<cell>– </cell>
+								</row>
+							</table>
+						</p>
 					</div>
 
 					<div type="item">
 						<head>TELEGRAMME HAVAS </head>
-
-						<dateline>BOURSE du ler mai 1905</dateline>
-						<p>COURS DES VALEURS A TERME, CLOTURE PARIS Rente Française 3 % . Fr. 98 87
-							Actions du Suez . ... ... “ 4340 — Lots Turcs....................“ 134
-							50 Turc Unifié................ “ 88 55 Dette Egyptienne Unifiée “ 108 40
-							Daïra Sanieh ” 100 80 Crédit Foncier Egyptien..... “ 825 — Extérieur
-							espagnol......... “ 20 Obl. Banque Nat. de Grèce ... „ — - Banque
-							d'Athènes, nouvelles actions.................. ... „ 120 — Métropolitain
-							” - — Russe consolidé.......... ... “ 86 85 Sosnowice... ............. “
-							- - Change sur Londres “ 25 13 1/2 Sucre No. 3 disponible ... … ” - -
-							Sucre No. 3 livrable le 4 de mars “ - - LONDRES Consolidés anglais.. ...
-							£ fermée Escomptes—Paris 3, Londres 2 1/2 Berlin 3.</p>
+						<dateline>BOURSE du 1er mai 1905</dateline>
+						<p>COURS DES VALEURS A TERME, CLOTURE </p>
+						<p>PARIS </p>
+						<p>
+							<table rows="10" cols="4">
+								<row>
+									<cell>Rente Francaise 3%</cell>
+									<cell>Fr.</cell>
+									<cell>98</cell>
+									<cell>87</cell>
+								</row>
+								<row>
+									<cell>Actions de Suez</cell>
+									<cell>"</cell>
+									<cell>4340</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Lots Turcs</cell>
+									<cell>"</cell>
+									<cell>134</cell>
+									<cell>50</cell>
+								</row>
+								<row>
+									<cell>Turc Unifé</cell>
+									<cell>"</cell>
+									<cell>88</cell>
+									<cell>55</cell>
+								</row>
+								<row>
+									<cell>Dette Egyptienne Unifée</cell>
+									<cell>"</cell>
+									<cell>108</cell>
+									<cell>40</cell>
+								</row>
+								<row>
+									<cell>Daïra Sanieh</cell>
+									<cell>"</cell>
+									<cell>100</cell>
+									<cell>80</cell>
+								</row>
+								<row>
+									<cell>Crédit Foncier Egyptien</cell>
+									<cell>"</cell>
+									<cell>825</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Extérieur espagnol</cell>
+									<cell>"</cell>
+									<cell>90</cell>
+									<cell>12</cell>
+								</row>
+								<row>
+									<cell>Obl. Banque Nat. de Grèce</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Banque d'Athènes, nouvelles actions</cell>
+									<cell>"</cell>
+									<cell>120</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Métropolitain</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Russe consolidé</cell>
+									<cell>"</cell>
+									<cell>86</cell>
+									<cell>85</cell>
+								</row>
+								<row>
+									<cell>Sosnowice</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Change sur Londres</cell>
+									<cell>"</cell>
+									<cell>25</cell>
+									<cell>13 1/2</cell>
+								</row>
+								<row>
+									<cell>Sucre No. 3 disponible </cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Sucre No. 3 livrable le 4 de mars</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+							</table>
+						</p>
+						<p>LONDRES </p>
+						<p>
+							<table rows="2" cols="3">
+								<row>
+									<cell>Consolidés anglais</cell>
+									<cell>£</cell>
+									<cell>fermé</cell>
+								</row>
+								<row>
+									<cell>Escomptes – Paris 3, Londres 2 ½, Berlin 3.</cell>
+									<cell/>
+								</row>
+							</table>
+						</p>
 					</div>
 					<div type="item">
-						<head>SHARE LIST ISSUED BY THE “ASSOCIATION DES COURTIERS EN VALEURS
-							D’ALEXANDRIE”.</head>
+						<head>SHARE LIST </head>
+						<p>ISSUED BY THE “ASSOCIATION DES COURTIERS EN VALEURS
+							D’ALEXANDRIE”.</p>
 
-						<dateline>Clôture d'aujourd'hui à 12h.45 p.m.</dateline>
-
-						<p>Agric. Bank of Egypt Let. 13 9/16 à - 5/8 Nat. Bank of Egypt “ 27 5/16 “
-							- 3/8 Ramleh Railway “ 7 7/8 “ 8 - Egyptian Delta Rail- way exec. “ 13
-							5/8 “ — 11/16 Tram. d’Alexandrie...Fos. 151 1/2 “ 152 — “ “ div. “ 358 -
-							“ 360 - Alexandria Water... Let. 16 3/16 “ — 1/4 Eaux du Caire... . Fos.
-							- — “ - - Daïra Sanieh Let. 28 13/16 “ - 7/8 Béhéra L.E. — — “ — —
-							Bourse Khédiviale … Let. 23 — “ 23 1/4 Egyptian Markets “ 23/3 “ 23/6 —
-							Anglo-Egyptian Spinning ... “ - 11/16 “ - 1/4 Bière d'Alex. Priv. Fos.
-							208 — “ 210 — “ “ Div. “ 108 — “ 110 — “ du Caire Priv. “ 130 — “ 132 —
-							“ “ Div. “ 68 — “ 70 — Egypt- Cotton Mills Let. 5/3 — “ 5/6 — “ Salt
-							&amp; Soda... “ 36/6 — “ 36/9 — Pressage ... “ - - “ - - Presses Libres
-							“ - - “ - - Oblig. Crédit Foncier Egyptien 3 % Fos. 314 - “ 315 — Lots
-							Turcs. “ 132 - “ 133 - Banque Nationale de Grèce exec. “ - - “ - -
-							Banque Industrielle L.E. - - “ - - Cassa di Sconto Fos. 181 — “ 166 1/2
-							Anglo-American Nile Let. - - “ - - Banque d'Athènes Fos. 118 — “ 118 1/2
-							Deferred Delta Let. - - “ - - Nungovich Hotel “ 9 5/8 ” - 3/4 Delta Land
-							“ 2 5/8 “ - 3/4 The Nile Land " - - " - - Sucreries et Raffinerie
-							d’Egypte Fos. 163 - “ 164 - Khedivial Mail Let. 4 1/8 “ 18/ — Egyptian
-							Invest. &amp; Agency Ld. “ 1 15/16 “ 2 - Land Bank “ 9 5/8 “ 9 3/4</p>
+						<p>
+							<table rows="12" cols="7">
+								<head>Clôture d'aujord'hui à 12h.45 p.m.</head>
+								<row>
+									<cell>Agric. Bank of Egypt</cell>
+									<cell>Lst.</cell>
+									<cell>13</cell>
+									<cell>9/16</cell>
+									<cell>à</cell>
+									<cell>– </cell>
+									<cell>5/8</cell>
+								</row>
+								<row>
+									<cell>Nat. Bank of Egypt</cell>
+									<cell>"</cell>
+									<cell>27</cell>
+									<cell>5/16</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>3/8</cell>
+								</row>
+								<row>
+									<cell>Ramleh Railway</cell>
+									<cell>"</cell>
+									<cell>7</cell>
+									<cell>7/8</cell>
+									<cell>"</cell>
+									<cell>8</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Egyptian Delta Railway exec.</cell>
+									<cell>"</cell>
+									<cell>13</cell>
+									<cell>5/8</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>11/16</cell>
+								</row>
+								<row>
+									<cell>Tram d'Alexandrie</cell>
+									<cell>Fcs.</cell>
+									<cell>151</cell>
+									<cell>1/2</cell>
+									<cell>"</cell>
+									<cell>152</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>             "                "                div.</cell>
+									<cell>"</cell>
+									<cell>358</cell>
+									<cell>– </cell>
+									<cell>"</cell>
+									<cell>360</cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Alexandria Water</cell>
+									<cell>Lst.</cell>
+									<cell>16</cell>
+									<cell>3/16</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>1/4</cell>
+								</row>
+								<row>
+									<cell>Eaux du Caire</cell>
+									<cell>Fcs.</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Daïra Sanieh</cell>
+									<cell>Lst.</cell>
+									<cell>28</cell>
+									<cell>13/16</cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>7/8</cell>
+								</row>
+								<row>
+									<cell>Béhéra</cell>
+									<cell>L.R.</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+									<cell>"</cell>
+									<cell>– </cell>
+									<cell>– </cell>
+								</row>
+								<row>
+									<cell>Bourse Khédiviale</cell>
+									<cell>Lst.</cell>
+									<cell>23</cell>
+									<cell>–</cell>
+									<cell>"</cell>
+									<cell>23</cell>
+									<cell>1/4</cell>
+								</row>
+								<row>
+									<cell>Egyptian Markets</cell>
+									<cell>"</cell>
+									<cell>23/3</cell>
+									<cell/>
+									<cell>"</cell>
+									<cell>23/6</cell>
+									<cell>– </cell>
+								</row>
+							</table>
+						</p>
 					</div>
 
 					<div type="item">
@@ -1297,9 +2367,12 @@
 						<dateline>Liverpool, 10h. a.m-</dateline>
 					</div>
 					<div type="item">
-						<p>Américain Futurs: juil.-août Hier: 4.14. Aujourd'hui! 4.16 “ oct-nov.:
-							Hier et Aujourd'hui :- Seconde Dépêche, 10h.5 a.m. Futurs : juil.-août:
-							4.16 oct-nov.: 4.20</p>
+						<p>Américain </p>
+						<p>Futurs: juil.-août Hier: 4.14. Aujourd'hui 4.16 </p>
+						<p>     “     oct-nov.: Hier et Aujourd'hui :- </p>
+						<p>                Seconde Dépêche, 10h.5 a.m. </p>
+						<p>Futurs : juil.-août: 4.16 </p>
+						<p>      "      oct-nov.: 4.20</p>
 					</div>
 					<dateline>Bourse Khédiviale, le 2 mai 1905</dateline>
 				</div>
@@ -1308,11 +2381,116 @@
 					<head>DERNIERE HEURE</head>
 					<dateline>(Clôture de la Bourse Khédiviale 1h. p.m.)</dateline>
 					<head>Cours de l'Association des Courtiers eu Marchandises</head>
-					<p>Coton F.G.F.Br. Novembre N.R Tal, 12 9/32 à - 5/16 Janvier “ 12 3/16 “ - -
-						Mai “ 13 27/32 “ — 7/8 Juillet “ 13 9/32 “ — 5/16 Août “ 13 1/16 “ — 1/8</p>
-					<p>Graines de coton N.-D.-J. N.R P.T. 58 — à — 10/40 Juin “ 56 — “ - - Juillet “
-						57 — “ - - Feves Saïdi Sept.-Oct. N.R. P.T. 87 20/40 à 88 -</p>
+					<p>
+						<table rows="5" cols="8">
+							<head>Cours de l'Association des Courtiers en Marchandises</head>
+							<row role="label">
+								<cell>Coton F.G.F.Br</cell>
+							</row>
+							<row>
+								<cell>Novembre</cell>
+								<cell>N.R.</cell>
+								<cell>Tal.</cell>
+								<cell>12</cell>
+								<cell>9/32</cell>
+								<cell>à</cell>
+								<cell>– </cell>
+								<cell>5/16</cell>
+							</row>
+							<row>
+								<cell>Janvier</cell>
+								<cell>...</cell>
+								<cell>"</cell>
+								<cell>12</cell>
+								<cell>3/16</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Mai</cell>
+								<cell>...</cell>
+								<cell>"</cell>
+								<cell>13</cell>
+								<cell>27/32</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>7/8</cell>
+							</row>
+							<row>
+								<cell>Juillet</cell>
+								<cell>...</cell>
+								<cell>"</cell>
+								<cell>13</cell>
+								<cell>9/32</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>5/16</cell>
+							</row>
+							<row>
+								<cell>Août</cell>
+								<cell>...</cell>
+								<cell>"</cell>
+								<cell>13</cell>
+								<cell>1/16</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>1/8</cell>
+							</row>
+						</table>
+						<table rows="3" cols="8">
+							<row role="label">
+								<cell>Graines de coton</cell>
+							</row>
+							<row>
+								<cell>N.-D.-J.</cell>
+								<cell>N.R.</cell>
+								<cell>P.T.</cell>
+								<cell>58</cell>
+								<cell>– </cell>
+								<cell>à</cell>
+								<cell>– </cell>
+								<cell>10/40</cell>
+							</row>
+							<row>
+								<cell>Juin</cell>
+								<cell>...</cell>
+								<cell>"</cell>
+								<cell>56</cell>
+								<cell>– </cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Juillet</cell>
+								<cell>...</cell>
+								<cell>"</cell>
+								<cell>57</cell>
+								<cell>– </cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+						</table>
+						<table rows="1" cols="8">
+							<row role="label">
+								<cell>Feves Saïdi</cell>
+							</row>
+							<row>
+								<cell>Sept.-Oct.</cell>
+								<cell>N.R.</cell>
+								<cell>P.T.</cell>
+								<cell>87</cell>
+								<cell>20/40</cell>
+								<cell>à</cell>
+								<cell>88</cell>
+								<cell>– </cell>
+							</row>
+						</table>
+					</p>
 				</div>
+				
 				<div type="page" n="5">
 					<div type="item">
 						<head>ALEXANDRIA SPORTING CLUB</head>
@@ -1662,9 +2840,45 @@
 
 				<div type="item">
 					<head>Cheap Prepaid Advertisements.</head>
-					<p>Under this heading advertisements are in- serted at the following rates :—
-						ONCE 3 TIMES 6 TIMES 15 words P.T. 5 P.T. 10 P.T. 15 30 words “ 8 “ 16 “ 24
-						Every 10 words, \ beyond 30 / “ 2 “ 4 “ 6</p>
+					<p>Under this heading advertisements are in- serted at the following rates :— <table rows="3"
+							cols="7">
+							<row role="label">
+								<cell/>
+								<cell>Once</cell>
+								<cell/>
+								<cell>3 Times</cell>
+								<cell/>
+								<cell>6 Times</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>15 words</cell>
+								<cell>P.T.</cell>
+								<cell>5</cell>
+								<cell>P.T.</cell>
+								<cell>10</cell>
+								<cell>P.T.</cell>
+								<cell>15</cell>
+							</row>
+							<row>
+								<cell>30 words</cell>
+								<cell>"</cell>
+								<cell>3</cell>
+								<cell>"</cell>
+								<cell>16</cell>
+								<cell>"</cell>
+								<cell>24</cell>
+							</row>
+							<row>
+								<cell>Every 10 words, beyond 30</cell>
+								<cell>"</cell>
+								<cell>2</cell>
+								<cell>"</cell>
+								<cell>4</cell>
+								<cell>"</cell>
+								<cell>6</cell>
+							</row>
+						</table></p>
 					<p>The address is counted. The advertisement mast appear on consecutive days for
 						above rates to be obtained. 50% extra is charged for advertisements not
 						appearing consecutively.</p>
@@ -1724,27 +2938,262 @@
 					<head>EXPORT MANIFESTS</head>
 					<p>For LONDON, by the S.S. “Whitgift", sailed on the 21st April:</p>
 
-					<p>Hadjes &amp; Co., 1,000 bags onions R. Mordo, 2,100 “ “ J. Riches &amp; Co.,
-						898 “ “ H. Stavrides, 1,500 “ “ C. Parissis, 1,294 “ “ K. Oyler, 426 “ “ R.
-						J. Florent, 500 “ “ Champagnes fr., 1,326 “ “ E.A. O’Kelly &amp; Co., 333 “
-						“ A. Hess &amp; Co., 2,100 “ “ L. A. Johnson, 2,754 “ “ L. Onofrio, 880 “ “
-						F.J. Andres, 124 “ “ M.Osman, 1,601 “ “ H. Deghem, 1,011 “ “ Behrend &amp;
-						Co., 1,030 tons cotton seed Moursi Bros., 262 “ “ “ Behrend &amp; Co., 996
-						bags oil cake Kafr-el-Zayat Cot. Co. Ltd, 9,208 “ “ “ Sectaries et Raffi.,
-						20,500 bags sugar Kafr-el-Zayat Cot Co. Ltd, 313 barrels black grease Hadjes
-						&amp; Co., 874 bags bones, 5 bales dry hides, 46 bags horns N. Pappa, 20
-						empty firkins, 161 cases empty bottles, 39 cases empty tins G.G. Perdicachi,
-						16 packages quails N.G. Candioglu, 21 “ ” G.D. Pappa &amp; Hannah Saleh, 64
-						“ “ Alex. Bonded Warehouse, 10 bales old rags and cloths, 7 packages curios
-						and effects E. Hatoun, 6 pack, curios &amp; effects J. B. Caffari, 25 “ “ “
-						Thos. Cook &amp; Son, 208 “ “ “ Henriques, 1 “ “ “ J. Ross &amp; Co., 19 “ “
-						“ L. Heller, 250 casks molasses Kraft &amp; Naggiar, 12 bags senna Salonica
-						Cigarettes Co., 2 cases cigarettes Y. Théophile &amp; Co., 1 bale carpet
-						Hochapfeld, 1 bundle cloths H. Barudi Bey, 2 cases opium Carver Bros. &amp;
-						Co. Ltd, 2 bags cotton seed Pour TRIESTE, par le bateau autr. "Vesta”, parti
-						le 21 avril: B. Barki, 30 balles coton J. C. Baines &amp; Co., 32 “ “ Carver
-						Bros. &amp; Co., 31 “ “ 93 balles coton R Almsay &amp; Co., 326 barils vides
-						Eredi Albertini, 400 “ “ Dèpôt Bière de Graz, 500 “ “ A. Dreher, 450 “ “ Sté
+					<p><table rows="9" cols="5">
+							<row>
+								<cell>Hadjes &amp; Co.,</cell>
+								<cell>1,000</cell>
+								<cell>bags</cell>
+								<cell>onions</cell>
+							</row>
+							<row>
+								<cell>R. Mordo,</cell>
+								<cell>2,100</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>J. Riches &amp; Co.,</cell>
+								<cell>898</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>H. Stavrides,</cell>
+								<cell>1,500</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>C. Parissis,</cell>
+								<cell>1,294</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>E. Oyler,</cell>
+								<cell>426</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>R. J. Florent,</cell>
+								<cell>500</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Champagnes fr.,</cell>
+								<cell>1,326</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>E. A. O'Kelly &amp; Co.,</cell>
+								<cell>333</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>A. Hess &amp; Co.,</cell>
+								<cell>2,100</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>L. A. Johnson,</cell>
+								<cell>2,754</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>L. Onoforio,</cell>
+								<cell>880</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>F.J. Andres,</cell>
+								<cell>124</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>M. Osman,</cell>
+								<cell>1,601</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>H. Deghem,</cell>
+								<cell>1,011</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Behrend &amp; Co.,</cell>
+								<cell>1,030</cell>
+								<cell>tons</cell>
+								<cell>cotton</cell>
+								<cell>seed</cell>
+							</row>
+							<row>
+								<cell>Moursi Bros.,</cell>
+								<cell>262</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Behren &amp; Co.,</cell>
+								<cell>996</cell>
+								<cell>bags</cell>
+								<cell>oil</cell>
+								<cell>cake</cell>
+							</row>
+							<row>
+								<cell>Kafr-el-Zayat Cot. Co. Ltd,</cell>
+								<cell>9,208</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Sucreries et Raffi.,</cell>
+								<cell>20,500</cell>
+								<cell>bags</cell>
+								<cell>sugar</cell>
+							</row>
+							<row>
+								<cell>Kafr-el-Zayat Cot. Co. Ltd,</cell>
+								<cell>313</cell>
+								<cell>barrels</cell>
+								<cell>black</cell>
+								<cell>grease</cell>
+							</row>
+							<row>
+								<cell>Hadjes &amp; Co.,</cell>
+								<cell>874</cell>
+								<cell>bags bones,</cell>
+								<cell>5</cell>
+								<cell>bales dry hides,</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>46</cell>
+								<cell>bags horns</cell>
+							</row>
+							<row>
+								<cell rows="2">N. Pappa,</cell>
+								<cell>20 </cell>
+								<cell>empty firkins,</cell>
+								<cell>161</cell>
+								<cell>cases empty bottles,</cell>
+							</row>
+							<row>
+								<cell>39</cell>
+								<cell>cases empty tins</cell>
+							</row>
+							<row>
+								<cell>G. G. Perdicachi,</cell>
+								<cell>16</cell>
+								<cell>packages</cell>
+								<cell>quails</cell>
+							</row>
+							<row>
+								<cell>N. G. Candioglu,</cell>
+								<cell>21</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>G. D. Pappa &amp; Hannah Saleh,</cell>
+								<cell>64</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Alex. Bonded Warehouse,</cell>
+								<cell>10</cell>
+								<cell>bales old rags and cloths,</cell>
+								<cell>7</cell>
+								<cell>packages curios and effects</cell>
+							</row>
+							<row>
+								<cell>E. Hatoun,</cell>
+								<cell>6 </cell>
+								<cell>pack</cell>
+								<cell>curios &amp;</cell>
+								<cell>effects</cell>
+							</row>
+							<row>
+								<cell>J. B. Caffari,</cell>
+								<cell>25</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Thos. Cook &amp; Son,</cell>
+								<cell>208</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Henriques,</cell>
+								<cell>1</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>J. Ross &amp; Co.,</cell>
+								<cell>19</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>L. Heller,</cell>
+								<cell>250</cell>
+								<cell>casks molasses</cell>
+							</row>
+							<row>
+								<cell>Kraft &amp; Naggiar,</cell>
+								<cell>12</cell>
+								<cell>bags senna</cell>
+							</row>
+							<row>
+								<cell>Salonica Cigarettes Co.,</cell>
+								<cell>2</cell>
+								<cell>cases cigarettes </cell>
+							</row>
+							<row>
+								<cell>Y. Théophile &amp; Co.,</cell>
+								<cell>1</cell>
+								<cell>bale carpet</cell>
+							</row>
+							<row>
+								<cell>Hochapfeld,</cell>
+								<cell>1</cell>
+								<cell>bundle cloths</cell>
+							</row>
+							<row>
+								<cell>H. Barudi Bey,</cell>
+								<cell>2</cell>
+								<cell>cases opium</cell>
+							</row>
+							<row>
+								<cell>Carver Bros. &amp; Co. Ltd,</cell>
+								<cell>2</cell>
+								<cell>bags cotton seed</cell>
+							</row></table></p></div>
+						
+						<div type="item"></div><dateline>Pour TRIESTE, par le bateau autr.
+						"Vesta”, parti le 21 avril: </dateline>
+					<p>B. Barki, 30 balles coton J. C. Baines &amp; Co., 32 “ “ Carver Bros. &amp;
+						Co., 31 “ “ 93 balles coton R Almsay &amp; Co., 326 barils vides Eredi
+						Albertini, 400 “ “ Dèpôt Bière de Graz, 500 “ “ A. Dreher, 450 “ “ Sté
 						Huileries et Sav. 50 barils stéarine Boa Mobiliare, 2,500 sacs oignons A.
 						Grioni, 3,102 “ “ Stern Bros., 1,000 “ “ S.G. Violara, 5,698 “ “ B.Tuis, 600
 						“ “ L. Tolentino, 1,661 “ “ Q. M. Tuis, 528 “ “ F. Oberhofer, 1,991 “ “ G.
@@ -1766,7 +3215,7 @@
 						ottoman “Costantinos” parti le 25 avril. Divers, 129 balles peaux, 18 balles
 						sacs vides 395 sacs riz, 100 sacs oignons, 100 sacs na- tron, 53 barils
 						vides. </p>
-				</div>
+				
 				<div type="item">
 					<dateline>Pour BRINDISI et TRIESTE, par le bateau autr. "Saturno", parti le 26
 						avril:</dateline>

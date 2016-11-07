@@ -456,41 +456,127 @@ injured, 4 killed, and 10 pilgrims, 6 horses,
 and 12 camels killed. Ten or twelve Bedouins
 were injured.</p></div>
 
-<div type="item"><head>KHEDIVIAL YACHT CLUB.</head> 
-<p>The following is the result of yesterday’s
-regatta.</p> 
-                  Class I.
-    Boat.       Start.  Finish. Sailed by.
-1 Tier el Mina	2.56.18	4.26 22	Capt Borg.	
-2 Coot	        2.57.06	4.27.58	A.S. Preston.	
-3 Leman	        3.05.19	4.29 05	F. de Planta.	
-  Banshee	3.07.18	4.29.17	J. McClure.
-  Jenny	        2.57.25	4.30.85	S. Dorling.	
-  Minnie	gave	up.	N.W. de Courcy.	
-  Celtic	gave	up.	Lieut. Bassett.	
-                  Class II.	
-1 Calypso	3.26.21	5.12.11	Dr. Rudolph.	
-2 Laurea	3.37.45	5.17.12	Prince Aziz.	
-3 Gumrook	3.25.36	5.19.58	Chitty Bey.	
-  Masr	    3.28.45	5.21.18	Mr. Fransis.
-  St. George3.27.08	5.23.14	Maj. Feetham.
-  Jessica	3.17.14	5.24.50	Grafton Bey.
-  Akraba	3.19.25	5.25.53	Sag. Phillips.
-  Ironie	gave	up.	Mr. Girard.
-  Tantah	gave	up.	Mr. Fenderl.
-	<p>The wind was moderate from the N. W. 
-during the greater part of the afternoon. 
-The "Minnie" unfortunately carried away her 
-bob stay and bowsprit and therefore gave up.</p> 
-	<p>The sea outside was very moderate and no
-doubt in Class II. the “Lanrea" would have 
-come in first if she had not been beset with
-a chapter of accidents, such as carrying away
-her main sheet, top mast stay, and throat 
-halyards, and eventually her topmast broke 
-off altogether. However, she carried on and
-after clearing away all the wreckage managed 
-to get second place.</p></div>
+<div type="item">
+                    <head>KHEDIVIAL YACHT CLUB.</head>
+                    <p>The following is the result of yesterday’s regatta.</p>
+                    <table rows="3" cols="4">
+                        <head>Class I.</head>
+                        <row role="label">
+                            <cell>Boat.</cell>
+                            <cell>Start.</cell>
+                            <cell>Finish.</cell>
+                            <cell>Sailed by.</cell>
+                        </row>
+                        <row>
+                            <cell>1 Tier el Mina</cell>
+                            <cell>2.56.18</cell>
+                            <cell>4.26.22</cell>
+                            <cell>Capt. Borg.</cell>
+                        </row>
+                        <row>
+                            <cell>2 Coot</cell>
+                            <cell>2.57.06</cell>
+                            <cell>4.27.58</cell>
+                            <cell>A.S. Preston.</cell>
+                        </row>
+                        <row>
+                            <cell>3 Leman</cell>
+                            <cell>3.05.19</cell>
+                            <cell>4.29.05</cell>
+                            <cell>F. de Planta.</cell>
+                        </row>
+                        <row>
+                            <cell>Banshee</cell>
+                            <cell>3.07.13</cell>
+                            <cell>4.29.17</cell>
+                            <cell>J. McClure.</cell>
+                        </row>
+                        <row>
+                            <cell>Jenny</cell>
+                            <cell>2.57.25</cell>
+                            <cell>4.30.35</cell>
+                            <cell>S. Dorling.</cell>
+                        </row>
+                        <row>
+                            <cell>Minnie</cell>
+                            <cell>gave</cell>
+                            <cell>up.</cell>
+                            <cell>N.W. de Courcy.</cell>
+                        </row>
+                        <row>
+                            <cell>Cletic</cell>
+                            <cell>gave</cell>
+                            <cell>up.</cell>
+                            <cell>Lieut. Bassett</cell>
+                        </row>
+                    </table>
+                    <table rows="8" cols="4">
+                        <head>Class II.</head>
+                        <row role="label">
+                            <cell>1 Calypso</cell>
+                            <cell>3.26.21</cell>
+                            <cell>5.12.11</cell>
+                            <cell>Dr. Rudolph.</cell>
+                        </row>
+                        <row>
+                            <cell>2 Laurea</cell>
+                            <cell>3.37.45</cell>
+                            <cell>5.17.12</cell>
+                            <cell>Prince Aziz.</cell>
+                        </row>
+                        <row>
+                            <cell>3 Gumrook</cell>
+                            <cell>3.25.36</cell>
+                            <cell>5.19.58</cell>
+                            <cell>Chitty Bey.</cell>
+                        </row>
+                        <row>
+                            <cell>Masr</cell>
+                            <cell>3.28.45</cell>
+                            <cell>5.21.18</cell>
+                            <cell>Mr. Fransis.</cell>
+                        </row>
+                        <row>
+                            <cell>St. George</cell>
+                            <cell>3.27.08</cell>
+                            <cell>5.23.14</cell>
+                            <cell>Maj. Feetham.</cell>
+                        </row>
+                        <row>
+                            <cell>Jessica</cell>
+                            <cell>3.17.14</cell>
+                            <cell>5.24.50</cell>
+                            <cell>Grafton Bey.</cell>
+                        </row>
+                        <row>
+                            <cell>Akraba</cell>
+                            <cell>3.19.25</cell>
+                            <cell>5.25.53</cell>
+                            <cell>Sag. Phillips.</cell>
+                        </row>
+                        <row>
+                            <cell>Ironie</cell>
+                            <cell>gave</cell>
+                            <cell>up.</cell>
+                            <cell>Mr. Girard.</cell>
+                        </row>
+                        <row>
+                            <cell>Tantah</cell>
+                            <cell>gave</cell>
+                            <cell>up.</cell>
+                            <cell>Mr. Fenderl.</cell>
+                        </row>
+                    </table>
+                    <p>The wind was moderate from the N. W. during the greater part of the
+                        afternoon. The "Minnie" unfortunately carried away her bob stay and bowsprit
+                        and therefore gave up.</p>
+                    <p>The sea outside was very moderate and no doubt in Class II. the “Lanrea"
+                        would have come in first if she had not been beset with a chapter of
+                        accidents, such as carrying away her main sheet, top mast stay, and throat
+                        halyards, and eventually her topmast broke off altogether. However, she
+                        carried on and after clearing away all the wreckage managed to get second
+                        place.</p>
+                </div>
 
 <div type="item"><head>MOHAMED ALY MEMORIAL.
 THE MADHOUSE SCHEME.</head>
