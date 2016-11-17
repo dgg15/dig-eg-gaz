@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
-?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -144,8 +143,7 @@
 
 					<div type="item">
 						<dateline>Paris, May 1.</dateline>
-						<p>The King of England and <persName
-								ref="https://www.wikidata.org/wiki/Q169502">M. Loubet</persName>
+						<p>The King of England and <persName ref="https://www.wikidata.org/wiki/Q169502">M. Loubet</persName>
 							have exchanged the most cordial visits this after- noon. Crowds, who
 							were waiting patiently under the rain, cheered the King with remark-
 							able fervour. M. Delcasse called on his Majesty, with whom he had an
@@ -1327,8 +1325,7 @@
 							</row>
 						</table>Marché ferme</p>
 					<p>Arrivages du 30 avril, ler mai et de ce jour, à Minet-el-Bassal, cantars 32,184</p>
-					<p>(Cours pratiqués ce jour à la Bourse Khédi- viale à 12h.45 p.m.)<table
-							rows="4" cols="5">
+					<p>(Cours pratiqués ce jour à la Bourse Khédi- viale à 12h.45 p.m.)<table rows="4" cols="5">
 							<row>
 								<cell>Tal.</cell>
 								<cell>13</cell>
@@ -2840,8 +2837,7 @@
 
 				<div type="item">
 					<head>Cheap Prepaid Advertisements.</head>
-					<p>Under this heading advertisements are in- serted at the following rates :— <table rows="3"
-							cols="7">
+					<p>Under this heading advertisements are in- serted at the following rates :— <table rows="3" cols="7">
 							<row role="label">
 								<cell/>
 								<cell>Once</cell>
@@ -3189,107 +3185,944 @@
 								<cell>bags cotton seed</cell>
 							</row></table></p></div>
 						
-						<div type="item"></div><dateline>Pour TRIESTE, par le bateau autr.
+						<div type="item"><dateline>Pour TRIESTE, par le bateau autr.
 						"Vesta”, parti le 21 avril: </dateline>
-					<p>B. Barki, 30 balles coton J. C. Baines &amp; Co., 32 “ “ Carver Bros. &amp;
-						Co., 31 “ “ 93 balles coton R Almsay &amp; Co., 326 barils vides Eredi
-						Albertini, 400 “ “ Dèpôt Bière de Graz, 500 “ “ A. Dreher, 450 “ “ Sté
-						Huileries et Sav. 50 barils stéarine Boa Mobiliare, 2,500 sacs oignons A.
-						Grioni, 3,102 “ “ Stern Bros., 1,000 “ “ S.G. Violara, 5,698 “ “ B.Tuis, 600
-						“ “ L. Tolentino, 1,661 “ “ Q. M. Tuis, 528 “ “ F. Oberhofer, 1,991 “ “ G.
-						D. Kaniskeri, 999 “ “ Fili Facchini, 908 “ “ C. Parissis, 997 “ “ Pour
-						BRINDISI et TRIESTE, par le bateau autrichien "Cleopatra" parti le 33 avril:
-						G. Riecken, 30 balles coton Peel &amp; Co., 67 “ “ J. Planta &amp; Ca. 107 “
-						“ F. 0. Baines &amp; Co., 32 “ “ F. Andres, 32 “ “ Carver Bros. &amp; Co.
-						Ld., 236 “ “ G. Frauger &amp; C., 62 “ “ Choremi Benachi &amp; Co. 33 “ “ B.
-						Barki, 70 “ “ Mohr &amp; Fenderl, 93 “ “ R. &amp; 0. Lindermann, 240 “ “
-						Schmid &amp; Co., 31 “ “ 1038 balles coton H. A. Deghem, 2,000 sacs oignons
-						L. Tolentino, 2,994 “ “ Bca. Mobiliare, 8,980 “ “ Griva fr., 4,000 “ “ Coen
-						&amp; Co., 600 “ “ A. Hess &amp; Co., 1,500 “ “ G. D. Kaniskeri, 3,500 “ “
-						Stern Bros., 1,000 “ “ G. Brach &amp; Co., 1,000 “ “ Bca. Anglo Austriaca,
-						3,000 “ “ A. Grioni, 2,997 “ “ Dimitrino &amp; Co., 16 cais. cigarettes G.
-						Brach &amp; Co., 6 balles cire “ “ 56 “ gomme M. L. Carasso 10 “ “ Lloyd, 10
-						cais. sucre Khedivial Mail 100 cais. oeufs R. Delia, 48 cages tomates
-						Kyriazi fr., 9 cais. cigarettes F. Iglich, 46 cages tomates A. Frick, 7
-						barils poisson frais Divers, 45 colis divers. Pour TREBIZONDE, par le bateau
-						ottoman “Costantinos” parti le 25 avril. Divers, 129 balles peaux, 18 balles
-						sacs vides 395 sacs riz, 100 sacs oignons, 100 sacs na- tron, 53 barils
-						vides. </p>
-				
+					<p><table rows="10" cols="5">
+							<row>
+								<cell>B. Barki,</cell>
+								<cell>30 </cell>
+								<cell>balles</cell>
+								<cell>coton</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>J.C. Baines &amp; Co.,</cell>
+								<cell>32</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Carver Bros. &amp; Co.,</cell>
+								<cell>31</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>93</cell>
+								<cell>balles</cell>
+								<cell>coton</cell>
+							</row>
+							<row>
+								<cell>E. Almasy &amp; Co.,</cell>
+								<cell>326</cell>
+								<cell>barils</cell>
+								<cell>vides</cell>
+							</row>
+							<row>
+								<cell>Ereedi Albertini,</cell>
+								<cell>400</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Dépot Bière de Graz,</cell>
+								<cell>500</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>A. Dreher,</cell>
+								<cell>450</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Sté Huileries et Sav.</cell>
+								<cell>50</cell>
+								<cell>barils</cell>
+								<cell>stéarine</cell>
+							</row>
+							<row>
+								<cell>Bca Mobiliare,</cell>
+								<cell>2,500</cell>
+								<cell>sacs</cell>
+								<cell>oignons</cell>
+							</row>
+							<row>
+								<cell>A. Grioni,</cell>
+								<cell>3,102</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Stern Bros.,</cell>
+								<cell>1,000</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>S.G. Violara,</cell>
+								<cell>5,698</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>B. Tuis,</cell>
+								<cell>600</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>L. Tolentino</cell>
+								<cell>1,661</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>G.M. Tuis,</cell>
+								<cell>528</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>F. Oberhofer,</cell>
+								<cell>1,991</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>G.D. Kaniskeri,</cell>
+								<cell>999</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Flli Facchini,</cell>
+								<cell>908</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>C. Parissis,</cell>
+								<cell>997</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+						</table> Pour BRINDISI et TRIESTE, par le bateau autrichien "Cleopatra"
+						parti le 22 avril:</p>
+					<p>
+						<table rows="9" cols="4">
+							<row>
+								<cell>G. Riecken,</cell>
+								<cell>30</cell>
+								<cell>balles</cell>
+								<cell>coton</cell>
+							</row>
+							<row>
+								<cell>Peel &amp; Co.,</cell>
+								<cell>67</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>J. Planta &amp; Co.,</cell>
+								<cell>107</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>F.C. Baines &amp; Co.,</cell>
+								<cell>32</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>F. Andres,</cell>
+								<cell>32</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Carver Bros. &amp; Co. Ld.,</cell>
+								<cell>236</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>G. Frauger &amp; C.,</cell>
+								<cell>62</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Choremi Benachi &amp; Co.,</cell>
+								<cell>33</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>B. Barki,</cell>
+								<cell>70</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Mohr &amp; Fenderl,</cell>
+								<cell>93</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>R. &amp; O. Lindermann,</cell>
+								<cell>240</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Schmid &amp; Co.,</cell>
+								<cell>31</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>1033</cell>
+								<cell>balles</cell>
+								<cell>coton</cell>
+							</row>
+							<row>
+								<cell>H.A. Deghem,</cell>
+								<cell>2,000</cell>
+								<cell>sacs </cell>
+								<cell>oignons</cell>
+							</row>
+							<row>
+								<cell>L. Tolentino,</cell>
+								<cell>2,994</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Bca Mobiliare,</cell>
+								<cell>3,980</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>A. Grioni,</cell>
+								<cell>2,997</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Dimitrino &amp; Co.,</cell>
+								<cell>16</cell>
+								<cell>cais.</cell>
+								<cell>cigarettes</cell>
+							</row>
+							<row>
+								<cell>G. Brach &amp; Co.,</cell>
+								<cell>6</cell>
+								<cell>balles</cell>
+								<cell>cire</cell>
+							</row>
+							<row>
+								<cell>" "</cell>
+								<cell>56</cell>
+								<cell>"</cell>
+								<cell>gomme</cell>
+							</row>
+							<row>
+								<cell>M.L. Carasso</cell>
+								<cell>10</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Lloyd, </cell>
+								<cell>10</cell>
+								<cell>cais.</cell>
+								<cell>sucre</cell>
+							</row>
+							<row>
+								<cell>Khedivial Mail,</cell>
+								<cell>100</cell>
+								<cell>cais.</cell>
+								<cell>œufs</cell>
+							</row>
+							<row>
+								<cell>R. Delia,</cell>
+								<cell>48</cell>
+								<cell>cages</cell>
+								<cell>tomates</cell>
+							</row>
+							<row>
+								<cell>Kyriazi fr.,</cell>
+								<cell>9</cell>
+								<cell>cais.</cell>
+								<cell>cigarettes</cell>
+							</row>
+							<row>
+								<cell>F. Iglich,</cell>
+								<cell>46</cell>
+								<cell>cages</cell>
+								<cell>tomates</cell>
+							</row>
+							<row>
+								<cell>A. Frick,</cell>
+								<cell>7</cell>
+								<cell>barils</cell>
+								<cell>poisson frais</cell>
+							</row>
+							<row>
+								<cell>Divers,</cell>
+								<cell>45</cell>
+								<cell>colis</cell>
+								<cell>divers</cell>
+							</row>
+						</table>
+					</p>
+					<p>Pour TREBIZONDE, par le bateau ottoman “Costantinos” parti le 25 avril. </p>
+					<p>Divers, 129 balles peaux, 18 balles sacs vides 395 sacs riz, 100 sacs
+						oignons, 100 sacs natron, 53 barils vides. </p>
+				</div>
 				<div type="item">
 					<dateline>Pour BRINDISI et TRIESTE, par le bateau autr. "Saturno", parti le 26
 						avril:</dateline>
 
-					<p>R. &amp; 0. Lindemann, 153 balles coton Peel &amp; Co., 160 “ “ Mohr &amp;
-						Fenderl, 32 “ “ Choremi, Benachi &amp; Co., 61 “ “ J. Planta &amp; Co., 92 “
-						“ 498 balles coton D.C. Mitzis, 26 balles peaux A. &amp; G. Monferrato, 220
-						barils vides E. Almasy &amp; Co., 217 “ “ Stamatis Bollas, 8 balles peaux P.
-						M. Statirà, 15 balles peaux E. Tourchoudjan, 15 balles peausserie Dépôt
-						Bière de Graz, 500 barils vides A. Dreher, 800 “ “ Ere i Albertini, 400 “ “
-						Flli Facchini, 980 sacs oignons S. G. Violara, 3,200 “ “ G. D. Kaniskeri,
-						1,000 “ “ B. Tuis, 965 “ “ Banca Mobiliare, 2,500 “ “ G. Fraccola, 1,000 “ “
-						A Grioni, 1,000 “ “ L. Tolentino 584 “ “</p>
+					<p>
+						<table rows="5" cols="4">
+							<row>
+								<cell>R. &amp; O. Lindemann,</cell>
+								<cell>153</cell>
+								<cell>balles </cell>
+								<cell>coton</cell>
+							</row>
+							<row>
+								<cell>Peel &amp; Co.,</cell>
+								<cell>160</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Mohr &amp; Fenderl,</cell>
+								<cell>32</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Ohoremi, Benachi &amp; Co.,</cell>
+								<cell>61</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>J. Planta &amp; Co.,</cell>
+								<cell>92</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>498</cell>
+								<cell>balles</cell>
+								<cell>coton</cell>
+							</row>
+							<row>
+								<cell>D. C. Mitzis,</cell>
+								<cell>26</cell>
+								<cell>balles </cell>
+								<cell>peaux</cell>
+							</row>
+							<row>
+								<cell>A. &amp; G. Monferrato,</cell>
+								<cell>220</cell>
+								<cell>barils</cell>
+								<cell>vides</cell>
+							</row>
+							<row>
+								<cell>E. Almasy &amp; Co.,</cell>
+								<cell>227</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Stamatis Bollas,</cell>
+								<cell>8</cell>
+								<cell>balles</cell>
+								<cell>peaux</cell>
+							</row>
+							<row>
+								<cell>P. M. Statirà,</cell>
+								<cell>15</cell>
+								<cell>ballles</cell>
+								<cell>peaux</cell>
+							</row>
+							<row>
+								<cell>E. Tourchoudjan,</cell>
+								<cell>15</cell>
+								<cell>balles</cell>
+								<cell>peausserie</cell>
+							</row>
+							<row>
+								<cell>Dépôt Bière de Graz,</cell>
+								<cell>500</cell>
+								<cell>barils</cell>
+								<cell>vides</cell>
+							</row>
+							<row>
+								<cell>A. Dreher,</cell>
+								<cell>300</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Ereli Albertini,</cell>
+								<cell>400</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Flli Facchini,</cell>
+								<cell>980</cell>
+								<cell>sacs </cell>
+								<cell>oignons</cell>
+							</row>
+							<row>
+								<cell>S. G. Violara,</cell>
+								<cell>3,200</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>G. D. Kaniskeri,</cell>
+								<cell>1,000</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>R. Tuis,</cell>
+								<cell>965</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>Banca Mobiliare,</cell>
+								<cell>2,500</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>G. Fraccola,</cell>
+								<cell>1,000</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>A. Grioni,</cell>
+								<cell>1,000</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+							<row>
+								<cell>L. Tolentino,</cell>
+								<cell>584</cell>
+								<cell>"</cell>
+								<cell>"</cell>
+							</row>
+						</table>
+					</p>
 				</div>
 
 
 				<div type="item">
 					<head>REUTER’S TELEGRAMS CLOSING REPORTS</head>
 
-					<p>Liverpool, April 29, 12.45 p.m. Sales of the day bales 7,000 of which
-						Egyptian “ 300 American (new crop) Maize Spot per cental 4/2 Amer. futures
-						(May-June) 4.05 “ “ (Sept-Oct.) 4.12 American Middling 4.20 Egypt, fully
-						good fair, delivery(May) 6 34/64 “ “ “ “ “ (June)6 32/64 “ “ “ “ “ (July)6
-						27/64 “ “ “ “ “ (Nov.)6 14/64 Egypt Brown fair per lb. d. 5 11/16 “ “ good
-						fair 6 8/16 “ “ good 7 4/16 “ fully good fair 6 12/16 Egyptian Saidi Beans
-						new (per 480 lbs.) 27/9 Cotton Weekly total sales bales 42,000 “ On
-						speculation ........ “ 2,000 “ For export ............ “ 2,500 “ Forwarded
-						to consumers “ 90,000 “ Total Import........ “ 110,000 “ Actual export “
-						5,000 “ “ Stock............ “ 820,000 “ East India afloat....... “ 5,000 “
-						American afloat....... “ 220,000 Egyptian Cotton On speculation “ 150 “ “
-						Weekly sales “ 2,600 “ “ Stock “ 56,000 “ “ Forwarded to consumers “ 7,500 “
-						“ Actual Export “ 1,800 “ “ Import “ 12,000</p>
+					<p>Liverpool, April 29, 12.45 p.m. </p>
+					<p>
+						<table rows="15" cols="3">
+							<row>
+								<cell>Sales of the day</cell>
+								<cell>bales</cell>
+								<cell>7,000</cell>
+							</row>
+							<row>
+								<cell> of which Egyptian</cell>
+								<cell>"</cell>
+								<cell>300</cell>
+							</row>
+							<row>
+								<cell>American (new crop) Maize Spot per cental</cell>
+								<cell>...</cell>
+								<cell>4/2</cell>
+							</row>
+							<row>
+								<cell>Amer. futures</cell>
+								<cell>(May-June)</cell>
+								<cell>4.05</cell>
+							</row>
+							<row>
+								<cell>" "</cell>
+								<cell>(Sept.-Oct.)</cell>
+								<cell>4.12</cell>
+							</row>
+							<row>
+								<cell>American Middling</cell>
+								<cell>...</cell>
+								<cell>4.20</cell>
+							</row>
+							<row>
+								<cell>Egypt. fully good fair, delivery</cell>
+								<cell>(May)</cell>
+								<cell>6 34/64</cell>
+							</row>
+							<row>
+								<cell>"       "         "         "        "</cell>
+								<cell>(June)</cell>
+								<cell>6 32/64</cell>
+							</row>
+							<row>
+								<cell>"       "        "         "       "</cell>
+								<cell>(July)</cell>
+								<cell>6 27/64</cell>
+							</row>
+							<row>
+								<cell>"       "        "        "       "</cell>
+								<cell>(Nov.)</cell>
+								<cell>6 14/64</cell>
+							</row>
+							<row>
+								<cell>Egypt. Brown fair per lb. d.</cell>
+								<cell>...</cell>
+								<cell>5 11/16</cell>
+							</row>
+							<row>
+								<cell>"          "    good fair</cell>
+								<cell>...</cell>
+								<cell>6 8/16</cell>
+							</row>
+							<row>
+								<cell>"         "         good</cell>
+								<cell>...</cell>
+								<cell>7 4/16</cell>
+							</row>
+							<row>
+								<cell>"    fully good fair</cell>
+								<cell>...</cell>
+								<cell>6 12/16</cell>
+							</row>
+							<row>
+								<cell>Egyptian Saïdi Beans new </cell>
+								<cell>(per 480 lbs.)</cell>
+								<cell>27/9</cell>
+							</row>
+							<row>
+								<cell>Cotton Weekly total sales</cell>
+								<cell>bales</cell>
+								<cell>42,000</cell>
+							</row>
+							<row>
+								<cell>"     On speculation</cell>
+								<cell>"</cell>
+								<cell>2,000</cell>
+							</row>
+							<row>
+								<cell>"           For export</cell>
+								<cell>"</cell>
+								<cell>2,500</cell>
+							</row>
+							<row>
+								<cell>"    Forwarded to consumers</cell>
+								<cell>"</cell>
+								<cell>90,000</cell>
+							</row>
+							<row>
+								<cell>"      Total Import</cell>
+								<cell>"</cell>
+								<cell>110,00</cell>
+							</row>
+							<row>
+								<cell>"   Actual export</cell>
+								<cell>"</cell>
+								<cell>5,000</cell>
+							</row>
+							<row>
+								<cell>"                Stock</cell>
+								<cell>"</cell>
+								<cell>820,000</cell>
+							</row>
+							<row>
+								<cell>" East India afloat</cell>
+								<cell>"</cell>
+								<cell>5,000</cell>
+							</row>
+							<row>
+								<cell>" American afloat</cell>
+								<cell>"</cell>
+								<cell>220,000</cell>
+							</row>
+							<row>
+								<cell>Egyptian Cotton On speculation</cell>
+								<cell>"</cell>
+								<cell>150</cell>
+							</row>
+							<row>
+								<cell>"         "      Weekly Sales</cell>
+								<cell>"</cell>
+								<cell>2,600</cell>
+							</row>
+							<row>
+								<cell>"        "                  Stock</cell>
+								<cell>"</cell>
+								<cell>56,000</cell>
+							</row>
+							<row>
+								<cell>                "        "      Forwarded to consumers</cell>
+								<cell>"</cell>
+								<cell>7,500</cell>
+							</row>
+							<row>
+								<cell>"         "     Actual Export</cell>
+								<cell>"</cell>
+								<cell>1,800</cell>
+							</row>
+							<row>
+								<cell>"         "                Import</cell>
+								<cell>"</cell>
+								<cell>12,000</cell>
+							</row>
+						</table>
+					</p>
 				</div>
 
 				<div type="item">
 					<dateline>New-York, April 29.</dateline>
-					<p>Spot Cotton..................... 7.85 American Futures (May).............
-						7.48 “ “ (June)...... 7.88 “ “ (September).... 7.53 Cable transfers .......
-						...dol. 4.86 3/4 Cotton day’s receipts at all U.S. Ports bales 28,000
-						Liverpool, April 29. American futures (May-June) ........ 4.05 London, April
-						29. Private discount (8 month bills) ... 2 1/4 % Bar Silver (per oz d.)...
-						....... 26 7/16 Consols (May) ...................... 90 1/4 Rio
-						Tinto.......... ... ........ 61 7/8 Rand Mines New .......... ... ... 10 5/8
-						Egyptian Unified ............ 106 3/4 “ Railway ... ......... 101 1/2 “
-						Domain..................... 105 — Ottoman Defence .............. 102 1/2
-						Turkish Unified.............. 87 1/4 Italian Rents 4 % ................ 104
-						3/4 Ottoman Bank........ .............. 14 — National Bank of
-						Egypt............. 27 1/4 Daira Sanieh ... ............ 100 1/2 New
-						Daira........................... 28 5/8 Greek Monopole............... ... 51
-						— Greek Rent 4 % ... ... ....... 33 3/4 Chartereds of S. Africa ........., 1
-						15/16 Agricultural Bank ................ 13 3/8 Nile Valley Gold Mine ...
-						New ... 2 1/4 New Egyptians .......... ... 1 5/8 Delta Light (Bearer shares)
-						- - Egypt cot seed to Hull (Apr ) 5 7/16 buyers German Beet Sugar (April)
-						... 12/10 3/4 Paris, April 29. Lots Turcs.. ... . ... ... . 135 — Crédit
-						Lyonnais ........' ....... 1123 — Ottoman Bank................. ... 604 —
-						Cheques on London....... ... 25.13 1/2 Sugar White Na 8 (April) ... . 37 —
-						Crédit Foncier Egyptien.......... 825 — Banque d'Athènes (nouvelleusance)
-						118 —</p>
+					<p>
+						<table rows="6" cols="3">
+							<row>
+								<cell>Spot Cotton</cell>
+								<cell>...</cell>
+								<cell>7.85</cell>
+							</row>
+							<row>
+								<cell>American Futures</cell>
+								<cell>(May)</cell>
+								<cell>7.48</cell>
+							</row>
+							<row>
+								<cell>" "</cell>
+								<cell>(June)</cell>
+								<cell>7.33</cell>
+							</row>
+							<row>
+								<cell>" "</cell>
+								<cell>(September)</cell>
+								<cell>7.53</cell>
+							</row>
+							<row>
+								<cell>" "</cell>
+								<cell>(October)</cell>
+								<cell>7.57</cell>
+							</row>
+							<row>
+								<cell>Cable transfers</cell>
+								<cell>dol.</cell>
+								<cell>4.86 3/4</cell>
+							</row>
+							<row>
+								<cell>Cotton day's receipts at all U.S. Ports</cell>
+								<cell>bales</cell>
+								<cell>28,000</cell>
+							</row>
+						</table>
+					</p>
+					<p>Liverpool, April 29. </p>
+					<p>
+						<table rows="0" cols="3">
+							<row>
+								<cell>American futures</cell>
+								<cell>(May-June)</cell>
+								<cell>4.05</cell>
+							</row>
+						</table>
+					</p>
+					<p>London, April 29. </p>
+					<p>
+						<table rows="12" cols="3">
+							<row>
+								<cell>Private discount (3 month bills)</cell>
+								<cell>...</cell>
+								<cell>2 1/4%</cell>
+							</row>
+							<row>
+								<cell>Bar Silver (per oz. d.)</cell>
+								<cell>...</cell>
+								<cell>26 7/16</cell>
+							</row>
+							<row>
+								<cell>Consols (May)</cell>
+								<cell>...</cell>
+								<cell>90 1/4</cell>
+							</row>
+							<row>
+								<cell>Rio Tinto</cell>
+								<cell>...</cell>
+								<cell>61 7/8</cell>
+							</row>
+							<row>
+								<cell>Rand Mines New</cell>
+								<cell>...</cell>
+								<cell>10 5/8</cell>
+							</row>
+							<row>
+								<cell>Egyptian Unified</cell>
+								<cell>...</cell>
+								<cell>106 3/4</cell>
+							</row>
+							<row>
+								<cell>         "       Railway</cell>
+								<cell>...</cell>
+								<cell>101 1/2</cell>
+							</row>
+							<row>
+								<cell>         "       Domain</cell>
+								<cell>...</cell>
+								<cell>105 –</cell>
+							</row>
+							<row>
+								<cell>Ottoman Defence</cell>
+								<cell>...</cell>
+								<cell>102 1/2</cell>
+							</row>
+							<row>
+								<cell>Turkish Unified</cell>
+								<cell>...</cell>
+								<cell>87 1/4</cell>
+							</row>
+							<row>
+								<cell>Italian Rents 4%</cell>
+								<cell>...</cell>
+								<cell>104 3/4</cell>
+							</row>
+							<row>
+								<cell>Ottoman Bank</cell>
+								<cell>...</cell>
+								<cell>14 – </cell>
+							</row>
+							<row>
+								<cell>National Bank of Egypt</cell>
+								<cell>...</cell>
+								<cell>27 1/4</cell>
+							</row>
+							<row>
+								<cell>Daira Sanieh</cell>
+								<cell>...</cell>
+								<cell>100 1/2</cell>
+							</row>
+							<row>
+								<cell>New Daira</cell>
+								<cell>...</cell>
+								<cell>28 5/8</cell>
+							</row>
+							<row>
+								<cell>Greek Monopole</cell>
+								<cell>...</cell>
+								<cell>51 – </cell>
+							</row>
+							<row>
+								<cell>Greek Rent 4 %</cell>
+								<cell>...</cell>
+								<cell>38 3/4</cell>
+							</row>
+							<row>
+								<cell>Chartered of S. Africa</cell>
+								<cell>...</cell>
+								<cell>1 15/16</cell>
+							</row>
+							<row>
+								<cell>Agricultural Bank</cell>
+								<cell>...</cell>
+								<cell>13 3/8</cell>
+							</row>
+							<row>
+								<cell>Nile Valley Gold Mine</cell>
+								<cell>New</cell>
+								<cell>2 1/4</cell>
+							</row>
+							<row>
+								<cell>New Egyptians</cell>
+								<cell>...</cell>
+								<cell>1 5/8</cell>
+							</row>
+							<row>
+								<cell>Delta Light (Bearer shares)</cell>
+								<cell>...</cell>
+								<cell>– – </cell>
+							</row>
+							<row>
+								<cell>Egypt. cot. seed to Hull (Apr)</cell>
+								<cell>5 7/16</cell>
+								<cell>buyers</cell>
+							</row>
+							<row>
+								<cell>German Beet Sugar (April)</cell>
+								<cell>...</cell>
+								<cell>12/10 3/4</cell>
+							</row>
+						</table>
+					</p>
+					<p>Paris, April 29. </p>
+					<p>
+						<table rows="7" cols="3">
+							<row>
+								<cell>Lots Turcs</cell>
+								<cell>...</cell>
+								<cell>135 –</cell>
+							</row>
+							<row>
+								<cell>Crédit Lyonnais</cell>
+								<cell>...</cell>
+								<cell>1123 – </cell>
+							</row>
+							<row>
+								<cell>Ottoman Bank</cell>
+								<cell>...</cell>
+								<cell>604 – </cell>
+							</row>
+							<row>
+								<cell>Cheques on London</cell>
+								<cell>...</cell>
+								<cell>2513 1/2</cell>
+							</row>
+							<row>
+								<cell>Sugar White No. 3 (April)</cell>
+								<cell>...</cell>
+								<cell>37 – </cell>
+							</row>
+							<row>
+								<cell>Crédit Foncier Egyptien</cell>
+								<cell>...</cell>
+								<cell>825 – </cell>
+							</row>
+							<row>
+								<cell>Banque d'Athènes (nouvelleusance)</cell>
+								<cell/>
+								<cell>118 – </cell>
+							</row>
+						</table>
+					</p>
 				</div>
 
 				<div type="item">
-					<head>TELEGRAMME HAVAS BOURSE du 29 avril 1905 COURS DES VALEURS A TERME,
-						CLOTURE</head>
+					<head>TELEGRAMME HAVAS</head> 
+						<dateline>BOURSE du 29 avril 1905 COURS DES VALEURS A TERME,
+						CLOTURE</dateline>
 
-					<head>PARIS</head>
-					<p>Rente Francaise 3 %........ Fr. 99 05 Actions deSnex.............. “ 4350 —
-						Lots Tnros.................. “ 135 — Tnro Unifid.......... ” 88 77 Dette
-						Egyptienne Unifiée.. “ 108 45 Daïra Sanieh ............ “ 100 80 Crédit
-						Foncier Egyptien ” 825 — Extérieur espagnol.......... “ 90 35 Obl. Banqnue
-						Nat. de Grèce “ - - Banque d'Athènes, nouvelles actions................... “
-						119 — Métropolitain “ - — Russe consolidé “ 86 70 Sosnowice “ - - Change sur
-						Londres ” 25 13 1/2 Sucre No 3 disponible ..... “ - - Sucre No 3 livrable le
-						4 de mars LONDRES Consolidés anglais.......... £ 90 1/4 Escomptes—Paris 3,
-						Londres 2 1/2, Berlin 3.</p>
+					<p>PARIS </p>
+					<p>
+						<table rows="16" cols="4">
+							<row>
+								<cell>Rente Française 3%</cell>
+								<cell>Fr.</cell>
+								<cell>99</cell>
+								<cell>05</cell>
+							</row>
+							<row>
+								<cell>Actions de Suez</cell>
+								<cell>"</cell>
+								<cell>4350</cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Lots Turcs</cell>
+								<cell>"</cell>
+								<cell>135</cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Turc Unifé</cell>
+								<cell>"</cell>
+								<cell>88</cell>
+								<cell>77</cell>
+							</row>
+							<row>
+								<cell>Dette Egyptienne Unifée</cell>
+								<cell>"</cell>
+								<cell>108</cell>
+								<cell>45</cell>
+							</row>
+							<row>
+								<cell>Daïra Sanieh</cell>
+								<cell>"</cell>
+								<cell>100</cell>
+								<cell>80</cell>
+							</row>
+							<row>
+								<cell>Crédit Foncier Egyptien</cell>
+								<cell>"</cell>
+								<cell>825</cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Extérieur espagnol</cell>
+								<cell>"</cell>
+								<cell>90</cell>
+								<cell>35</cell>
+							</row>
+							<row>
+								<cell>Obl. Banque Nat. de Grèce</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Banque d'Athènes, nouvelles actions</cell>
+								<cell>"</cell>
+								<cell>119</cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Métropolitan</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Russe Consolidé</cell>
+								<cell>"</cell>
+								<cell>86</cell>
+								<cell>70</cell>
+							</row>
+							<row>
+								<cell>Sosnowice</cell>
+								<cell>"</cell>
+								<cell>–</cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Change sur Londres</cell>
+								<cell>"</cell>
+								<cell>25</cell>
+								<cell>13 1/2</cell>
+							</row>
+							<row>
+								<cell>Sucre No. 3 disponible</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+							<row>
+								<cell>Sucre No. 3 livrable le 4 de mars</cell>
+								<cell>"</cell>
+								<cell>– </cell>
+								<cell>– </cell>
+							</row>
+						</table>
+					</p>
+					<p>LONDRES </p>
+					<p>Consolidés anglais .…  .…  ….   £ 90 ¼.</p>
+					<p> Escomptes—Paris 3, Londres 2 1/2, Berlin 3.</p>
 				</div>
 
 
